@@ -58,7 +58,7 @@
             style="overflow-y: Scroll"
           >
             <v-list flat>
-              <v-list-item-group v-model="model" color="indigo">
+              <v-list-item-group  color="indigo">
                 <template v-for="(each, index) in $store.state.data.news">
                   <v-list-item href="/events/networking">
                     <v-list-item-content>
