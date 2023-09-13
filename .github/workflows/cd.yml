@@ -34,8 +34,10 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
 
-      - name: Checkout gh-pages
-        run: git checkout gh-pages
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages 
 
       - name: Create 404 page
         run: |
