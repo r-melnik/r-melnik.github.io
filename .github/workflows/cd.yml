@@ -35,7 +35,7 @@ jobs:
           publish_dir: ./dist
 
       - name: Checkout gh-pages
-        uses: git checkout gh-pages
+        run: git checkout gh-pages
 
       - name: Create 404 page
         run: |
