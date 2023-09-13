@@ -2,7 +2,7 @@
     {
         "id": 76,
         "text": "benny",
-        "link": "http://m3ai.wlu.ca/images/group-benny.jpg",
+        "link": "/images/group-benny.jpg",
         "description": "<p><em style=\"color: rgb(0, 0, 0);\">Benny at his fellowship award at M.I.T.&nbsp;After his postdoc in Sweden, he returned to Denmark as Assistant Professor</em></p>",
         "type": "team"
     },
@@ -11,28 +11,28 @@
         "description": "<p><em style=\"color: rgb(0, 0, 0);\">Ying has completed her PhD at Technical University of Darmstadt in Germany</em></p>",
         "type": "team",
         "text": "ying",
-        "link": "http://m3ai.wlu.ca/images/group-ying.jpg"
+        "link": "/images/group-ying.jpg"
     },
     {
         "id": 11,
         "description": "<p><em style=\"color: rgb(0, 0, 0);\">Zhuang has completed her PhD at the University of Aalborg in Denmark</em></p>",
         "type": "team",
         "text": "zhuang",
-        "link": "http://m3ai.wlu.ca/images/group-zhuang.jpg"
+        "link": "/images/group-zhuang.jpg"
     },
     {
         "id": 9,
         "description": "<p><span style=\"color: rgb(0, 0, 0);\">Harish completed his PhD&nbsp;at the University of Liege in Belgium</span></p>",
         "type": "team",
         "text": "harish",
-        "link": "http://m3ai.wlu.ca/images/group-harish.jpg"
+        "link": "/images/group-harish.jpg"
     },
     {
         "id": 8,
         "description": "<p>Before moving to North America, Prof. Roderick Melnik was the Head of the Mathematical Modelling and Engineering Mathematics Group at Syddansk University (SDU), Denmark. On the photo below you see some of the members of the group during the graduation ceremony in one of the oldest castles in Denmark,&nbsp;the Sonderborg Castle. Dr Melnik&nbsp;continues to be associated with SDU.</p>",
         "type": "team",
         "text": "group-rod-sonderborg",
-        "link": "http://m3ai.wlu.ca/images/group-rod-sonderborg.jpg"
+        "link": "/images/group-rod-sonderborg.jpg"
     },
     {
         "id": 7,
@@ -41,7 +41,7 @@
         "updated_at": "2020-10-05T23:59:39.927Z",
         "type": "team",
         "text": "Di",
-        "link": "http://m3ai.wlu.ca/images/group-di.jpg"
+        "link": "/images/group-di.jpg"
     },
     {
         "id": 6,
@@ -50,63 +50,63 @@
         "updated_at": "2020-10-05T23:59:44.520Z",
         "type": "team",
         "text": "jack",
-        "link": "http://m3ai.wlu.ca/images/group-jack.jpg"
+        "link": "/images/group-jack.jpg"
     },
     {
         "id": 5,
         "description": "<p><em>Dr Roderick Melnik &amp; Dr Roy Mahapatra</em></p>",
         "type": "team",
         "text": "roderick-roy",
-        "link": "http://m3ai.wlu.ca/images/group-roy-roderick.jpg"
+        "link": "/images/group-roy-roderick.jpg"
     },
     {
         "id": 4,
         "description": "<p><em>Dr Bin Wen</em></p>",
         "type": "team",
         "text": "Bin",
-        "link": "http://m3ai.wlu.ca/images/group-bin.jpg"
+        "link": "/images/group-bin.jpg"
     },
     {
         "id": 3,
         "description": "<p><em>Dr Sunil Patil</em></p>",
         "type": "team",
         "text": "Sunil",
-        "link": "http://m3ai.wlu.ca/images/group-sunil.jpg"
+        "link": "/images/group-sunil.jpg"
     },
     {
         "id": 1,
         "description": "<p><em>Dr Mehrdad Bahrami-Samani</em></p>",
         "type": "team",
         "text": "mehrdad",
-        "link": "http://m3ai.wlu.ca/images/group-mehrdad.jpg"
+        "link": "/images/group-mehrdad.jpg"
     },
     {
         "id": 17,
         "description": "<p><em>Dr. Jevgenijs Kaupuzs</em></p>",
         "type": "team",
         "text": "Jevgenijs-Kaupuzs",
-        "link": "http://m3ai.wlu.ca/upload/gallery/Jevgenijs-Kaupuzs.jpg"
+        "link": "/upload/gallery/Jevgenijs-Kaupuzs.jpg"
     },
     {
         "id": 20,
         "description": "<p><em>Shyam Badu</em></p>",
         "type": "team",
         "text": "Shyam-Badu",
-        "link": "http://m3ai.wlu.ca/upload/gallery/Shyam-Badu.jpg"
+        "link": "/upload/gallery/Shyam-Badu.jpg"
     },
     {
         "id": 19,
         "description": "<p><em>Rakesh Dhote</em></p>",
         "type": "team",
         "text": "Rakesh-Dhote.png",
-        "link": "http://m3ai.wlu.ca/upload/gallery/Rakesh-Dhote.png"
+        "link": "/upload/gallery/Rakesh-Dhote.png"
     },
     {
         "id": 21,
         "description": "<p><em>Dan Wang</em></p>",
         "type": "team",
         "text": "Dan_Wang122.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/Dan_Wang122.jpg"
+        "link": "/upload/gallery/Dan_Wang122.jpg"
     },
     {
         "id": 80,
@@ -195,55 +195,55 @@
     {
         "id": 108,
         "text": "IMG_0058.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/IMG_0058.jpg",
+        "link": "/upload/gallery/IMG_0058.jpg",
         "type": "team"
     },
     {
         "id": 103,
         "text": "MATH0035.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/MATH0035.jpg",
+        "link": "/upload/gallery/MATH0035.jpg",
         "type": "team"
     },
     {
         "id": 101,
         "text": "MATH0047.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/MATH0047.jpg",
+        "link": "/upload/gallery/MATH0047.jpg",
         "type": "team"
     },
     {
         "id": 109,
         "text": "IMG_0041.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/IMG_0041.jpg",
+        "link": "/upload/gallery/IMG_0041.jpg",
         "type": "team"
     },
     {
         "id": 106,
         "text": "MATH0004.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/MATH0004.jpg",
+        "link": "/upload/gallery/MATH0004.jpg",
         "type": "team"
     },
     {
         "id": 102,
         "text": "MATH0040.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/MATH0040.jpg",
+        "link": "/upload/gallery/MATH0040.jpg",
         "type": "team"
     },
     {
         "id": 107,
         "text": "IMG_0314.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/IMG_0314.jpg",
+        "link": "/upload/gallery/IMG_0314.jpg",
         "type": "team"
     },
     {
         "id": 105,
         "text": "MATH0025.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/MATH0025.jpg",
+        "link": "/upload/gallery/MATH0025.jpg",
         "type": "team"
     },
     {
         "id": 104,
         "text": "MATH0031.jpg",
-        "link": "http://m3ai.wlu.ca/upload/gallery/MATH0031.jpg",
+        "link": "/upload/gallery/MATH0031.jpg",
         "type": "team"
     },
     {
@@ -251,6 +251,6 @@
         "description": "<p><em>Dr Maxim Paliy</em></p>",
         "type": "team",
         "text": "group-maxim",
-        "link": "http://m3ai.wlu.ca/images/group-maxim.jpg"
+        "link": "/images/group-maxim.jpg"
     }
 ]

@@ -760,15 +760,15 @@
         "seo": {
             "title": "Open Positions & Research Opportunities | M3AI® Lab & Melnik Research Group",
             "description": "Discover research positions for postdoctoral fellows, research associates, graduate and undergraduate students at M3AI® Lab",
-            "link": "https://m3ai.wlu.ca/events/research"
+            "link": "https://m3ai.wlu.ca/events/opportunities"
         },
         "components": [
             {
                 "title": "Current Open Positions",
-                "html": "<b>For Postdoctoral Fellows or Research Associates:</b> <ul> <li> <a href='http://m3ai.wlu.ca/research/current-openings.html' target='_blank'>Postdoctoral Fellowship in Physics-Based Multiscale Modelling of Multifunctional Smart Materials Driving Eco-Friendly Technologies</a></li> <li> <a href='http://m3ai.wlu.ca/research/current-openings.html' target='_blank'>Postdoctoral Fellowship in Statistical Learning and Inverse Problems with focus on applications for energy and biomedicine</a></li> <li> <a href='http://m3ai.wlu.ca/research/current-openings.html' target='_blank'>Postdoctoral Fellowship in Computational Life Sciences with focus on mathematical modelling in neuroscience and brain research</a></li></ul>"
+                "html": "<b>For Postdoctoral Fellows or Research Associates:</b> <ul> <li> <a href='/research/current-openings.html' target='_blank'>Postdoctoral Fellowship in Physics-Based Multiscale Modelling of Multifunctional Smart Materials Driving Eco-Friendly Technologies</a></li> <li> <a href='/research/current-openings.html' target='_blank'>Postdoctoral Fellowship in Statistical Learning and Inverse Problems with focus on applications for energy and biomedicine</a></li> <li> <a href='/research/current-openings.html' target='_blank'>Postdoctoral Fellowship in Computational Life Sciences with focus on mathematical modelling in neuroscience and brain research</a></li></ul>"
             },
             {
-                "html": "<b>For Graduate Students at Master’s and PhD levels:</b> <ul> <li> <a href='http://m3ai.wlu.ca/research/current-openings.html' target='_blank'>Graduate Studentships at Master's level thesis stream</a></li> <li> <a href='http://m3ai.wlu.ca/research/current-openings.html' target='_blank'>Postdoctoral Fellowship in Statistical Learning and Inverse Problems with focus on applications for energy and biomedicine</a></li> <li> <a href='https://www.wlu.ca/programs/science/graduate/mathematical-and-statistical-modelling-phd/index.html' target='_blank'>PhD Positions in Mathematical & Statistical Modelling</a> <a href=\"/students/prospective\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(34, 34, 34);\" class=\"size-small\">(M3AI<sup>®</sup> Lab specific details)</a></li></ul>"
+                "html": "<b>For Graduate Students at Master’s and PhD levels:</b> <ul> <li> <a href='/research/current-openings.html' target='_blank'>Graduate Studentships at Master's level thesis stream</a></li> <li> <a href='/research/current-openings.html' target='_blank'>Postdoctoral Fellowship in Statistical Learning and Inverse Problems with focus on applications for energy and biomedicine</a></li> <li> <a href='https://www.wlu.ca/programs/science/graduate/mathematical-and-statistical-modelling-phd/index.html' target='_blank'>PhD Positions in Mathematical & Statistical Modelling</a> <a href=\"/students/prospective\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(34, 34, 34);\" class=\"size-small\">(M3AI<sup>®</sup> Lab specific details)</a></li></ul>"
             },
             {
                 "html": "<b>For Undergraduate Students:</b> <ul> <li> <a href='/students/prospective' target='_blank'>Opportunities for Undergraduate Students</a></li></ul>"
@@ -853,7 +853,7 @@
         "seo": {
             "title": "Directions to M3AI® Lab & Melnik Research Group",
             "description": "The M3AI® Lab is a dynamic research community with active collaborative links with colleagues inside and outside Canada, including Europe, the USA, and Australia.",
-            "link": "https://m3ai.wlu.ca/links/resources"
+            "link": "https://m3ai.wlu.ca/links/directions"
         },
         "components": [
             {
@@ -1114,7 +1114,7 @@
                 "html": "The M3AI<sup>®</sup >&nbsp; Research Group and Professor Roderick Melnik's works have been contributing to the following <a target='_blank' href='https://un.org' >UN Sustainable Development Goals</a >:"
             },
             {
-                "html": "<ul class='d-flex flex-wrap  lg-w-75 xs-w-100 xl-w-50' id='sdg-cards' > <a target='_blank' style='color: #ffffff;' href='https://www.un.org/sustainabledevelopment/health/' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/health.svg' alt='' /> </a> <a target='_blank' style='color: #ffffff;' href='https://www.un.org/sustainabledevelopment/gender-equality' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/gender.svg' alt='' /> </a> <a target='_blank' style='color: #ffffff;' href='https://www.un.org/sustainabledevelopment/water-and-sanitation/' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/water.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/energy' target='_blank' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/energy.svg' alt='' /> </a> <a target='_blank' style='color: #ffffff;' href='https://www.un.org/sustainabledevelopment/economic-growth' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/work.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/infrastructure-industrialization' target='_blank' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/industry.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/cities' target='_blank' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/city.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/sustainable-consumption-production' target='_blank' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/consume.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/climate-change' target='_blank' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/climate.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/biodiversity' target='_blank' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/land.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/peace-justice' target='_blank' > <img class='w-100 h-100' src='https://m3ai.wlu.ca/upload/peace.svg' alt='' /> </a> </ul>"
+                "html": "<ul class='d-flex flex-wrap  lg-w-75 xs-w-100 xl-w-50' id='sdg-cards' > <a target='_blank' style='color: #ffffff;' href='https://www.un.org/sustainabledevelopment/health/' > <img class='w-100 h-100' src='/upload/health.svg' alt='' /> </a> <a target='_blank' style='color: #ffffff;' href='https://www.un.org/sustainabledevelopment/gender-equality' > <img class='w-100 h-100' src='/upload/gender.svg' alt='' /> </a> <a target='_blank' style='color: #ffffff;' href='https://www.un.org/sustainabledevelopment/water-and-sanitation/' > <img class='w-100 h-100' src='/upload/water.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/energy' target='_blank' > <img class='w-100 h-100' src='/upload/energy.svg' alt='' /> </a> <a target='_blank' style='color: #ffffff;' href='https://www.un.org/sustainabledevelopment/economic-growth' > <img class='w-100 h-100' src='/upload/work.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/infrastructure-industrialization' target='_blank' > <img class='w-100 h-100' src='/upload/industry.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/cities' target='_blank' > <img class='w-100 h-100' src='/upload/city.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/sustainable-consumption-production' target='_blank' > <img class='w-100 h-100' src='/upload/consume.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/climate-change' target='_blank' > <img class='w-100 h-100' src='/upload/climate.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/biodiversity' target='_blank' > <img class='w-100 h-100' src='/upload/land.svg' alt='' /> </a> <a href='https://www.un.org/sustainabledevelopment/peace-justice' target='_blank' > <img class='w-100 h-100' src='/upload/peace.svg' alt='' /> </a> </ul>"
             }
         ]
     },
@@ -1123,7 +1123,7 @@
         "seo": {
             "title": "Teaching Portfolio | M3AI® Lab & Melnik Research Group",
             "description": "Currently, the most up-to-date information about the courses I teach is given via Learning Environment Systems, such as MyLearning Space tools.",
-            "link": "https://m3ai.wlu.ca/links/resources"
+            "link": "https://m3ai.wlu.ca/links/teaching"
         },
         "components": [
             {
@@ -1164,7 +1164,7 @@
         "seo": {
             "title": "Others | M3AI® Lab & Melnik Research Group",
             "description": "The author of these lines have visited well over 50 countries, and he lived for a prolong time in six of them. You might see below some of the information related to that, along with some links. Feel free to explore it, in case you are curious. Somewhere in time, more information might be added to these webpages.",
-            "link": "https://m3ai.wlu.ca/links/resources"
+            "link": "https://m3ai.wlu.ca/links/others"
         },
         "components": [
             {
