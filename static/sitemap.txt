@@ -1,0 +1,20 @@
+ http://m3ai.wlu.ca/about/introduction/
+ http://m3ai.wlu.ca/about/team/
+ http://m3ai.wlu.ca/about/head/
+ http://m3ai.wlu.ca/research/overview/
+ http://m3ai.wlu.ca/research/projects/
+ http://m3ai.wlu.ca/research/publications/
+ http://m3ai.wlu.ca/students/current/
+ http://m3ai.wlu.ca/students/prospective/
+ http://m3ai.wlu.ca/students/joining/
+ http://m3ai.wlu.ca/events/networking/
+ http://m3ai.wlu.ca/events/ms2/
+ http://m3ai.wlu.ca/events/research/
+ http://m3ai.wlu.ca/links/resources/
+ http://m3ai.wlu.ca/links/directions/
+ http://m3ai.wlu.ca/links/research/
+ http://m3ai.wlu.ca/links/misc/
+  http://m3ai.wlu.ca/
+   http://m3ai.wlu.ca/links/misc/research
+    http://m3ai.wlu.ca/research/application/
+

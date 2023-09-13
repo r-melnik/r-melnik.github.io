@@ -1,0 +1,171 @@
+[
+    {
+        "name": "home",
+        "title": "Home",
+        "path": "/"
+    },
+    {
+        "name": "about",
+        "title": "About Us",
+        "path": "/about",
+        "routes": [
+            {
+                "name": "introduction",
+                "title": "Introduction",
+                "path": "/about/introduction"
+            },
+            {
+                "name": "team",
+                "title": "Team & Sponsors",
+                "path": "/about/team"
+            },
+            {
+                "name": "head",
+                "title": "Head Profile",
+                "path": "/about/head"
+            }
+        ]
+    },
+    {
+        "name": "research",
+        "title": "Research",
+        "path": "/research",
+        "routes": [
+            {
+                "name": "overview",
+                "title": "Overview",
+                "path": "/research/overview",
+                "children": [
+                    {
+                        "name": "Application",
+                        "title": "Application",
+                        "path": "/research/application"
+                    }
+                ]
+            },
+            {
+                "name": "projects",
+                "title": "Projects",
+                "path": "/research/projects"
+            },
+            {
+                "name": "publications",
+                "title": "Publications",
+                "path": "/research/publications"
+            }
+        ]
+    },
+    {
+        "name": "students",
+        "title": "Students",
+        "path": "/students",
+        "routes": [
+            {
+                "name": "current",
+                "title": "Current",
+                "path": "/students/current"
+            },
+            {
+                "name": "prospective",
+                "title": "Prospective",
+                "path": "/students/prospective"
+            },
+            {
+                "name": "joining",
+                "title": "Joining",
+                "path": "/students/joining"
+            }
+        ]
+    },
+    {
+        "name": "events",
+        "title": "News & Events",
+        "path": "/events",
+        "routes": [
+            {
+                "name": "networking",
+                "title": "Networking Events",
+                "path": "/events/networking"
+            },
+            {
+                "name": "MS2 & KW",
+                "title": "MS2 & KW Prize",
+                "path": "/events/ms2"
+            },
+            {
+                "name": "opportunities",
+                "title": "Research Opportunities",
+                "path": "/events/opportunities"
+            }
+        ]
+    },
+    {
+        "name": "links",
+        "title": "Directions & Links",
+        "path": "/links",
+        "routes": [
+            {
+                "name": "resources",
+                "title": "Resources",
+                "path": "/links/resources"
+            },
+            {
+                "name": "directions",
+                "title": "Directions",
+                "path": "/links/directions"
+            },
+            {
+                "name": "miscellanea",
+                "title": "Miscellanea and Thanks",
+                "path": "/links/misc",
+                "children": [
+                    {
+                        "name": "teaching",
+                        "title": "Teaching Portfolio",
+                        "path": "/links/teaching"
+                    },
+                    {
+                        "name": "links-research",
+                        "title": "Research Related Links",
+                        "path": "/links/research"
+                    },
+                    {
+                        "name": "others",
+                        "title": "Others",
+                        "path": "/links/others"
+                    },
+                    {
+                        "name": "kwp",
+                        "title": "KWP",
+                        "path": "/links/kwp"
+                    },
+                    {
+                        "name": "csmd",
+                        "title": "CSMD",
+                        "path": "/links/csmd"
+                    },
+                    {
+                        "name": "mls",
+                        "title": "MLS",
+                        "path": "/links/mls"
+                    },
+                    {
+                        "name": "mmns",
+                        "title": "MMNS",
+                        "path": "/links/mmns"
+                    },
+                    {
+                        "name": "csasm",
+                        "title": "CSASM",
+                        "path": "/links/csasm"
+                    },
+                    {
+                        "name": "researchers",
+                        "title": "Researchers",
+                        "path": "/links/researchers"
+                    }
+                ]
+            }
+        ]
+    }
+]
