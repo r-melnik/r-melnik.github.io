@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{520:function(e,n,t){"use strict";t.r(n);var c={components:{GenericPage:t(220).a}},r=t(18),component=Object(r.a)(c,(function(){return(0,this._self._c)("GenericPage",{attrs:{path:"/research/publications",subPath:"/research/publications/[publicationId]"}})}),[],!1,null,null,null);n.default=component.exports}}]);
