@@ -60,7 +60,7 @@
             <v-list flat>
               <v-list-item-group v-model="model" color="indigo">
                 <template v-for="(each, index) in $store.state.data.news">
-                  <v-list-item>
+                  <v-list-item href="/events/networking">
                     <v-list-item-content>
                       <v-list-item-title class="primary--text text--darken-3">{{
                         each.title
