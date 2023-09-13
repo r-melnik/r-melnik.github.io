@@ -35,8 +35,15 @@ jobs:
           publish_dir: ./dist
 
       - name: Checkout gh-pages
-        uses: actions/checkout@gh-pages
+        uses: git checkout gh-pages
 
       - name: Create 404 page
         run: |
           cp index.html 404.html
+          
+      - name: Push 404 page
+        run: |
+          git add .
+          git commit -m "Updating 404 file"
+          git push origin gh-pages
+          
