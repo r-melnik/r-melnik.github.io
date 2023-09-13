@@ -338,6 +338,7 @@ import news from "~/static/data/news.json";
 import gallery from "~/static/data/gallery.json";
 import researchers from "~/static/data/researchers.json";
 import authors from "~/static/data/authors.json";
+import alumni from "~/static/data/alumni.json";
 export default {
   components: {
     sidebar,
