@@ -112,7 +112,7 @@ export default {
     "@nuxtjs/svg"
   ],
   sitemap: {
-    hostname: "http://m3ai.wlu.ca",
+    hostname: "https://r-melnik.github.io",
     gzip: true,
     routes: getLinks
   },
