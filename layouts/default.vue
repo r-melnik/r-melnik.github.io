@@ -256,7 +256,7 @@
             </v-timeline>
             <v-col cols="12">
               <v-card class="white--text transparent" flat>
-                <h4 class="d-inline" v-html="$store.state.data.layout.footer.notice.text"></h4>
+                <h4 class="d-inline white--text transparent" v-html="$store.state.data.layout.footer.notice.text"></h4>
                 <v-chip
                   x-small
                   :to="$store.state.data.layout.footer.notice.button.link"
