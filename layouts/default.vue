@@ -256,7 +256,10 @@
             </v-timeline>
             <v-col cols="12">
               <v-card class="white--text transparent" flat>
-                <h4 class="d-inline white--text transparent" v-html="$store.state.data.layout.footer.notice.text"></h4>
+                <h4
+                  class="d-inline white--text transparent"
+                  v-html="$store.state.data.layout.footer.notice.text"
+                ></h4>
                 <v-chip
                   x-small
                   :to="$store.state.data.layout.footer.notice.button.link"
@@ -299,7 +302,9 @@
 
               <v-card-text
                 class="py-2 pt-4"
-                v-html="$store.state.data.layout.footer.disclaimer.button.content"
+                v-html="
+                  $store.state.data.layout.footer.disclaimer.button.content
+                "
               >
               </v-card-text>
 
@@ -321,13 +326,39 @@
 
 <script>
 import sidebar from "~/components/sidebar.vue";
-
+import pages from "~/static/data/pages.json";
+import menu from "~/static/data/menu.json";
+import layout from "~/static/data/layout.json";
+import journals from "~/static/data/journals.json";
+import books from "~/static/data/books.json";
+import proceedings from "~/static/data/proceedings.json";
+import projects from "~/static/data/projects.json";
+import members from "~/static/data/members.json";
+import news from "~/static/data/news.json";
+import gallery from "~/static/data/gallery.json";
+import researchers from "~/static/data/researchers.json";
+import authors from "~/static/data/authors.json";
 export default {
   components: {
     sidebar,
   },
   name: "layout",
   async beforeMount() {
+    this.$store.commit("setData", {
+      journals,
+      researchers,
+      projects,
+      members,
+      gallery,
+      books,
+      authors,
+      alumni,
+      proceedings,
+      news,
+      pages,
+      menu,
+      layout,
+    });
     this.$store.dispatch("getData");
   },
 
@@ -351,8 +382,7 @@ export default {
               ))
         );
       },
-      set(value) {
-      },
+      set(value) {},
     },
   },
   data() {

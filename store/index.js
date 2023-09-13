@@ -128,46 +128,17 @@ export const getters = {
 
 export const mutations = {
   setData(state, data) {
-    state.data = data;
-    state.isReady = true;
-  },
-};
-export const actions = {
-  async getData({ getters, commit }) {
-    const journals = await this.$axios.$get("/data/journals.json");
-    const proceedings = await this.$axios.$get("/data/proceedings.json");
-    const books = await this.$axios.$get("/data/books.json");
-    const projects = await this.$axios.$get("/data/projects.json");
-    const researchers = await this.$axios.$get("/data/researchers.json");
-    const news = await this.$axios.$get("/data/news.json");
-    const alumni = await this.$axios.$get("/data/alumni.json");
-    const authors = await this.$axios.$get("/data/authors.json");
-    const gallery = await this.$axios.$get("/data/gallery.json");
-    const members = await this.$axios.$get("/data/members.json");
-    const menu = await this.$axios.$get("/data/menu.json");
-    const pages = await this.$axios.$get("/data/pages.json");
-    const layout = await this.$axios.$get("/data/layout.json");
-    commit("setData", {
-      journals,
-      researchers,
-      projects,
-      members,
-      gallery,
-      books,
-      authors,
-      alumni: alumni.sort((a, b) => parseInt(b.year) - parseInt(a.year)),
-      proceedings,
-      news: news.sort((a, b) => new Date(b.date) - new Date(a.date)).map(news => ({
+    state.data = {
+      ...data,
+      alumni: data.alumni.sort((a, b) => parseInt(b.year) - parseInt(a.year)),
+      news: data.news.sort((a, b) => new Date(b.date) - new Date(a.date)).map(news => ({
         ...news,
         datetime: getters.formatDateRange(news.date, news.endDate)
       })),
-      pages,
-      menu,
-      layout,
-      publications: [...journals, ...proceedings, ...books].map((publication) => {
+      publications: [...data.journals, ...data.proceedings, ...data.books].map((publication) => {
         const authorsStr = publication.authors
           .map((author, index) => {
-            const authorObj = authors.find(
+            const authorObj = data.authors.find(
               (a) => a.id === author
             );
             const isLast = index === publication.authors.length - 1;
@@ -201,7 +172,40 @@ export const actions = {
           } else {
             return 0;
           }
-        }),
+        })
+    };
+    state.isReady = true;
+  },
+};
+export const actions = {
+  async getData({ getters, commit }) {
+    const journals = await this.$axios.$get("/data/journals.json");
+    const proceedings = await this.$axios.$get("/data/proceedings.json");
+    const books = await this.$axios.$get("/data/books.json");
+    const projects = await this.$axios.$get("/data/projects.json");
+    const researchers = await this.$axios.$get("/data/researchers.json");
+    const news = await this.$axios.$get("/data/news.json");
+    const alumni = await this.$axios.$get("/data/alumni.json");
+    const authors = await this.$axios.$get("/data/authors.json");
+    const gallery = await this.$axios.$get("/data/gallery.json");
+    const members = await this.$axios.$get("/data/members.json");
+    const menu = await this.$axios.$get("/data/menu.json");
+    const pages = await this.$axios.$get("/data/pages.json");
+    const layout = await this.$axios.$get("/data/layout.json");
+    commit("setData", {
+      journals,
+      researchers,
+      projects,
+      members,
+      gallery,
+      books,
+      authors,
+      alumni,
+      proceedings,
+      news,
+      pages,
+      menu,
+      layout,
     })
   }
 };
