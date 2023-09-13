@@ -28,12 +28,15 @@ jobs:
       - name: Generate
         run: yarn generate
 
-      - name: Create 404 page
-        run: |
-          cp index.html 404.html
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+
+      - name: Checkout gh=pages
+        uses: actions/checkout@v2
+        
+      - name: Create 404 page
+        run: |
+          cp index.html 404.html
