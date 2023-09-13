@@ -244,19 +244,19 @@
         "components": [
             {
                 "title": "Application Areas",
-                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A1</h4></div>A1 Environment || Alternative Energy Sources || Human-Nature Interactions</h3></br><div class='pl-12'>Environmentally-friendly materials; <br>Energy harvesting and sensing applications; <br>Solar power, green and renewable energy; <br>Sustainability, climate, and coupled human-natural systems.</div>"
+                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A1</h4></div> Environment || Alternative Energy Sources || Human-Nature Interactions</h3></br><div class='pl-12'>Environmentally-friendly materials; <br>Energy harvesting and sensing applications; <br>Solar power, green and renewable energy; <br>Sustainability, climate, and coupled human-natural systems.</div>"
             },
             {
-                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A2</h4></div>Health || Biomedicine || Bioengineering || Neuroscience</h3></br><div class='pl-12'>Brain research and computational neuroscience;<br>Pain management therapies and neurodegenerative diseases;<br>Biocompatible materials and bio-inspired systems;<br>Bionanotechnologies, thermal ablation, tissue engineering.</div>"
+                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A2</h4></div> Health || Biomedicine || Bioengineering || Neuroscience</h3></br><div class='pl-12'>Brain research and computational neuroscience;<br>Pain management therapies and neurodegenerative diseases;<br>Biocompatible materials and bio-inspired systems;<br>Bionanotechnologies, thermal ablation, tissue engineering.</div>"
             },
             {
-                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A3</h4></div>Advanced Technologies || Additive Manufacturing</h3></br><div class='pl-12'>Multiscale design of composites;<br>Smart materials and structures,<br>3D printing, auxeticity, and higher order coupling;<br>Nanotechnologies and nanoengineered systems;</div>"
+                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A3</h4></div> Advanced Technologies || Additive Manufacturing</h3></br><div class='pl-12'>Multiscale design of composites;<br>Smart materials and structures,<br>3D printing, auxeticity, and higher order coupling;<br>Nanotechnologies and nanoengineered systems;</div>"
             },
             {
-                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A4</h4></div>Digital Economies || Next-Generation Computing Paradigms</h3></br><div class='pl-12'>Data analysis and statistical learning algorithms;<br>Artificial human intelligence, algorithms for intelligent systems;<br>Signal/image/information processing in autonomous systems;<br>Computations and human-designed processes inspired by natural systems.</div>"
+                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A4</h4></div> Digital Economies || Next-Generation Computing Paradigms</h3></br><div class='pl-12'>Data analysis and statistical learning algorithms;<br>Artificial human intelligence, algorithms for intelligent systems;<br>Signal/image/information processing in autonomous systems;<br>Computations and human-designed processes inspired by natural systems.</div>"
             },
             {
-                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A5</h4></div>Knowledge Creation || Dynamic Networks || Integrative Model Coupling</h3></br><div class='pl-12'>Cooperative and controlled self-assembly in dynamic networks;<br>Community-dependent systems such as financial and social;<br>Control systems under uncertainty, risk analysis, human factor;<br> Critical phenomena, many-body problem, universe, phase transitions;<br> Cognitive neuroscience, brain plasticity, and models of consciousness.</div>"
+                "html": "<h3><div class='v-avatar mx-auto mr-lg-2 ml-lg-0 grey' style='height: 40px; min-width: 40px; width: 40px;'><h4>A5</h4></div> Knowledge Creation || Dynamic Networks || Integrative Model Coupling</h3></br><div class='pl-12'>Cooperative and controlled self-assembly in dynamic networks;<br>Community-dependent systems such as financial and social;<br>Control systems under uncertainty, risk analysis, human factor;<br> Critical phenomena, many-body problem, universe, phase transitions;<br> Cognitive neuroscience, brain plasticity, and models of consciousness.</div>"
             },
             {
                 "html": "<center><i>Learn more about our research:</i></center>",
@@ -297,7 +297,7 @@
         "components": [
             {
                 "title": "Research projects @ M3AI<sup>®</sup> Lab & Melnik Research Group",
-                "html": "<br/><br/><i><h3><center>Follow the link below to our publications, keep reading to learn more about some of our projects and research contributions in this group, or <a href='/contact'>contact us</a> for further details.</center></h3></i><br/>",
+                "html": "<br/><br/><i><h3><center>Follow the link below to our publications, keep reading to learn more about some of our projects and research contributions in this group, or <a href='/#contact_us'>contact us</a> for further details.</center></h3></i><br/>",
                 "buttons": [
                     {
                         "title": "Discover Our Publications",
@@ -346,7 +346,7 @@
                 }
             },
             {
-                "html": "<br/><br/><i><h3><center>Follow the link below to our publications, keep reading to learn more about some of our projects and research contributions in this group, or <a href='/contact'>contact us</a> for further details.</center></h3></i><br/>",
+                "html": "<br/><br/><i><h3><center>Follow the link below to our publications, keep reading to learn more about some of our projects and research contributions in this group, or <a href='/#contact_us'>contact us</a> for further details.</center></h3></i><br/>",
                 "buttons": [
                     {
                         "title": "Discover Our Publications",
@@ -397,6 +397,14 @@
                             "align": "start",
                             "value": "code",
                             "width": 80
+                        },
+                        {
+                            "text": "Shortcode",
+                            "align": "start",
+                            "value": "shortcode",
+                            "width": 0,
+                            "cellClass": "d-none",
+                            "class":"d-none"
                         },
                         {
                             "text": "Title",

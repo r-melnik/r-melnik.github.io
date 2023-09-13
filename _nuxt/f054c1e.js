@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{496:function(e,n,t){"use strict";t.r(n);var c={components:{GenericPage:t(220).a}},o=t(18),component=Object(o.a)(c,(function(){return(0,this._self._c)("GenericPage",{attrs:{path:"/about/team"}})}),[],!1,null,null,null);n.default=component.exports}}]);
