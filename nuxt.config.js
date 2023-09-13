@@ -121,6 +121,7 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
+    baseUrl: ''
   },
   /*
    ** vuetify module configuration
