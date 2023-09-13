@@ -121,7 +121,7 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-    baseUrl: '/'
+    baseUrl: 'https://r-melnik.github.io/'
   },
   /*
    ** vuetify module configuration
