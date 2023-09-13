@@ -56,6 +56,8 @@
       :expanded.sync="expanded"
       class="elevation-0"
       fixed-header
+      item-key="shortcode"
+      :custom-filter="exactSearchHandler"
     >
       <template v-slot:item.code="{ item }">
         {{ item.shortcode }}
@@ -136,7 +138,7 @@
             <h5>Additional Information:</h5>
             <div class="ql-editor pa-0 py-1" v-html="item.extraInfo"></div>
           </div>
-          <v-divider class="py-2 mt-2" v-if="item.extraInfo" />
+          <v-divider class="py-2 mt-2" v-if="item.extraInfo && item.abstract" />
           <div v-if="item.abstract">
             <h5>Abstract:</h5>
             <p class="py-1 ma-0">{{ item.abstract }}</p>
@@ -184,34 +186,32 @@ export default {
       },
     },
   },
-  mounted() {
-    const subProjectId = this.$route.params.subProjectId;
-    const projectId = this.$route.params.projectId;
-    this.open = subProjectId;
-    const elm = document.getElementById(`sub-${projectId}-${subProjectId}`);
-    if (elm) {
-      elm.scrollIntoView();
-    }
-  },
-  updated() {
-    const subProjectId = this.$route.params.subProjectId;
-    const projectId = this.$route.params.projectId;
-    this.open = subProjectId;
-
-    const elm = document.getElementById(`sub-${projectId}-${subProjectId}`);
-
-    if (elm) {
-      elm.scrollIntoView();
-    }
-  },
   methods: {
     toggleItemExpand(item) {
       const expanded = this.$data.expanded ?? [];
-      const isExpanded = expanded.find((i) => i.id === item.id);
+      const isExpanded = expanded.find((i) => i.shortcode === item.shortcode);
       if (isExpanded) {
-        this.$data.expanded = expanded.filter((i) => i.id !== item.id);
+        this.$data.expanded = expanded.filter(
+          (i) => i.shortcode !== item.shortcode
+        );
       } else {
         this.$data.expanded.push(item);
+      }
+    },
+    exactSearchHandler(value, search, item) {
+      const isExact =
+        search.includes("EB-") ||
+        search.includes("EP-") ||
+        search.includes("EJ-");
+      if (value != null && search != null && typeof value === "string") {
+        if (isExact && value.toLowerCase() === search.toLowerCase()) {
+          return true;
+        } else if (
+          !isExact &&
+          value.toLowerCase().includes(search.toLowerCase())
+        ) {
+          return true;
+        }
       }
     },
   },

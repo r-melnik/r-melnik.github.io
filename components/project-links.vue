@@ -3,12 +3,12 @@
     <v-list-item-group >
       <v-card class="w-100" tile three-line flat>
         <template v-for="(each, index) in $store.state.data.projects">
-          <v-list-item :key="$store.getters.parseKey(each.title) + index" :to="`/research/projects/${each.pIndex}`">
+          <v-list-item :key="$store.getters.parseKey(each.title) + index" :to="`/research/projects/${each.id}`">
             <v-list-item-content class="pt-0">
               <div class="d-flex py-3">
                 <div class="px-1">
                   <v-avatar color="orange" size="32" class="ma-auto">
-                    <span class="white--text caption">P{{ each.pIndex }}</span>
+                    <span class="white--text caption">P{{ each.id }}</span>
                   </v-avatar>
                 </div>
                 <span class="black--text text-left px-2 my-auto">{{

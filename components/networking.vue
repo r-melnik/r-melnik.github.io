@@ -75,7 +75,7 @@ export default {
     return {
       filters: ["member", "other"],
       search: "",
-      sort: "asc",
+      sort: "desc",
       filterValues: [
         {
           text: "Events with involvements of Lab members",
@@ -105,7 +105,7 @@ export default {
           .filter((item) => this.filters.includes(item.type))
           .map((item) => ({
             ...item,
-            status: this.$store.getters.getDateStatus(item.date),
+            status: this.$store.getters.getDateStatus(item.endDate ?? item.date),
             dateRange: this.$store.getters.formatDateRange(
               item.date,
               item.endDate

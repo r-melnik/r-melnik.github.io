@@ -24,8 +24,12 @@
     v-else-if="type === 'projects'"
     :projects="
       $route.params.projectId
-        ? [projects.find((each) => String(each.id) === $route.params.projectId)]
-        : projects
+        ? [
+            $store.state.data.projects.find(
+              (each) => String(each.id) === $route.params.projectId
+            ),
+          ]
+        : $store.state.data.projects
     "
     :settings="settings"
     :active="$route.params.projectId ? true : false"
@@ -71,53 +75,6 @@ export default {
     CountryLinks,
     SimpleTable,
     Researchers,
-  },
-  data() {
-    return {
-      projects: this.$store.state.data.projects.map((project) => {
-        const subprojects = project.subprojects.map((subproject) => {
-          const publications = (subproject.publications ?? [])
-            .map((publicationId) => {
-              const journal = this.$store.state.data.journals.find(
-                (publication) => publication.id === publicationId
-              );
-              if (journal) {
-                return journal;
-              }
-              const proceeding = this.$store.state.data.proceedings.find(
-                (publication) => publication.id === publicationId
-              );
-              if (proceeding) {
-                return proceeding;
-              }
-              const book = this.$store.state.data.books.find(
-                (publication) => publication.id === publicationId
-              );
-              if (book) {
-                return book;
-              }
-            })
-            .sort((a, b) => {
-              if (parseInt(a.code) > parseInt(b.code)) {
-                return 1;
-              } else if (parseInt(a.code) < parseInt(b.code)) {
-                return -1;
-              } else {
-                return 0;
-              }
-            });
-
-          return {
-            ...subproject,
-            publications,
-          };
-        });
-        return {
-          ...project,
-          subprojects,
-        };
-      }),
-    };
   },
 };
 </script>

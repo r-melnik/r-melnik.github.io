@@ -20,7 +20,7 @@
           style="overflow-y: Scroll"
         >
           <v-list flat>
-            <v-list-item-group color="indigo" v-for="each in results">
+            <v-list-item-group color="indigo" v-for="each in results" :key="$store.getters.parseKey(each.title)">
               <v-list-item-title
                 class="primary--text text--darken-3"
                 v-if="each.values.length > 0"

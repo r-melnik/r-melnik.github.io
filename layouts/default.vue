@@ -212,6 +212,7 @@
                 small
                 color="orange"
                 v-for="quote in $store.state.data.layout.footer.quotes"
+                :key="$store.getters.parseKey(quote.text)"
               >
                 <template v-slot:opposite>
                   <span class="headline font-weight-bold orange--text">{{
@@ -238,6 +239,8 @@
                 small
                 color="amber"
                 v-for="quote in $store.state.data.layout.footer.quotes"
+                :key="$store.getters.parseKey(quote.text)"
+
               >
                 <v-card color="transparent" class="py-3 px-3 grey lighten-3">
                   <blockquote

@@ -103,21 +103,22 @@ export const getters = {
     const start = new Date(startDate);
     const end = endDate ? new Date(endDate) : null;
 
-    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+    const options = { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' };
 
     if (end) {
       if (start.toDateString() === end.toDateString()) {
         // If both dates are the same
-        return start.toLocaleDateString(undefined, options);
+        return start.toLocaleDateString('en-US', options); // Adjust 'en-US' to your desired time zone
       } else {
         // If different dates
-        return `${start.toLocaleDateString(undefined, options)} - ${end.toLocaleDateString(undefined, options)}`;
+        return `${start.toLocaleDateString('en-US', options)} - ${end.toLocaleDateString('en-US', options)}`; // Adjust 'en-US' to your desired time zone
       }
     } else {
       // If no endDate provided
-      return start.toLocaleDateString(undefined, options);
+      return start.toLocaleDateString('en-US', options); // Adjust 'en-US' to your desired time zone
     }
   },
+
   parseKey: (state) => (key) => {
     return key.replace(/[^\w-]+/g, '_')
       .replace(/^\d+/g, '')
@@ -130,10 +131,52 @@ export const mutations = {
   setData(state, data) {
     state.data = {
       ...data,
+      projects: data.projects.map((project) => {
+        const subprojects = project.subprojects.map((subproject) => {
+          const publications = (subproject.publications ?? [])
+            .map((publicationId) => {
+              const journal = data.journals.find(
+                (publication) => publication.shortcode === publicationId
+              );
+              if (journal) {
+                return journal;
+              }
+              const proceeding = data.proceedings.find(
+                (publication) => publication.shortcode === publicationId
+              );
+              if (proceeding) {
+                return proceeding;
+              }
+              const book = data.books.find(
+                (publication) => publication.shortcode === publicationId
+              );
+              if (book) {
+                return book;
+              }
+            })
+            .sort((a, b) => {
+              if (parseInt(a.code) > parseInt(b.code)) {
+                return 1;
+              } else if (parseInt(a.code) < parseInt(b.code)) {
+                return -1;
+              } else {
+                return 0;
+              }
+            });
+          return {
+            ...subproject,
+            publications,
+          };
+        });
+        return {
+          ...project,
+          subprojects,
+        };
+      }),
       alumni: data.alumni.sort((a, b) => parseInt(b.year) - parseInt(a.year)),
       news: data.news.sort((a, b) => new Date(b.date) - new Date(a.date)).map(news => ({
         ...news,
-        datetime: getters.formatDateRange(news.date, news.endDate)
+        datetime: this.getters.formatDateRange(news.date, news.endDate)
       })),
       publications: [...data.journals, ...data.proceedings, ...data.books].map((publication) => {
         const authorsStr = publication.authors
@@ -179,6 +222,9 @@ export const mutations = {
 };
 export const actions = {
   async getData({ getters, commit }) {
+    if (process.env.NODE_ENV === 'development') {
+      return
+    }
     const journals = await this.$axios.$get("/data/journals.json");
     const proceedings = await this.$axios.$get("/data/proceedings.json");
     const books = await this.$axios.$get("/data/books.json");
