@@ -1,0 +1,52 @@
+{
+    "header": {
+        "title": "M3AI<sup>®</sup> Lab & Melnik Research Group",
+        "subtitle": "Mind | Mathematical Models | AI<sup>®</sup>",
+        "quote": {
+            "natura": "Natura in Minima Maxima",
+            "explore": "Explore",
+            "dream": "Dream",
+            "discover": "Discover"
+        },
+        "mobile": {
+            "menu_open": "Menu",
+            "menu_close": "Close"
+        },
+        "banner": "Canadian Excellence"
+    },
+    "footer": {
+        "quotes": [
+            {
+                "author": "Galileo Galilei",
+                "text": "Il libro della natura è scritto in lingua matematica.",
+                "year": "1623"
+            },
+            {
+                "author": "Roger Penrose",
+                "text": "Thus, Gödel appears to have taken it as evident that the physical brain must itself behave computationally, but that the mind is something beyond the brain, so that the mind's action is not constrained to behave according to the computational laws that he believed must control the physical brain's behavior.",
+                "year": "1989"
+            },
+            {
+                "author": "Henry Marsh",
+                "text": "Artificial intelligence has problems. The biggest is that brains are nothing like computers.",
+                "year": "2019"
+            }
+        ],
+        "notice": {
+            "text": "<sup style='font-size: 0.99rem'>®</sup> When you choose to read AI as Artificial Intelligence, you do so at your own risk.",
+            "button": {
+                "text": "Read Note",
+                "link": "/links/misc/#ai-note"
+            }
+        },
+        "disclaimer": {
+            "text": "M3AI<sup>®</sup> Lab | Australia-Europe-USA-Canada <br />Use of this website and information available from it is subject to",
+            "button": {
+                "text": "Disclaimer",
+                "content": "<p> These Web Pages aim to be the definitive source of validated information about Dr Roderick Melnik and his group. It also provides the definitive source of information on different organisations in different countries that are connected or were connected with Dr Melnik's and his colleagues' professional activity in one way or another. We hope to achieve this through links to carefully selected pages and organisations or through information gathered from publicly available domains. All people and organisations that made such information available to the public are hereby acknowledged. While great care has been taken in compiling the information we take no responsibility for any information provided here other than the information about Dr Roderick Melnik and his group. No liability will be accepted under any circumstances. </p> <p> Within Dr Melnik Group Web Pages there are links to a series of other relevant resources. While these have all been carefully reviewed before inclusion, we cannot accept responsibility for inaccuracies, changes or any other issues relating to that material. </p> <p> The article files provided at these web pages are intended for the convenience of the reader and for personal use only. Personal use of this material means that it is not permitted to upload it to any public server, on-line service, network, or bulletin board; make copies for any commercial purpose; retransmit or redistribute it without written permissions from the paper's publisher and author. </p> <p> These Web Pages do not aim to endorse any products or services. All trademarks are hereby acknowledged. </p>",
+                "close": "Close"
+            }
+        },
+        "email": "rmelnik@wlu.ca"
+    }
+}
