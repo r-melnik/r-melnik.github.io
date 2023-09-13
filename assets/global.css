@@ -399,3 +399,7 @@ body .v-application a {
 .size-small {
   font-size: 0.65rem;
 }
+
+body .v-data-table__wrapper {
+  text-align: start !important;
+}

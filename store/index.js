@@ -173,7 +173,7 @@ export const mutations = {
           subprojects,
         };
       }),
-      alumni: data.alumni.sort((a, b) => parseInt(b.year) - parseInt(a.year)),
+      alumni: data.alumni.sort((a, b) => (b.year) - (a.year)),
       news: data.news.sort((a, b) => new Date(b.date) - new Date(a.date)).map(news => ({
         ...news,
         datetime: this.getters.formatDateRange(news.date, news.endDate)
