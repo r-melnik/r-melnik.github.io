@@ -1,21 +1,34 @@
+import pages from "~/static/data/pages.json";
+import menu from "~/static/data/menu.json";
+import layout from "~/static/data/layout.json";
+import journals from "~/static/data/journals.json";
+import books from "~/static/data/books.json";
+import proceedings from "~/static/data/proceedings.json";
+import projects from "~/static/data/projects.json";
+import members from "~/static/data/members.json";
+import news from "~/static/data/news.json";
+import gallery from "~/static/data/gallery.json";
+import researchers from "~/static/data/researchers.json";
+import authors from "~/static/data/authors.json";
+import alumni from "~/static/data/alumni.json";
+
 export const state = () => ({
   data: {
-    projects: [],
-    researchers: [],
-    quotes: [],
-    proceedings: [],
-    journals: [],
-    books: [],
-    news: [],
-    alumni: [],
-    authors: [],
-    gallery: [],
-    members: [],
-    opportunities: [],
-    menu: [],
-    pages: {}
+    journals,
+    researchers,
+    projects,
+    members,
+    gallery,
+    books,
+    authors,
+    alumni,
+    proceedings,
+    news,
+    pages,
+    menu,
+    layout,
   },
-  isReady: false
+  isReady: true
 });
 export const getters = {
   getPage: (state) => (path, subPath = undefined) => {
@@ -221,22 +234,32 @@ export const mutations = {
 };
 export const actions = {
   async getData({ getters, commit }) {
-    if (process.env.NODE_ENV === 'development') {
-      return
-    }
-    const journals = await this.$axios.$get("/data/journals.json");
-    const proceedings = await this.$axios.$get("/data/proceedings.json");
-    const books = await this.$axios.$get("/data/books.json");
-    const projects = await this.$axios.$get("/data/projects.json");
-    const researchers = await this.$axios.$get("/data/researchers.json");
-    const news = await this.$axios.$get("/data/news.json");
-    const alumni = await this.$axios.$get("/data/alumni.json");
-    const authors = await this.$axios.$get("/data/authors.json");
-    const gallery = await this.$axios.$get("/data/gallery.json");
-    const members = await this.$axios.$get("/data/members.json");
-    const menu = await this.$axios.$get("/data/menu.json");
-    const pages = await this.$axios.$get("/data/pages.json");
-    const layout = await this.$axios.$get("/data/layout.json");
+    const path = (text) => `${this.$axios.defaults.baseURL}${text}`
+    const fetchJson = async (url) => {
+      const response = await fetch(url);
+      return response.json();
+    };
+
+    const dataUrls = [
+      "/data/journals.json",
+      "/data/researchers.json",
+      "/data/projects.json",
+      "/data/members.json",
+      "/data/gallery.json",
+      "/data/books.json",
+      "/data/authors.json",
+      "/data/alumni.json",
+      "/data/proceedings.json",
+      "/data/news.json",
+      "/data/pages.json",
+      "/data/menu.json",
+      "/data/layout.json",
+    ];
+
+    const fetchedData = await Promise.all(dataUrls.map((url) => fetchJson(path(url))));
+
+    const [journals, researchers, projects, members, gallery, books, authors, alumni, proceedings, news, pages, menu, layout] = fetchedData;
+
     commit("setData", {
       journals,
       researchers,

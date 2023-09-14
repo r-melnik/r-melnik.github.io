@@ -105,7 +105,7 @@
                 <template v-slot:activator="{ on }">
                   <nuxt-link :to="item.path" class="link-killer nav-icon-soft">
                     <span v-on="on" class="link-killer nav-icon-soft px-3">
-                      <p class="nav-text" >
+                      <p class="nav-text">
                         {{ item.title }}
                       </p>
                     </span>
@@ -349,21 +349,6 @@ export default {
   },
   name: "layout",
   async beforeMount() {
-    this.$store.commit("setData", {
-      journals,
-      researchers,
-      projects,
-      members,
-      gallery,
-      books,
-      authors,
-      alumni,
-      proceedings,
-      news,
-      pages,
-      menu,
-      layout,
-    });
     this.$store.dispatch("getData");
   },
 

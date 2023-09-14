@@ -149,7 +149,7 @@ export default {
       expanded: [],
       options: {
         page: 1,
-        itemsPerPage: 20,
+        itemsPerPage: 50,
         sortBy: ["year", "code"],
         sortDesc: [true, true],
         groupBy: [],

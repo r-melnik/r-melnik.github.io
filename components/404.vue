@@ -39,7 +39,7 @@ h1 {
     <h1>404</h1>
     <p>Oops! Something is wrong.</p>
     <a class="button" href="/">
-      <i class="icon-home"></i> Go Back Home
+      <i class="icon-home"></i> Go Back To Home
     </a>
   </div>
 </template>

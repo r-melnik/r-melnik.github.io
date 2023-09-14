@@ -3,7 +3,7 @@
   <div v-else>
     <h1>404</h1>
     <p>The page you requested could not be found.</p>
-    <center><a href="/"> Go Back Home </a></center>
+    <center><a href="/"> Go Back To Home </a></center>
   </div>
 </template>
 
