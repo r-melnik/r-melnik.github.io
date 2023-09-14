@@ -69,6 +69,34 @@ export const getters = {
       ],
     };
   },
+  getPublicationSEO: (state) => (shortcode) => {
+    const publication = state.data.publications.find((publication) => publication.shortcode === shortcode);
+    const publicationPage = state.data.pages["/research/publications"];
+    let title = publicationPage["seo"]["title"]
+    let content = publicationPage["seo"]["description"]
+    let href = publicationPage["seo"]["link"]
+    if (publication) {
+      title = publication["shortcode"] + " | " + title
+      content = publication["title"] + " | " + publication["authors"]
+      href += "/" + publication["shortcode"]
+    }
+    return {
+      title,
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content,
+        },
+      ],
+      link: [
+        {
+          rel: "canonical",
+          href,
+        },
+      ],
+    };
+  },
   getDateStatus: (state) => (inputDate) => {
     // Convert the input date to a Date object
     const date = new Date(inputDate);
