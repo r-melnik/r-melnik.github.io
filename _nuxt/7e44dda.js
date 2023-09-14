@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{499:function(e,n,t){"use strict";t.r(n);var o={components:{GenericPage:t(233).a}},c=t(18),component=Object(c.a)(o,(function(){return(0,this._self._c)("GenericPage",{attrs:{path:"/events/opportunities"}})}),[],!1,null,null,null);n.default=component.exports}}]);

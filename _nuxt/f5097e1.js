@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{516:function(n,e,t){"use strict";t.r(e);var c={components:{GenericPage:t(233).a}},r=t(18),component=Object(r.a)(c,(function(){return(0,this._self._c)("GenericPage",{attrs:{path:"/students/current"}})}),[],!1,null,null,null);e.default=component.exports}}]);

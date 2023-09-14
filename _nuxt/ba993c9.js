@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{505:function(n,e,t){"use strict";t.r(e);var c={components:{GenericPage:t(220).a}},l=t(18),component=Object(l.a)(c,(function(){return(0,this._self._c)("GenericPage",{attrs:{path:"/links/mls"}})}),[],!1,null,null,null);e.default=component.exports}}]);
