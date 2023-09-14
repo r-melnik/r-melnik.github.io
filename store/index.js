@@ -1,32 +1,6 @@
-import pages from "~/static/data/pages.json";
-import menu from "~/static/data/menu.json";
-import layout from "~/static/data/layout.json";
-import journals from "~/static/data/journals.json";
-import books from "~/static/data/books.json";
-import proceedings from "~/static/data/proceedings.json";
-import projects from "~/static/data/projects.json";
-import members from "~/static/data/members.json";
-import news from "~/static/data/news.json";
-import gallery from "~/static/data/gallery.json";
-import researchers from "~/static/data/researchers.json";
-import authors from "~/static/data/authors.json";
-import alumni from "~/static/data/alumni.json";
 
 export const state = () => ({
   data: {
-    journals,
-    researchers,
-    projects,
-    members,
-    gallery,
-    books,
-    authors,
-    alumni,
-    proceedings,
-    news,
-    pages,
-    menu,
-    layout,
   },
   isReady: true
 });
@@ -234,6 +208,9 @@ export const mutations = {
 };
 export const actions = {
   async getData({ getters, commit }) {
+    if (process.env.NODE_ENV === 'development') {
+      return
+    }
     const path = (text) => `${this.$axios.defaults.baseURL}${text}`
     const fetchJson = async (url) => {
       const response = await fetch(url);

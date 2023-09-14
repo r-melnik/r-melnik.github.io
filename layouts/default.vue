@@ -349,6 +349,21 @@ export default {
   },
   name: "layout",
   async beforeMount() {
+    this.$store.commit("setData", {
+      journals,
+      researchers,
+      projects,
+      members,
+      gallery,
+      books,
+      authors,
+      alumni,
+      proceedings,
+      news,
+      pages,
+      menu,
+      layout,
+    });
     this.$store.dispatch("getData");
   },
 
