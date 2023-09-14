@@ -400,6 +400,6 @@ body .v-application a {
   font-size: 0.65rem;
 }
 
-body .v-data-table__wrapper {
+body .v-application .v-data-table__wrapper {
   text-align: start !important;
 }
