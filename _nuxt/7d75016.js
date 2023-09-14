@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{512:function(e,n,t){"use strict";t.r(n);var c={components:{GenericPage:t(233).a}},r=t(18),component=Object(r.a)(c,(function(){return(0,this._self._c)("GenericPage",{attrs:{path:"/research/application"}})}),[],!1,null,null,null);n.default=component.exports}}]);
