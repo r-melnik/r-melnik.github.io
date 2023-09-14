@@ -1,6 +1,6 @@
 <template>
   <v-card class="pt-3" id="publicationDataTable">
-    <v-card-title class="justify-space-between pa-0 px-1 d-flex">
+    <v-card-title class="justify-space-between pt-0 pb-2 px-1 d-flex">
       <v-text-field
         v-model="search"
         append-icon="search"
@@ -17,23 +17,8 @@
         label="Filter Publications by Category"
         v-model="typeValue"
       ></v-select>
-      <v-select
-        class="my-auto mx-2 mt-auto"
-        :items="[10, 20, 50, 100]"
-        attach
-        hide-details=""
-        style="max-width: 10%"
-        label="Rows Per Page"
-        :value="options.itemsPerPage"
-        @change="
-          (a) => {
-            this.options.itemsPerPage = a;
-            this.options.page = 1;
-          }
-        "
-      ></v-select>
       <v-chip
-        class="ma-1 ml-auto"
+        class="ma-2 ml-auto"
         color="primary"
         text-color="white"
         :href="settings.pdf_link"
@@ -131,7 +116,7 @@
       <template v-slot:expanded-item="{ headers, item }">
         <td
           :colspan="headers.length"
-          class="py-3 pt-5"
+          class="py-3 pt-10"
           v-if="item.abstract || item.extraInfo"
         >
           <div v-if="item.extraInfo">
@@ -164,9 +149,9 @@ export default {
       expanded: [],
       options: {
         page: 1,
-        itemsPerPage: 10,
-        sortBy: ["code"],
-        sortDesc: [true],
+        itemsPerPage: 20,
+        sortBy: ["year", "code"],
+        sortDesc: [true, true],
         groupBy: [],
         groupDesc: [],
         mustSort: false,

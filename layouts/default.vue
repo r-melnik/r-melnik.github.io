@@ -15,7 +15,7 @@
       <template v-slot:img="{ props }">
         <v-img
           v-bind="props"
-          gradient="to top right, rgba(21,101,192,0.32), rgba(255,255,255,0.2)"
+          gradient="to top right, rgba(21,101,192,0.75), rgba(255,255,255,0.0)"
           class="top-image"
         ></v-img>
       </template>
@@ -105,7 +105,9 @@
                 <template v-slot:activator="{ on }">
                   <nuxt-link :to="item.path" class="link-killer nav-icon-soft">
                     <span v-on="on" class="link-killer nav-icon-soft px-3">
-                      <p class="nav-text">{{ item.title }}</p>
+                      <p class="nav-text" >
+                        {{ item.title }}
+                      </p>
                     </span>
                   </nuxt-link>
                 </template>
@@ -240,7 +242,6 @@
                 color="amber"
                 v-for="quote in $store.state.data.layout.footer.quotes"
                 :key="$store.getters.parseKey(quote.text)"
-
               >
                 <v-card color="transparent" class="py-3 px-3 grey lighten-3">
                   <blockquote

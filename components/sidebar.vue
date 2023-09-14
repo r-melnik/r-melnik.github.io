@@ -36,6 +36,7 @@
                     <v-list-item-title
                       class="primary--text text--darken-3"
                       v-html="value.item.title"
+                      :title="value.item.title"
                     ></v-list-item-title>
                     <v-list-item-subtitle v-html="value.item.subtitle">
                     </v-list-item-subtitle>
@@ -256,7 +257,6 @@ export default {
             values: researchers.search(this.search).slice(0, 5),
           },
         ];
-        console.log(data);
         return data;
       },
     },

@@ -32,7 +32,6 @@ export const getters = {
       (route) => (route.path === path) || route.children && route.children.find(child => child.path === path)
     );
     const index = subPath ?? path
-    console.log(state.data.pages[index])
     return {
       page: state.data.pages[index],
       active_index,

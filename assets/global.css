@@ -45,6 +45,7 @@
 
 .nav-text {
   margin: auto 0;
+  text-shadow: 0px 0px 10px rgb(71, 70, 70);
 }
 
 .arrow-button {
@@ -400,6 +401,6 @@ body .v-application a {
   font-size: 0.65rem;
 }
 
-body .v-application .v-data-table__wrapper {
-  text-align: start !important;
+body .v-application .v-data-table__wrapper td {
+  text-align: left !important;
 }

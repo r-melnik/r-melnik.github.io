@@ -6259,7 +6259,7 @@
     "type": "Journal",
     "abstract": "Significant research efforts have been devoted in the past decades to accurately modelling the complex heat transfer phenomena within biological tissues. These modeling efforts and analysis have assisted in a better understanding of the intricacies of associated biological phenomena and factors that affect the treatment outcomes of hyperthermic therapeutic procedures. In this contribution, we report a three-dimensional non-Fourier bio-heat transfer model of cardiac ablation that accounts for the three-phase-lags (TPL) in the heat propagation, viz., lags due to heat flux, temperature gradient, and thermal displacement gradient. Finite element-based COMSOL Multiphysics software has been utilized to predict the temperature distributions and ablation volumes. A comparative analysis has been conducted to report the variation in the treatment outcomes of cardiac ablation considering different bio-heat transfer models. The effect of variations in the magnitude of different phase lags has been systematically investigated. The fidelity and integrity of the developed model have been evaluated by comparing the results of the developed model with the analytical results of the recent studies available in the literature. This study demonstrates the importance of considering non-Fourier lags within biological tissue for predicting more accurately the characteristics important for the efficient application of thermal therapies.",
     "pages": "180",
-    "journal": "Fluids,",
+    "journal": "Fluids",
     "shortcode": "EJ-299",
     "pdf": "/research/publications/EJ-299.pdf",
     "code": "299",
