@@ -12,7 +12,7 @@ export default {
   },
   head() {
     return this.$store.getters.getPublicationSEO(
-      parseInt(this.$route.params.publicationId)
+      this.$route.params.publicationId
     );
   },
 };
