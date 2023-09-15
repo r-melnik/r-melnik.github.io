@@ -2226,7 +2226,7 @@
     "id": 203,
     "title": "Parallel Wolff cluster algorithm for n-component vector spin models",
     "year": "2011",
-    "doi": "",
+    "doi": "10.4203/ccp.95.72",
     "volume": "Vol. 95",
     "type": "Proceeding",
     "abstract": "We study the variation in the Lande g-factor of electron spins induced by an anisotropic gate potential in InAs quantum dots for potential use as non-charge based logic devices. In this paper, we present the numerical simulations of such spins in an electrostatically confined two-dimensional asymmetric gate potential forming a quantum dot system in a 2DEG. Using numerical techniques based on Finite Element Method, we show that the broken in-plane rotational symmetry, only due to Rashba spin orbit coupling in an asymmetric potential (induced by gate voltages), leads to a significant reverse effect on the tunability and control of the electron g-factor over a symmetric model potential (i.e. the derivative of the g-factor with respect to electric field has opposite sign in the two cases).",
@@ -2235,7 +2235,7 @@
     "shortcode": "EP-108",
     "pdf": "",
     "code": "108",
-    "link": null,
+    "link": "https://www.ctresources.info/ccp/paper.html?id=6320",
     "extraInfo": "<p>Grid and Cloud Computing for Engineering (Civil-Comp Proceedings)</br></br>(Eds. Ivanyj, P and Topping, B. H. V.)</br></br>April 12 - 15, 2011</br></br>Corsica, France</p>",
     "authors": [
       147,
