@@ -31,7 +31,7 @@
                 v-for="(value, index) in each.values"
                 v-if="each.values.length > 0"
               >
-                <v-list-item :href="value.item.path">
+                <v-list-item :to="value.item.path">
                   <v-list-item-content>
                     <v-list-item-title
                       class="primary--text text--darken-3"
