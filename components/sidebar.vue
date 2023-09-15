@@ -162,7 +162,7 @@ export default {
           this.$store.state.data.publications.map((publication) => ({
             ...publication,
             title: publication.title,
-            subtitle: publication.type,
+            subtitle: publication.type + " " + publication.shortcode,
             description: publication.authors,
             path: `/research/publications/${publication.shortcode}`,
           })),
