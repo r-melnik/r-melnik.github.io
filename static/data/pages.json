@@ -208,7 +208,7 @@
                 "html": "In all the above projects, the solution of vast majority of problems is not amenable to analytical treatments and the development of efficient numerical methodologies and algorithms is required. Computational science and engineering relies on the development of mathematical modeling tools, and in this context our interests include also computational and mathematical physics, biological and life science applications, engineering mathematics, and cognitive social sciences. These context-specific applications enrich applied mathematics and the interface between these disciplines represent the core of of our research activities. Today, this interface encompasses some of the most challenging problems of modern science, technology, and society."
             },
             {
-                "html": " This trend will persist into the future, bringing exciting new opportunities for those researchers who are able to work in an interdisciplinary environment. Such opportunities exist in our group for those <a href='/events/research'>students and postdoctoral fellows</a> who are keen on facing these challenges in their future careers for the benefit of our society. If you are a student, in particular a potential graduate student, or a researcher who is interested in working/collaborating with us on one of our current or emerging projects, please contact us. "
+                "html": " This trend will persist into the future, bringing exciting new opportunities for those researchers who are able to work in an interdisciplinary environment. Such opportunities exist in our group for those <a href='/events/opportunities'>students and postdoctoral fellows</a> who are keen on facing these challenges in their future careers for the benefit of our society. If you are a student, in particular a potential graduate student, or a researcher who is interested in working/collaborating with us on one of our current or emerging projects, please contact us. "
             },
             {
                 "title": "Human Knowledge and Mathematical Modeling",
@@ -715,11 +715,11 @@
                 "buttons": [
                     {
                         "title": "For Students",
-                        "link": "/events/research"
+                        "link": "/events/opportunities"
                     },
                     {
                         "title": "For Postdoctoral Researchers",
-                        "link": "/events/research"
+                        "link": "/events/opportunities"
                     }
                 ]
             }
