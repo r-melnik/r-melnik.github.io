@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Hyperlink Checker</title>
+</head>
+
+<body>
+    <h1>JSON Hyperlink Checker</h1>
+    <h2>Total: <span id="total"></span>
+    </h2>
+    <h3> <span id='status'></span>
+    </h3>
+    <input type="text" placeholder="Host (no trailing slash)" id="url" value="" />
+    <button onclick="processUrls()">Check URLs</button>
+    <table id="resultTable">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>URL</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+        </tbody>
+    </table>
+
+    <script>
+        const resultTable = document.getElementById('tableBody');
+        document.getElementById('url').value = window.location.origin;
+        function findHyperlinks(jsonStr, baseUrl) {
+            const relativeUrlPattern = /["']\/[^"']+["']/g;
+            const absolutePattern = /["']https?:\/\/[^\s/$.?#][^\s]*?["']/g;
+            const relativeMatches = jsonStr.match(relativeUrlPattern)
+            const absoluteMatches = jsonStr.match(absolutePattern)
+            const links = []
+            if (relativeMatches) {
+                relativeMatches.map(match => {
+                    const relativeLink = match.slice(1, -1); // Remove quotes
+                    const absoluteLink = new URL(relativeLink, baseUrl).href;
+                    links.push(absoluteLink);
+                });
+            }
+            if (absoluteMatches) {
+                absoluteMatches.map(match => {
+                    links.push(match.slice(1, -1));
+                });
+            }
+            return links;
+        }
+
+        async function checkUrl(url) {
+            const response = await fetch(url, {
+                mode: 'no-cors',
+                timeout: 100
+            }).then(() => ({
+                status: 200
+            })).catch(err => ({
+                status: err.response ? err.response.status : 999
+            }));
+            console.log(response)
+            return response.status.toString();
+        }
+
+        async function processUrls() {
+
+            document.getElementById('status').textContent = 'Processing...';
+            const url = document.getElementById('url').value;
+            const baseUrl = url ?? window.location.origin
+            const paths = ['/data/pages.json', '/data/books.json', '/data/journals.json', '/data/proceedings.json', '/data/projects.json', '/data/news.json', '/data/menu.json', '/data/layout.json'];
+            const urlsToCheck = [];
+            const hyperlinks = []
+            for (let index = 0; index < paths.length; index++) {
+                const path = paths[index];
+                const response = await fetch(baseUrl + path);
+                if (response.ok) {
+                    const json = await response.json();
+                    const links = findHyperlinks(JSON.stringify(json), baseUrl);
+                    // Check each hyperlink
+                    for (let index = 0; index < links.length; index++) {
+                        const link = links[index];
+                        const dynamicLink = /\[[^\]]*\]/g
+                        if (!link.match(dynamicLink)) {
+                            hyperlinks.push(link);
+                        }
+                    }
+                }
+            }
+
+            document.getElementById('status').textContent = `Processing (0, ${hyperlinks.length})`;
+            document.getElementById('total').textContent = hyperlinks.length;
+            let counter = 0
+            const links = []
+            await Promise.all(hyperlinks.map(async (link, index) => {
+                await checkUrl(link)
+                    .then((status) => links.push({
+                        link,
+                        status
+                    }))
+                    .finally(() => {
+                        counter++;
+                        document.getElementById('status').textContent = `Processing (${counter}, ${hyperlinks.length})`;
+                    })
+            }));
+            console.log(links)
+            links.sort((a, b) => b.status - a.status).forEach((link, index) => {
+                addToTable(index, link.link, link.status);
+            });
+            document.getElementById('status').textContent = 'Done';
+
+        }
+
+        function addToTable(index, link, status) {
+            const row = document.createElement('tr');
+            const indexCell = document.createElement('td');
+            const urlCell = document.createElement('td');
+            const urlLink = document.createElement('a');
+            const statusCell = document.createElement('td');
+            indexCell.textContent = index + 1;
+            urlLink.append(
+                document.createTextNode(link)
+            )
+            urlLink.href = link;
+            urlLink.target = '_blank';
+            urlCell.appendChild(urlLink)
+            statusCell.textContent = status;
+            row.appendChild(indexCell);
+            row.appendChild(urlCell);
+            row.appendChild(statusCell);
+            resultTable.appendChild(row);
+        }
+    </script>
+</body>
+
+</html>
