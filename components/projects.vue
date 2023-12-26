@@ -59,7 +59,7 @@
                           >
                             <a
                               class="link-killer"
-                              :to="`/research/projects/${project.id}/${subproject.id}`"
+                              :href="`/research/projects/${project.id}/${subproject.id}`"
                               ><v-list-item
                                 :key="`subproject-list-${index}-${subproject.id}`"
                               >

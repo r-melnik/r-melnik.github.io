@@ -364,7 +364,7 @@ export default {
       menu,
       layout,
     });
-    this.$store.dispatch("getData");
+    await this.$store.dispatch("getData");
   },
 
   computed: {

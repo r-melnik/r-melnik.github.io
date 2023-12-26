@@ -98,7 +98,7 @@ export default {
     return {
       dialog: false,
       slideshow: 0,
-      filteredGallery: this.gallery.filter(
+      filteredGallery: this.$props.gallery.filter(
         (each) => each.type === this.$props.settings.type
       ),
     };

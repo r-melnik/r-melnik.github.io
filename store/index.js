@@ -143,6 +143,8 @@ export const getters = {
 
 export const mutations = {
   setData(state, data) {
+    console.log('set',data)
+
     state.data = {
       ...data,
       projects: data.projects.map((project) => {
@@ -231,14 +233,14 @@ export const mutations = {
           }
         })
     };
+    console.log('set')
     state.isReady = true;
+    console.log('set')
   },
 };
 export const actions = {
   async getData({ getters, commit }) {
-    if (process.env.NODE_ENV === 'development') {
-      return
-    }
+
     const path = (text) => `${this.$axios.defaults.baseURL}${text}`
     const fetchJson = async (url) => {
       const response = await fetch(url);
@@ -264,7 +266,7 @@ export const actions = {
     const fetchedData = await Promise.all(dataUrls.map((url) => fetchJson(path(url))));
 
     const [journals, researchers, projects, members, gallery, books, authors, alumni, proceedings, news, pages, menu, layout] = fetchedData;
-
+    console.log('x', commit)
     commit("setData", {
       journals,
       researchers,
