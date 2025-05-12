@@ -2,12 +2,14 @@
   <v-card class="px-5 py-1 my-1" :elevation="component.elevation || 0">
     <div
       :id="
-        component.title
-          ? $store.getters.parseKey(component.title)
-          : undefined
+        component.title ? $store.getters.parseKey(component.title) : undefined
       "
     ></div>
-    <v-card-title class="pa-0 break-word mt-1 d-inline" v-if="component.title" v-html="component.title" />
+    <v-card-title
+      class="pa-0 break-word mt-1 d-inline"
+      v-if="component.title"
+      v-html="component.title"
+    />
     <DynamicComponent
       v-if="component.type"
       :type="component.type"
@@ -28,9 +30,9 @@
         color="blue"
         dark
         class="my-1 mx-1"
-        :to="button.link"
+        :href="button.link"
         v-html="button.title"
-        :key="$store.getters.parseKey(page.name+button.title)"
+        :key="$store.getters.parseKey(page.name + button.title)"
       />
     </v-card-text>
   </v-card>
