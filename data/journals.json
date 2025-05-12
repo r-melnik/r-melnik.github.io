@@ -14,10 +14,7 @@
     "code": "1",
     "link": null,
     "extraInfo": "<p>Available in English and Russian: English, ISSN: 0041-5553, or USSR Computational Mathematics and Mathematical Physics = Zhurnal Vychislitelnoi Matematiki i Matematicheskoi Fiziki, 28 (11), 1988, 1755-1756, Russian, ISSN: 0044-4669</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in <a href=\"https://clarivate.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Web of Science</a>,&nbsp;<a href=\"http://www.engineeringvillage.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">INSPEC</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245,
-      255
-    ]
+    "authors": [245, 255]
   },
   {
     "id": 177,
@@ -34,10 +31,7 @@
     "code": "2",
     "link": null,
     "extraInfo": "<p>ISSN: 0235-2923, Model. Mekh.</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in <a href=\"https://zbmath.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">ZMATH </a>and other major databases.</p>",
-    "authors": [
-      255,
-      245
-    ]
+    "authors": [255, 245]
   },
   {
     "id": 193,
@@ -54,9 +48,7 @@
     "code": "3",
     "link": null,
     "extraInfo": "<p>ISSN: 0235-2923, Model. Mekh.</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 210,
@@ -73,9 +65,7 @@
     "code": "4",
     "link": null,
     "extraInfo": "<p>Electronic Engineering Series. Part 3: Microelectronics = Elektronnaia Tekhnika. Seriia 3: Mikroelektronika</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in Central Scientific Research Institute (TSNII) \"Elektronika\", Moscow, in&nbsp;<a href=\"http://www.nlr.ru/eng/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"letter-spacing: 0.00714286em; background-color: rgb(255, 255, 255);\">NLR</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 226,
@@ -92,9 +82,7 @@
     "code": "5",
     "link": null,
     "extraInfo": "<p>ISSN: 0320-9016, Voprosy Vychisl. i Prikl. Mat. in MathSciNet</p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 247,
@@ -111,9 +99,7 @@
     "code": "6",
     "link": null,
     "extraInfo": "<p>ISSN: 0235-2923, Model. Mekh. in MathSciNet</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 271,
@@ -130,9 +116,7 @@
     "code": "7",
     "link": null,
     "extraInfo": "<p>ISSN: 0420-0497, Dinamika Sploshn. Sredy in MathSciNet</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 285,
@@ -149,9 +133,7 @@
     "code": "8",
     "link": null,
     "extraInfo": "<p>ISSN: 0235-2923, Model. Mekh. in MathSciNet</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 296,
@@ -168,9 +150,7 @@
     "code": "9",
     "link": null,
     "extraInfo": "<p>ISSN: 0201-744X - all series, ISSN: 0372-6053 - specific to Mechanical Engineering, Vesnik KPI: Mashinostroenie, continued as Visnyk NTUU KPI</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.nlr.ru/eng/\" rel=\"noopener noreferrer\" target=\"_blank\">NLR</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 90,
@@ -187,9 +167,7 @@
     "code": "10",
     "link": null,
     "extraInfo": "<p>ISSN: 0320-6920</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.bl.uk/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">BL</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 107,
@@ -206,9 +184,7 @@
     "code": "11",
     "link": null,
     "extraInfo": "<p>Available in English and Russian: English, ISSN: 0197-7156, or Russian, ISSN: 0021-3446</p><p><br></p><p>[Referenced also as: Izvestiya Vysshikh Uchebnykh Zavedenii (VUZ): Matematika 35(4) 24-32 1991]</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\">Web of Science</a>,&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\">MathSciNet</a>&nbsp;and other major databases<span style=\"color: rgba(0, 0, 0, 0.87);\">.</span></p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 119,
@@ -225,9 +201,7 @@
     "code": "12",
     "link": null,
     "extraInfo": "<p>Available in English and Russian: English, ISSN: 0735-2727 in INSPEC, or Russian, ISSN: 0021-3470 in Compendex</p><p><br></p><p>[Referenced also as: Izvestiya Vysshikh Uchebnykh Zavedenii (VUZ): Radioelektronika 34 (6) 89-91 1991]</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a>,&nbsp;<a href=\"http://www.engineeringvillage.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">INSPEC/Compendex</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 130,
@@ -244,10 +218,7 @@
     "code": "13",
     "link": null,
     "extraInfo": "<p>Available in English and Russian: English, ISSN: 0012-2661 as above, or Russian, Differentsialnye Uravneniya, 27(7), 1220-1229, 1991, ISSN: 0374-0641</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\">Web of Science</a>,&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\">MathSciNet</a>&nbsp;and other major databases<span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\">.</span></p>",
-    "authors": [
-      255,
-      245
-    ]
+    "authors": [255, 245]
   },
   {
     "id": 141,
@@ -264,9 +235,7 @@
     "code": "14",
     "link": null,
     "extraInfo": "<p>ISSN: 0320-6920</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.bl.uk/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">BL</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 152,
@@ -283,9 +252,7 @@
     "code": "15",
     "link": null,
     "extraInfo": "<p>ISSN: 0320-6920</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.bl.uk/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">BL</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 163,
@@ -302,9 +269,7 @@
     "code": "16",
     "link": null,
     "extraInfo": "<p>Available in English and Russian: English, ISSN: 0275-9136 (continued as 1063-1100), or Electronnoe Modelirovanie, Russian, ISSN: 0204-3572</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.loc.gov/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">LOC</a>,&nbsp;<a href=\"http://www.nlr.ru/eng/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">NLR</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 172,
@@ -321,9 +286,7 @@
     "code": "17",
     "link": null,
     "extraInfo": "<p>Available in English and Russian: English, ISSN: 0090-4104 as above, or Mat. Metody i Fiz.-Mekh. Polya, No. 34, 95-99, 1991, Russian, ISSN: 0130-9420</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 174,
@@ -340,9 +303,7 @@
     "code": "18",
     "link": null,
     "extraInfo": "<p>ISSN: 0320-6920</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.bl.uk/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">BL</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 175,
@@ -359,9 +320,7 @@
     "code": "19",
     "link": null,
     "extraInfo": "<p>Available in English and Russian: English, ISSN: 0090-4104 as above, or Russian, Vychisl. Prikl. Mat., 69, 68-77, 1989, ISSN: 0321-4117</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in <a href=\"https://zbmath.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">ZMATH </a>and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 178,
@@ -378,9 +337,7 @@
     "code": "20",
     "link": null,
     "extraInfo": "<p>ISSN: 1063-1100</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.engineeringvillage.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Compendex</a>, <a href=\"https://Scopus.com\" rel=\"noopener noreferrer\" target=\"_blank\">Scopus&nbsp;</a>and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 179,
@@ -397,9 +354,7 @@
     "code": "21",
     "link": null,
     "extraInfo": "<p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 180,
@@ -416,9 +371,7 @@
     "code": "22",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"letter-spacing: 0.00714286em; background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 181,
@@ -435,9 +388,7 @@
     "code": "23",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"http://www.engineeringvillage.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Compendex</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 182,
@@ -454,9 +405,7 @@
     "code": "24",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"letter-spacing: 0.00714286em; background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 184,
@@ -473,9 +422,7 @@
     "code": "25",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\"><strong>Publication</strong> is abstracted/indexed in </span><a href=\"https://zbmath.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"letter-spacing: 0.00714286em; background-color: rgb(255, 255, 255);\">ZMATH </a><span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\">and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 186,
@@ -492,10 +439,7 @@
     "code": "26",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      156
-    ]
+    "authors": [4, 156]
   },
   {
     "id": 187,
@@ -512,10 +456,7 @@
     "code": "27",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      156,
-      4
-    ]
+    "authors": [156, 4]
   },
   {
     "id": 189,
@@ -532,11 +473,7 @@
     "code": "28",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciN</a><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">et</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      131,
-      4,
-      158
-    ]
+    "authors": [131, 4, 158]
   },
   {
     "id": 191,
@@ -553,10 +490,7 @@
     "code": "29",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"letter-spacing: 0.00714286em; background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87); letter-spacing: 0.00714286em;\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      156
-    ]
+    "authors": [4, 156]
   },
   {
     "id": 195,
@@ -573,10 +507,7 @@
     "code": "30",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      157
-    ]
+    "authors": [4, 157]
   },
   {
     "id": 196,
@@ -593,9 +524,7 @@
     "code": "31",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 197,
@@ -612,10 +541,7 @@
     "code": "32",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      157,
-      4
-    ]
+    "authors": [157, 4]
   },
   {
     "id": 199,
@@ -632,11 +558,7 @@
     "code": "33",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      158,
-      159
-    ]
+    "authors": [4, 158, 159]
   },
   {
     "id": 201,
@@ -653,9 +575,7 @@
     "code": "34",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\">This publication can be found in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 202,
@@ -672,9 +592,7 @@
     "code": "35",
     "link": null,
     "extraInfo": "<p>[ISSN: 1027-9350]</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in <a href=\"https://zbmath.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">ZMATH </a>and other major databases.</p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 205,
@@ -691,11 +609,7 @@
     "code": "36",
     "link": null,
     "extraInfo": "<p>ISSN: 1311-2872</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in <a href=\"https://zbmath.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">ZMATH </a>and other major databases.</p>",
-    "authors": [
-      159,
-      4,
-      158
-    ]
+    "authors": [159, 4, 158]
   },
   {
     "id": 206,
@@ -712,10 +626,7 @@
     "code": "37",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      157
-    ]
+    "authors": [4, 157]
   },
   {
     "id": 208,
@@ -732,9 +643,7 @@
     "code": "38",
     "link": "https://www.tandfonline.com/doi/abs/10.1080/13926292.2001.9637169",
     "extraInfo": "<p>ISSN: 1392-6292</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 209,
@@ -751,9 +660,7 @@
     "code": "39",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 212,
@@ -770,11 +677,7 @@
     "code": "40",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      131,
-      4,
-      158
-    ]
+    "authors": [131, 4, 158]
   },
   {
     "id": 213,
@@ -791,9 +694,7 @@
     "code": "41",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 214,
@@ -810,10 +711,7 @@
     "code": "42",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      158,
-      4
-    ]
+    "authors": [158, 4]
   },
   {
     "id": 215,
@@ -830,10 +728,7 @@
     "code": "43",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      156,
-      4
-    ]
+    "authors": [156, 4]
   },
   {
     "id": 217,
@@ -850,11 +745,7 @@
     "code": "44",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      158,
-      159
-    ]
+    "authors": [4, 158, 159]
   },
   {
     "id": 219,
@@ -871,9 +762,7 @@
     "code": "45",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 220,
@@ -890,10 +779,7 @@
     "code": "46",
     "link": null,
     "extraInfo": "<p>ISSN: 0219-4554</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.loc.gov/\" rel=\"noopener noreferrer\" target=\"_blank\">LOC</a>&nbsp;and other major databases<span style=\"color: rgba(0, 0, 0, 0.87);\">.</span></p>",
-    "authors": [
-      4,
-      156
-    ]
+    "authors": [4, 156]
   },
   {
     "id": 222,
@@ -910,10 +796,7 @@
     "code": "47",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      164,
-      4
-    ]
+    "authors": [164, 4]
   },
   {
     "id": 224,
@@ -930,10 +813,7 @@
     "code": "48",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      156,
-      4
-    ]
+    "authors": [156, 4]
   },
   {
     "id": 225,
@@ -950,11 +830,7 @@
     "code": "49",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      158,
-      159
-    ]
+    "authors": [4, 158, 159]
   },
   {
     "id": 227,
@@ -971,9 +847,7 @@
     "code": "50",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 230,
@@ -990,10 +864,7 @@
     "code": "51",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      155
-    ]
+    "authors": [4, 155]
   },
   {
     "id": 563,
@@ -1010,11 +881,7 @@
     "code": "52",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      241,
-      4,
-      242
-    ]
+    "authors": [241, 4, 242]
   },
   {
     "id": 235,
@@ -1031,11 +898,7 @@
     "code": "53",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      166,
-      4,
-      168
-    ]
+    "authors": [166, 4, 168]
   },
   {
     "id": 237,
@@ -1052,11 +915,7 @@
     "code": "54",
     "link": "https://www.aimsciences.org/article/doi/10.3934/proc.2003.2003.610",
     "extraInfo": "<p>Based on the Proceedings of the Forth Int. Conf. on Dynamical Systems and Differential Equations, Eds: Feng, W., Hu, S. and Lu, X.</p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      114,
-      115
-    ]
+    "authors": [4, 114, 115]
   },
   {
     "id": 239,
@@ -1073,10 +932,7 @@
     "code": "55",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      158
-    ]
+    "authors": [4, 158]
   },
   {
     "id": 240,
@@ -1093,9 +949,7 @@
     "code": "56",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 242,
@@ -1112,11 +966,7 @@
     "code": "57",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      171,
-      4,
-      172
-    ]
+    "authors": [171, 4, 172]
   },
   {
     "id": 244,
@@ -1133,12 +983,7 @@
     "code": "58",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      162,
-      163,
-      173
-    ]
+    "authors": [4, 162, 163, 173]
   },
   {
     "id": 246,
@@ -1155,9 +1000,7 @@
     "code": "59",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 249,
@@ -1174,9 +1017,7 @@
     "code": "60",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 252,
@@ -1193,12 +1034,7 @@
     "code": "61",
     "link": null,
     "extraInfo": "<p>Also was selected and published in the Electronic Journal of Nanoscale Science and Technology, Oct 18, 2004</p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      176,
-      111,
-      4,
-      108
-    ]
+    "authors": [176, 111, 4, 108]
   },
   {
     "id": 254,
@@ -1215,12 +1051,7 @@
     "code": "62",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      111,
-      176,
-      108,
-      4
-    ]
+    "authors": [111, 176, 108, 4]
   },
   {
     "id": 256,
@@ -1237,12 +1068,7 @@
     "code": "63",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      108,
-      4,
-      175,
-      176
-    ]
+    "authors": [108, 4, 175, 176]
   },
   {
     "id": 258,
@@ -1259,11 +1085,7 @@
     "code": "64",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      177,
-      4,
-      178
-    ]
+    "authors": [177, 4, 178]
   },
   {
     "id": 260,
@@ -1280,10 +1102,7 @@
     "code": "65",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      174
-    ]
+    "authors": [4, 174]
   },
   {
     "id": 264,
@@ -1300,10 +1119,7 @@
     "code": "66",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      174,
-      4
-    ]
+    "authors": [174, 4]
   },
   {
     "id": 267,
@@ -1320,12 +1136,7 @@
     "code": "67",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      175,
-      176,
-      4,
-      108
-    ]
+    "authors": [175, 176, 4, 108]
   },
   {
     "id": 269,
@@ -1342,10 +1153,7 @@
     "code": "68",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      93
-    ]
+    "authors": [4, 93]
   },
   {
     "id": 270,
@@ -1362,10 +1170,7 @@
     "code": "69",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 274,
@@ -1382,10 +1187,7 @@
     "code": "70",
     "link": null,
     "extraInfo": "<p>Based on the Proc of XIth CTAC, Eds. J. Crawford and A.J. Roberts</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a>&nbsp;and other major databases.</p>",
-    "authors": [
-      4,
-      146
-    ]
+    "authors": [4, 146]
   },
   {
     "id": 276,
@@ -1402,10 +1204,7 @@
     "code": "71",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      174
-    ]
+    "authors": [4, 174]
   },
   {
     "id": 277,
@@ -1422,12 +1221,7 @@
     "code": "72",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      166,
-      4,
-      12,
-      168
-    ]
+    "authors": [166, 4, 12, 168]
   },
   {
     "id": 278,
@@ -1444,12 +1238,7 @@
     "code": "73",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      176,
-      4,
-      111,
-      108
-    ]
+    "authors": [176, 4, 111, 108]
   },
   {
     "id": 279,
@@ -1466,10 +1255,7 @@
     "code": "74",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      158
-    ]
+    "authors": [4, 158]
   },
   {
     "id": 280,
@@ -1486,10 +1272,7 @@
     "code": "75",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      108
-    ]
+    "authors": [4, 108]
   },
   {
     "id": 281,
@@ -1506,12 +1289,7 @@
     "code": "76",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"http://www.engineeringvillage.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Compendex</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      111,
-      4,
-      108,
-      176
-    ]
+    "authors": [111, 4, 108, 176]
   },
   {
     "id": 282,
@@ -1528,11 +1306,7 @@
     "code": "77",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      179,
-      4,
-      180
-    ]
+    "authors": [179, 4, 180]
   },
   {
     "id": 283,
@@ -1549,11 +1323,7 @@
     "code": "78",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      131,
-      158
-    ]
+    "authors": [4, 131, 158]
   },
   {
     "id": 284,
@@ -1570,13 +1340,7 @@
     "code": "79",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"http://www.engineeringvillage.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Compendex</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      111,
-      176,
-      108,
-      175
-    ]
+    "authors": [4, 111, 176, 108, 175]
   },
   {
     "id": 286,
@@ -1593,13 +1357,7 @@
     "code": "80",
     "link": null,
     "extraInfo": "<p>Also was selected and published in the Electronic Journal of Nanoscale Science and Technology, Aug 1, 2005</p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      176,
-      175,
-      111,
-      108,
-      4
-    ]
+    "authors": [176, 175, 111, 108, 4]
   },
   {
     "id": 287,
@@ -1616,13 +1374,7 @@
     "code": "81",
     "link": null,
     "extraInfo": "<p>ISSN1078-0947 Based on the AIMS 5th DSDE - Dynamical Systems and Differential Equations, Eds. S. Hu, X. Lu. and W. Xie</p><p><br></p><p><strong>Publication</strong> is abstracted/indexed in&nbsp;<a href=\"http://www.ams.org/mathscinet/\" rel=\"noopener noreferrer\" target=\"_blank\">MathSciNet</a>&nbsp;and other major databases<span style=\"color: rgba(0, 0, 0, 0.87);\">.</span></p>",
-    "authors": [
-      4,
-      111,
-      176,
-      108,
-      175
-    ]
+    "authors": [4, 111, 176, 108, 175]
   },
   {
     "id": 288,
@@ -1639,10 +1391,7 @@
     "code": "82",
     "link": null,
     "extraInfo": "<p>DCDIS4: ISSN 1492-8760</p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      99,
-      4
-    ]
+    "authors": [99, 4]
   },
   {
     "id": 289,
@@ -1659,12 +1408,7 @@
     "code": "83",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      111,
-      108,
-      4,
-      176
-    ]
+    "authors": [111, 108, 4, 176]
   },
   {
     "id": 290,
@@ -1681,11 +1425,7 @@
     "code": "84",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"http://www.engineeringvillage.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Compendex</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      112,
-      113
-    ]
+    "authors": [4, 112, 113]
   },
   {
     "id": 291,
@@ -1702,11 +1442,7 @@
     "code": "85",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      181,
-      108,
-      4
-    ]
+    "authors": [181, 108, 4]
   },
   {
     "id": 292,
@@ -1723,10 +1459,7 @@
     "code": "86",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 293,
@@ -1743,11 +1476,7 @@
     "code": "87",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      100,
-      4,
-      101
-    ]
+    "authors": [100, 4, 101]
   },
   {
     "id": 294,
@@ -1764,10 +1493,7 @@
     "code": "88",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"http://www.iop.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Institute of Physics</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;database with individual articles from this special issue in&nbsp;</span><a href=\"http://www.engineeringvillage.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">INSPEC</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      182
-    ]
+    "authors": [4, 182]
   },
   {
     "id": 295,
@@ -1784,12 +1510,7 @@
     "code": "89",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      97,
-      96,
-      110,
-      4
-    ]
+    "authors": [97, 96, 110, 4]
   },
   {
     "id": 297,
@@ -1806,12 +1527,7 @@
     "code": "90",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      108,
-      111,
-      4,
-      176
-    ]
+    "authors": [108, 111, 4, 176]
   },
   {
     "id": 298,
@@ -1828,10 +1544,7 @@
     "code": "91",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 299,
@@ -1848,10 +1561,7 @@
     "code": "92",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      99,
-      4
-    ]
+    "authors": [99, 4]
   },
   {
     "id": 300,
@@ -1868,10 +1578,7 @@
     "code": "93",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 301,
@@ -1888,11 +1595,7 @@
     "code": "94",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      111,
-      108,
-      4
-    ]
+    "authors": [111, 108, 4]
   },
   {
     "id": 302,
@@ -1909,12 +1612,7 @@
     "code": "95",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      107,
-      108,
-      4,
-      176
-    ]
+    "authors": [107, 108, 4, 176]
   },
   {
     "id": 303,
@@ -1931,12 +1629,7 @@
     "code": "96",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      97,
-      96,
-      4,
-      183
-    ]
+    "authors": [97, 96, 4, 183]
   },
   {
     "id": 304,
@@ -1953,10 +1646,7 @@
     "code": "97",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      93
-    ]
+    "authors": [4, 93]
   },
   {
     "id": 305,
@@ -1973,12 +1663,7 @@
     "code": "98",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      111,
-      108,
-      4,
-      176
-    ]
+    "authors": [111, 108, 4, 176]
   },
   {
     "id": 306,
@@ -1995,10 +1680,7 @@
     "code": "99",
     "link": null,
     "extraInfo": "<p>Suppl. S, ISSN: 1201-3390</p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      99,
-      4
-    ]
+    "authors": [99, 4]
   },
   {
     "id": 97,
@@ -2015,10 +1697,7 @@
     "code": "100",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 98,
@@ -2035,10 +1714,7 @@
     "code": "101",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 99,
@@ -2055,11 +1731,7 @@
     "code": "102",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      100,
-      4,
-      101
-    ]
+    "authors": [100, 4, 101]
   },
   {
     "id": 100,
@@ -2076,11 +1748,7 @@
     "code": "103",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      147,
-      4,
-      146
-    ]
+    "authors": [147, 4, 146]
   },
   {
     "id": 101,
@@ -2097,10 +1765,7 @@
     "code": "104",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      99,
-      4
-    ]
+    "authors": [99, 4]
   },
   {
     "id": 102,
@@ -2117,10 +1782,7 @@
     "code": "105",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      35,
-      4
-    ]
+    "authors": [35, 4]
   },
   {
     "id": 103,
@@ -2137,10 +1799,7 @@
     "code": "106",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 104,
@@ -2157,10 +1816,7 @@
     "code": "107",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 105,
@@ -2177,10 +1833,7 @@
     "code": "108",
     "link": "/research/publications/EJ-108-Info.pdf",
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed </span>in&nbsp;<a href=\"http://www.ams.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      57,
-      4
-    ]
+    "authors": [57, 4]
   },
   {
     "id": 106,
@@ -2197,10 +1850,7 @@
     "code": "109",
     "link": "https://www.aimsciences.org/article/doi/10.3934/proc.2007.2007.1052",
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed </span>in&nbsp;<a href=\"http://www.ams.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      35,
-      4
-    ]
+    "authors": [35, 4]
   },
   {
     "id": 108,
@@ -2217,10 +1867,7 @@
     "code": "110",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      99
-    ]
+    "authors": [4, 99]
   },
   {
     "id": 109,
@@ -2237,10 +1884,7 @@
     "code": "111",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 110,
@@ -2257,13 +1901,7 @@
     "code": "112",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      149,
-      99,
-      148,
-      4,
-      150
-    ]
+    "authors": [149, 99, 148, 4, 150]
   },
   {
     "id": 111,
@@ -2280,11 +1918,7 @@
     "code": "113",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed </span>in&nbsp;<a href=\"http://www.ams.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">MathSciNet</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      104,
-      105
-    ]
+    "authors": [4, 104, 105]
   },
   {
     "id": 112,
@@ -2301,10 +1935,7 @@
     "code": "114",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      99,
-      4
-    ]
+    "authors": [99, 4]
   },
   {
     "id": 114,
@@ -2321,11 +1952,7 @@
     "code": "115",
     "link": "http://www.global-sci.com/intro/articles_list/cicp/2059.html",
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      147,
-      4,
-      155
-    ]
+    "authors": [147, 4, 155]
   },
   {
     "id": 115,
@@ -2342,14 +1969,7 @@
     "code": "116",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      149,
-      99,
-      151,
-      148,
-      4,
-      150
-    ]
+    "authors": [149, 99, 151, 148, 4, 150]
   },
   {
     "id": 116,
@@ -2366,10 +1986,7 @@
     "code": "117",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 117,
@@ -2386,10 +2003,7 @@
     "code": "118",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 118,
@@ -2406,12 +2020,7 @@
     "code": "119",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      95,
-      96,
-      97,
-      4
-    ]
+    "authors": [95, 96, 97, 4]
   },
   {
     "id": 120,
@@ -2428,9 +2037,7 @@
     "code": "120",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\"><strong>Publication</strong> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 121,
@@ -2447,11 +2054,7 @@
     "code": "121",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"http://www.iop.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">IOP</a> <span style=\"color: rgba(0, 0, 0, 0.87);\">and other major databases.</span></p>",
-    "authors": [
-      109,
-      4,
-      108
-    ]
+    "authors": [109, 4, 108]
   },
   {
     "id": 122,
@@ -2468,12 +2071,7 @@
     "code": "122",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      99,
-      149,
-      148,
-      4
-    ]
+    "authors": [99, 149, 148, 4]
   },
   {
     "id": 123,
@@ -2490,10 +2088,7 @@
     "code": "123",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      22,
-      4
-    ]
+    "authors": [22, 4]
   },
   {
     "id": 124,
@@ -2510,11 +2105,7 @@
     "code": "124",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      4,
-      93,
-      94
-    ]
+    "authors": [4, 93, 94]
   },
   {
     "id": 125,
@@ -2531,10 +2122,7 @@
     "code": "125",
     "link": null,
     "extraInfo": "<p><strong style=\"color: rgba(0, 0, 0, 0.87);\">Publication</strong><span style=\"color: rgba(0, 0, 0, 0.87);\"> is abstracted/indexed in&nbsp;</span><a href=\"https://clarivate.com\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Web of Science</a><span style=\"color: rgba(0, 0, 0, 0.87);\">&nbsp;and other major databases.</span></p>",
-    "authors": [
-      22,
-      4
-    ]
+    "authors": [22, 4]
   },
   {
     "id": 126,
@@ -2551,10 +2139,7 @@
     "code": "126",
     "link": "https://www.worldscientific.com/doi/10.1142/S0256767909003820",
     "extraInfo": "",
-    "authors": [
-      35,
-      4
-    ]
+    "authors": [35, 4]
   },
   {
     "id": 127,
@@ -2571,11 +2156,7 @@
     "code": "127",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      12,
-      153,
-      4
-    ]
+    "authors": [12, 153, 4]
   },
   {
     "id": 128,
@@ -2592,10 +2173,7 @@
     "code": "128",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      57,
-      4
-    ]
+    "authors": [57, 4]
   },
   {
     "id": 129,
@@ -2612,9 +2190,7 @@
     "code": "129",
     "link": null,
     "extraInfo": null,
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 131,
@@ -2631,11 +2207,7 @@
     "code": "130",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      4,
-      90,
-      91
-    ]
+    "authors": [4, 90, 91]
   },
   {
     "id": 132,
@@ -2652,12 +2224,7 @@
     "code": "131",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      99,
-      154,
-      149,
-      4
-    ]
+    "authors": [99, 154, 149, 4]
   },
   {
     "id": 133,
@@ -2674,10 +2241,7 @@
     "code": "132",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 134,
@@ -2694,11 +2258,7 @@
     "code": "133",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      111,
-      4,
-      108
-    ]
+    "authors": [111, 4, 108]
   },
   {
     "id": 135,
@@ -2715,13 +2275,7 @@
     "code": "134",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      76,
-      22,
-      4,
-      71,
-      80
-    ]
+    "authors": [76, 22, 4, 71, 80]
   },
   {
     "id": 136,
@@ -2738,10 +2292,7 @@
     "code": "135",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      85,
-      4
-    ]
+    "authors": [85, 4]
   },
   {
     "id": 137,
@@ -2758,10 +2309,7 @@
     "code": "136",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      85,
-      4
-    ]
+    "authors": [85, 4]
   },
   {
     "id": 138,
@@ -2778,11 +2326,7 @@
     "code": "137",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      86,
-      4,
-      87
-    ]
+    "authors": [86, 4, 87]
   },
   {
     "id": 139,
@@ -2799,10 +2343,7 @@
     "code": "138",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      85,
-      4
-    ]
+    "authors": [85, 4]
   },
   {
     "id": 140,
@@ -2819,13 +2360,7 @@
     "code": "139",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      68,
-      22,
-      4,
-      71,
-      80
-    ]
+    "authors": [68, 22, 4, 71, 80]
   },
   {
     "id": 142,
@@ -2842,14 +2377,7 @@
     "code": "140",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      68,
-      76,
-      22,
-      4,
-      71,
-      80
-    ]
+    "authors": [68, 76, 22, 4, 71, 80]
   },
   {
     "id": 143,
@@ -2866,10 +2394,7 @@
     "code": "141",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 144,
@@ -2886,11 +2411,7 @@
     "code": "142",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      147,
-      155,
-      4
-    ]
+    "authors": [147, 155, 4]
   },
   {
     "id": 145,
@@ -2907,11 +2428,7 @@
     "code": "143",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      147,
-      4,
-      155
-    ]
+    "authors": [147, 4, 155]
   },
   {
     "id": 146,
@@ -2928,13 +2445,7 @@
     "code": "144",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      70,
-      22,
-      4,
-      71,
-      80
-    ]
+    "authors": [70, 22, 4, 71, 80]
   },
   {
     "id": 147,
@@ -2951,11 +2462,7 @@
     "code": "145",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      86,
-      4,
-      87
-    ]
+    "authors": [86, 4, 87]
   },
   {
     "id": 148,
@@ -2972,10 +2479,7 @@
     "code": "146",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 149,
@@ -2992,12 +2496,7 @@
     "code": "147",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      56,
-      55,
-      4
-    ]
+    "authors": [8, 56, 55, 4]
   },
   {
     "id": 150,
@@ -3014,11 +2513,7 @@
     "code": "148",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      84,
-      85,
-      4
-    ]
+    "authors": [84, 85, 4]
   },
   {
     "id": 151,
@@ -3035,10 +2530,7 @@
     "code": "149",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      82,
-      4
-    ]
+    "authors": [82, 4]
   },
   {
     "id": 153,
@@ -3055,12 +2547,7 @@
     "code": "150",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      22,
-      4,
-      71,
-      80
-    ]
+    "authors": [22, 4, 71, 80]
   },
   {
     "id": 154,
@@ -3077,11 +2564,7 @@
     "code": "151",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      99,
-      149,
-      4
-    ]
+    "authors": [99, 149, 4]
   },
   {
     "id": 155,
@@ -3098,13 +2581,7 @@
     "code": "152",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      70,
-      22,
-      4,
-      71,
-      80
-    ]
+    "authors": [70, 22, 4, 71, 80]
   },
   {
     "id": 156,
@@ -3121,12 +2598,7 @@
     "code": "153",
     "link": "",
     "extraInfo": "",
-    "authors": [
-      22,
-      83,
-      4,
-      59
-    ]
+    "authors": [22, 83, 4, 59]
   },
   {
     "id": 157,
@@ -3143,11 +2615,7 @@
     "code": "154",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgb(34, 34, 34);\">ISSN 2071-0194. </span></p><p><br></p><p><strong>Publication</strong> is abstracted/indexed n <a href=\"https://www.scopus.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Scopus Elsevier Database</a>.</p>",
-    "authors": [
-      147,
-      146,
-      4
-    ]
+    "authors": [147, 146, 4]
   },
   {
     "id": 158,
@@ -3164,10 +2632,7 @@
     "code": "155",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      82,
-      4
-    ]
+    "authors": [82, 4]
   },
   {
     "id": 159,
@@ -3184,11 +2649,7 @@
     "code": "156",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      12,
-      4,
-      81
-    ]
+    "authors": [12, 4, 81]
   },
   {
     "id": 160,
@@ -3205,11 +2666,7 @@
     "code": "157",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      56,
-      4
-    ]
+    "authors": [8, 56, 4]
   },
   {
     "id": 161,
@@ -3226,12 +2683,7 @@
     "code": "158",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      22,
-      4,
-      71,
-      80
-    ]
+    "authors": [22, 4, 71, 80]
   },
   {
     "id": 162,
@@ -3248,11 +2700,7 @@
     "code": "159",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      82,
-      4
-    ]
+    "authors": [8, 82, 4]
   },
   {
     "id": 164,
@@ -3269,13 +2717,7 @@
     "code": "160",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      77,
-      22,
-      78,
-      4,
-      79
-    ]
+    "authors": [77, 22, 78, 4, 79]
   },
   {
     "id": 165,
@@ -3292,12 +2734,7 @@
     "code": "161",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      68,
-      76,
-      22,
-      4
-    ]
+    "authors": [68, 76, 22, 4]
   },
   {
     "id": 166,
@@ -3314,14 +2751,7 @@
     "code": "162",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      58,
-      22,
-      4,
-      71,
-      47,
-      59
-    ]
+    "authors": [58, 22, 4, 71, 47, 59]
   },
   {
     "id": 167,
@@ -3338,12 +2768,7 @@
     "code": "163",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      99,
-      108,
-      4,
-      111
-    ]
+    "authors": [99, 108, 4, 111]
   },
   {
     "id": 169,
@@ -3360,11 +2785,7 @@
     "code": "164",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41
-    ]
+    "authors": [8, 4, 41]
   },
   {
     "id": 170,
@@ -3381,13 +2802,7 @@
     "code": "165",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      73,
-      74,
-      75,
-      8,
-      4
-    ]
+    "authors": [73, 74, 75, 8, 4]
   },
   {
     "id": 171,
@@ -3404,11 +2819,7 @@
     "code": "166",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      65,
-      4,
-      67
-    ]
+    "authors": [65, 4, 67]
   },
   {
     "id": 486,
@@ -3425,11 +2836,7 @@
     "code": "167",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      72,
-      22,
-      4
-    ]
+    "authors": [72, 22, 4]
   },
   {
     "id": 485,
@@ -3446,10 +2853,7 @@
     "code": "168",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      12,
-      4
-    ]
+    "authors": [12, 4]
   },
   {
     "id": 484,
@@ -3466,12 +2870,7 @@
     "code": "169",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      235,
-      61
-    ]
+    "authors": [8, 4, 235, 61]
   },
   {
     "id": 483,
@@ -3488,14 +2887,7 @@
     "code": "170",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      58,
-      22,
-      4,
-      71,
-      47,
-      59
-    ]
+    "authors": [58, 22, 4, 71, 47, 59]
   },
   {
     "id": 482,
@@ -3512,11 +2904,7 @@
     "code": "171",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      147,
-      4,
-      155
-    ]
+    "authors": [147, 4, 155]
   },
   {
     "id": 481,
@@ -3533,11 +2921,7 @@
     "code": "172",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      70,
-      22,
-      4
-    ]
+    "authors": [70, 22, 4]
   },
   {
     "id": 480,
@@ -3554,10 +2938,7 @@
     "code": "173",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      57,
-      4
-    ]
+    "authors": [57, 4]
   },
   {
     "id": 479,
@@ -3574,12 +2955,7 @@
     "code": "174",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      4,
-      62,
-      63,
-      128
-    ]
+    "authors": [4, 62, 63, 128]
   },
   {
     "id": 478,
@@ -3596,13 +2972,7 @@
     "code": "175",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      68,
-      45,
-      22,
-      69,
-      4
-    ]
+    "authors": [68, 45, 22, 69, 4]
   },
   {
     "id": 477,
@@ -3619,9 +2989,7 @@
     "code": "176",
     "link": null,
     "extraInfo": null,
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 476,
@@ -3638,12 +3006,7 @@
     "code": "177",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      65,
-      199,
-      4,
-      67
-    ]
+    "authors": [65, 199, 4, 67]
   },
   {
     "id": 475,
@@ -3660,12 +3023,7 @@
     "code": "178",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      235,
-      61
-    ]
+    "authors": [8, 4, 235, 61]
   },
   {
     "id": 474,
@@ -3682,13 +3040,7 @@
     "code": "179",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      22,
-      58,
-      4,
-      47,
-      59
-    ]
+    "authors": [22, 58, 4, 47, 59]
   },
   {
     "id": 473,
@@ -3705,11 +3057,7 @@
     "code": "180",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      195,
-      4,
-      196
-    ]
+    "authors": [195, 4, 196]
   },
   {
     "id": 472,
@@ -3726,11 +3074,7 @@
     "code": "181",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41
-    ]
+    "authors": [8, 4, 41]
   },
   {
     "id": 471,
@@ -3747,13 +3091,7 @@
     "code": "182",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      233,
-      41,
-      234,
-      4,
-      8
-    ]
+    "authors": [233, 41, 234, 4, 8]
   },
   {
     "id": 470,
@@ -3770,11 +3108,7 @@
     "code": "183",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41
-    ]
+    "authors": [8, 4, 41]
   },
   {
     "id": 469,
@@ -3791,11 +3125,7 @@
     "code": "184",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41
-    ]
+    "authors": [8, 4, 41]
   },
   {
     "id": 468,
@@ -3812,12 +3142,7 @@
     "code": "185",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41,
-      56
-    ]
+    "authors": [8, 4, 41, 56]
   },
   {
     "id": 467,
@@ -3834,13 +3159,7 @@
     "code": "186",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      31,
-      22,
-      4,
-      47,
-      33
-    ]
+    "authors": [31, 22, 4, 47, 33]
   },
   {
     "id": 466,
@@ -3857,12 +3176,7 @@
     "code": "187",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      45,
-      22,
-      4,
-      47
-    ]
+    "authors": [45, 22, 4, 47]
   },
   {
     "id": 465,
@@ -3879,11 +3193,7 @@
     "code": "188",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      195,
-      4,
-      196
-    ]
+    "authors": [195, 4, 196]
   },
   {
     "id": 464,
@@ -3900,11 +3210,7 @@
     "code": "189",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      65,
-      4,
-      67
-    ]
+    "authors": [65, 4, 67]
   },
   {
     "id": 463,
@@ -3921,12 +3227,7 @@
     "code": "190",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      65,
-      66,
-      4,
-      67
-    ]
+    "authors": [65, 66, 4, 67]
   },
   {
     "id": 462,
@@ -3943,14 +3244,7 @@
     "code": "191",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      31,
-      45,
-      22,
-      4,
-      47,
-      54
-    ]
+    "authors": [31, 45, 22, 4, 47, 54]
   },
   {
     "id": 461,
@@ -3967,12 +3261,7 @@
     "code": "192",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      53,
-      45,
-      4,
-      22
-    ]
+    "authors": [53, 45, 4, 22]
   },
   {
     "id": 460,
@@ -3989,11 +3278,7 @@
     "code": "193",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      55
-    ]
+    "authors": [8, 4, 55]
   },
   {
     "id": 459,
@@ -4010,11 +3295,7 @@
     "code": "194",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41
-    ]
+    "authors": [8, 4, 41]
   },
   {
     "id": 458,
@@ -4031,12 +3312,7 @@
     "code": "195",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      45,
-      22,
-      4,
-      47
-    ]
+    "authors": [45, 22, 4, 47]
   },
   {
     "id": 457,
@@ -4053,12 +3329,7 @@
     "code": "196",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      45,
-      22,
-      4,
-      47
-    ]
+    "authors": [45, 22, 4, 47]
   },
   {
     "id": 456,
@@ -4075,14 +3346,7 @@
     "code": "197",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      7,
-      4,
-      86,
-      8,
-      232,
-      87
-    ]
+    "authors": [7, 4, 86, 8, 232, 87]
   },
   {
     "id": 455,
@@ -4099,11 +3363,7 @@
     "code": "198",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      20,
-      22,
-      4
-    ]
+    "authors": [20, 22, 4]
   },
   {
     "id": 454,
@@ -4120,12 +3380,7 @@
     "code": "199",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41,
-      7
-    ]
+    "authors": [8, 4, 41, 7]
   },
   {
     "id": 423,
@@ -4142,11 +3397,7 @@
     "code": "200",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      45,
-      22,
-      4
-    ]
+    "authors": [45, 22, 4]
   },
   {
     "id": 422,
@@ -4163,12 +3414,7 @@
     "code": "201",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      65,
-      199,
-      4,
-      67
-    ]
+    "authors": [65, 199, 4, 67]
   },
   {
     "id": 421,
@@ -4185,12 +3431,7 @@
     "code": "202",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      45,
-      22,
-      4,
-      47
-    ]
+    "authors": [45, 22, 4, 47]
   },
   {
     "id": 420,
@@ -4207,12 +3448,7 @@
     "code": "203",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      65,
-      66,
-      4,
-      67
-    ]
+    "authors": [65, 66, 4, 67]
   },
   {
     "id": 419,
@@ -4229,12 +3465,7 @@
     "code": "204",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      65,
-      66,
-      4,
-      67
-    ]
+    "authors": [65, 66, 4, 67]
   },
   {
     "id": 418,
@@ -4251,11 +3482,7 @@
     "code": "205",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      18,
-      4,
-      16
-    ]
+    "authors": [18, 4, 16]
   },
   {
     "id": 417,
@@ -4272,11 +3499,7 @@
     "code": "206",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      11,
-      12,
-      4
-    ]
+    "authors": [11, 12, 4]
   },
   {
     "id": 416,
@@ -4293,13 +3516,7 @@
     "code": "207",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      52,
-      31,
-      4,
-      47,
-      22
-    ]
+    "authors": [52, 31, 4, 47, 22]
   },
   {
     "id": 415,
@@ -4316,12 +3533,7 @@
     "code": "208",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41,
-      7
-    ]
+    "authors": [8, 4, 41, 7]
   },
   {
     "id": 414,
@@ -4338,10 +3550,7 @@
     "code": "209",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 413,
@@ -4358,10 +3567,7 @@
     "code": "210",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 412,
@@ -4378,12 +3584,7 @@
     "code": "211",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      20,
-      31,
-      4,
-      22
-    ]
+    "authors": [20, 31, 4, 22]
   },
   {
     "id": 411,
@@ -4400,10 +3601,7 @@
     "code": "212",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 410,
@@ -4420,11 +3618,7 @@
     "code": "213",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      11,
-      12,
-      4
-    ]
+    "authors": [11, 12, 4]
   },
   {
     "id": 409,
@@ -4441,12 +3635,7 @@
     "code": "214",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      35,
-      197,
-      28,
-      4
-    ]
+    "authors": [35, 197, 28, 4]
   },
   {
     "id": 408,
@@ -4463,13 +3652,7 @@
     "code": "215",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      194,
-      16,
-      198,
-      49,
-      4
-    ]
+    "authors": [194, 16, 198, 49, 4]
   },
   {
     "id": 407,
@@ -4486,11 +3669,7 @@
     "code": "216",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      35,
-      28,
-      4
-    ]
+    "authors": [35, 28, 4]
   },
   {
     "id": 406,
@@ -4507,11 +3686,7 @@
     "code": "217",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      195,
-      4,
-      196
-    ]
+    "authors": [195, 4, 196]
   },
   {
     "id": 405,
@@ -4528,13 +3703,7 @@
     "code": "218",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      45,
-      51,
-      22,
-      4,
-      47
-    ]
+    "authors": [45, 51, 22, 4, 47]
   },
   {
     "id": 404,
@@ -4551,12 +3720,7 @@
     "code": "219",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      65,
-      66,
-      4,
-      67
-    ]
+    "authors": [65, 66, 4, 67]
   },
   {
     "id": 403,
@@ -4573,13 +3737,7 @@
     "code": "220",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      50,
-      45,
-      4,
-      47,
-      22
-    ]
+    "authors": [50, 45, 4, 47, 22]
   },
   {
     "id": 402,
@@ -4596,11 +3754,7 @@
     "code": "221",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41
-    ]
+    "authors": [8, 4, 41]
   },
   {
     "id": 401,
@@ -4617,13 +3771,7 @@
     "code": "222",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      35,
-      197,
-      28,
-      37,
-      4
-    ]
+    "authors": [35, 197, 28, 37, 4]
   },
   {
     "id": 400,
@@ -4640,13 +3788,7 @@
     "code": "223",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      35,
-      44,
-      37,
-      28,
-      4
-    ]
+    "authors": [35, 44, 37, 28, 4]
   },
   {
     "id": 399,
@@ -4663,13 +3805,7 @@
     "code": "224",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      45,
-      46,
-      4,
-      47,
-      22
-    ]
+    "authors": [45, 46, 4, 47, 22]
   },
   {
     "id": 398,
@@ -4686,13 +3822,7 @@
     "code": "225",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      35,
-      48,
-      37,
-      28,
-      4
-    ]
+    "authors": [35, 48, 37, 28, 4]
   },
   {
     "id": 397,
@@ -4709,11 +3839,7 @@
     "code": "226",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      195,
-      4,
-      196
-    ]
+    "authors": [195, 4, 196]
   },
   {
     "id": 396,
@@ -4730,12 +3856,7 @@
     "code": "227",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      258,
-      22,
-      23,
-      4
-    ]
+    "authors": [258, 22, 23, 4]
   },
   {
     "id": 395,
@@ -4752,11 +3873,7 @@
     "code": "228",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      11,
-      12,
-      4
-    ]
+    "authors": [11, 12, 4]
   },
   {
     "id": 394,
@@ -4773,12 +3890,7 @@
     "code": "229",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      20,
-      22,
-      23,
-      4
-    ]
+    "authors": [20, 22, 23, 4]
   },
   {
     "id": 393,
@@ -4795,11 +3907,7 @@
     "code": "230",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4,
-      41
-    ]
+    "authors": [8, 4, 41]
   },
   {
     "id": 392,
@@ -4816,11 +3924,7 @@
     "code": "231",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      11,
-      12,
-      4
-    ]
+    "authors": [11, 12, 4]
   },
   {
     "id": 391,
@@ -4837,11 +3941,7 @@
     "code": "232",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      4,
-      18,
-      16
-    ]
+    "authors": [4, 18, 16]
   },
   {
     "id": 390,
@@ -4858,10 +3958,7 @@
     "code": "233",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      40,
-      4
-    ]
+    "authors": [40, 4]
   },
   {
     "id": 389,
@@ -4878,10 +3975,7 @@
     "code": "234",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 388,
@@ -4898,12 +3992,7 @@
     "code": "235",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      13,
-      11,
-      12,
-      4
-    ]
+    "authors": [13, 11, 12, 4]
   },
   {
     "id": 387,
@@ -4920,10 +4009,7 @@
     "code": "236",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 386,
@@ -4940,12 +4026,7 @@
     "code": "237",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      11,
-      10,
-      12,
-      4
-    ]
+    "authors": [11, 10, 12, 4]
   },
   {
     "id": 385,
@@ -4962,13 +4043,7 @@
     "code": "238",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      35,
-      36,
-      29,
-      28,
-      4
-    ]
+    "authors": [35, 36, 29, 28, 4]
   },
   {
     "id": 384,
@@ -4985,11 +4060,7 @@
     "code": "239",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      11,
-      4,
-      12
-    ]
+    "authors": [11, 4, 12]
   },
   {
     "id": 383,
@@ -5006,15 +4077,7 @@
     "code": "240",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      30,
-      31,
-      32,
-      33,
-      34,
-      4,
-      22
-    ]
+    "authors": [30, 31, 32, 33, 34, 4, 22]
   },
   {
     "id": 382,
@@ -5031,13 +4094,7 @@
     "code": "241",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      26,
-      27,
-      28,
-      29,
-      4
-    ]
+    "authors": [26, 27, 28, 29, 4]
   },
   {
     "id": 381,
@@ -5054,12 +4111,7 @@
     "code": "242",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      24,
-      4,
-      25
-    ]
+    "authors": [8, 24, 4, 25]
   },
   {
     "id": 380,
@@ -5076,14 +4128,7 @@
     "code": "243",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      19,
-      20,
-      21,
-      22,
-      23,
-      4
-    ]
+    "authors": [19, 20, 21, 22, 23, 4]
   },
   {
     "id": 379,
@@ -5100,14 +4145,7 @@
     "code": "244",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      1,
-      2,
-      15,
-      4,
-      5,
-      6
-    ]
+    "authors": [1, 2, 15, 4, 5, 6]
   },
   {
     "id": 378,
@@ -5124,11 +4162,7 @@
     "code": "245",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      18,
-      193,
-      4
-    ]
+    "authors": [18, 193, 4]
   },
   {
     "id": 377,
@@ -5145,11 +4179,7 @@
     "code": "246",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      193,
-      194,
-      4
-    ]
+    "authors": [193, 194, 4]
   },
   {
     "id": 376,
@@ -5166,14 +4196,7 @@
     "code": "247",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      1,
-      2,
-      15,
-      4,
-      5,
-      6
-    ]
+    "authors": [1, 2, 15, 4, 5, 6]
   },
   {
     "id": 375,
@@ -5190,10 +4213,7 @@
     "code": "248",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 374,
@@ -5210,14 +4230,7 @@
     "code": "249",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      13,
-      14,
-      10,
-      11,
-      12,
-      4
-    ]
+    "authors": [13, 14, 10, 11, 12, 4]
   },
   {
     "id": 373,
@@ -5234,10 +4247,7 @@
     "code": "250",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 616,
@@ -5254,13 +4264,7 @@
     "code": "251",
     "link": "",
     "extraInfo": "",
-    "authors": [
-      27,
-      270,
-      28,
-      271,
-      272
-    ]
+    "authors": [27, 270, 28, 271, 272]
   },
   {
     "id": 372,
@@ -5277,10 +4281,7 @@
     "code": "252",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      9,
-      4
-    ]
+    "authors": [9, 4]
   },
   {
     "id": 49,
@@ -5297,14 +4298,7 @@
     "code": "253",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ]
+    "authors": [1, 2, 3, 4, 5, 6]
   },
   {
     "id": 45,
@@ -5321,13 +4315,7 @@
     "code": "254",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      1,
-      2,
-      4,
-      5,
-      6
-    ]
+    "authors": [1, 2, 4, 5, 6]
   },
   {
     "id": 1,
@@ -5344,14 +4332,7 @@
     "code": "255",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ]
+    "authors": [1, 2, 3, 4, 5, 6]
   },
   {
     "id": 529,
@@ -5368,13 +4349,7 @@
     "code": "256",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      1,
-      2,
-      4,
-      5,
-      6
-    ]
+    "authors": [1, 2, 4, 5, 6]
   },
   {
     "id": 530,
@@ -5391,13 +4366,7 @@
     "code": "257",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      1,
-      5,
-      4,
-      2,
-      6
-    ]
+    "authors": [1, 5, 4, 2, 6]
   },
   {
     "id": 531,
@@ -5414,11 +4383,7 @@
     "code": "258",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      7,
-      4,
-      9
-    ]
+    "authors": [7, 4, 9]
   },
   {
     "id": 532,
@@ -5435,10 +4400,7 @@
     "code": "259",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      9,
-      4
-    ]
+    "authors": [9, 4]
   },
   {
     "id": 533,
@@ -5455,12 +4417,7 @@
     "code": "260",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      7,
-      8,
-      4,
-      9
-    ]
+    "authors": [7, 8, 4, 9]
   },
   {
     "id": 534,
@@ -5477,10 +4434,7 @@
     "code": "261",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      9,
-      4
-    ]
+    "authors": [9, 4]
   },
   {
     "id": 535,
@@ -5497,11 +4451,7 @@
     "code": "262",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      9,
-      1,
-      4
-    ]
+    "authors": [9, 1, 4]
   },
   {
     "id": 545,
@@ -5518,14 +4468,7 @@
     "code": "263",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      13,
-      10,
-      14,
-      11,
-      12,
-      4
-    ]
+    "authors": [13, 10, 14, 11, 12, 4]
   },
   {
     "id": 546,
@@ -5542,12 +4485,7 @@
     "code": "264",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      10,
-      13,
-      12,
-      4
-    ]
+    "authors": [10, 13, 12, 4]
   },
   {
     "id": 547,
@@ -5564,12 +4502,7 @@
     "code": "265",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      10,
-      11,
-      12,
-      4
-    ]
+    "authors": [10, 11, 12, 4]
   },
   {
     "id": 548,
@@ -5586,10 +4519,7 @@
     "code": "266",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      9,
-      4
-    ]
+    "authors": [9, 4]
   },
   {
     "id": 549,
@@ -5606,11 +4536,7 @@
     "code": "267",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      7,
-      8,
-      4
-    ]
+    "authors": [7, 8, 4]
   },
   {
     "id": 550,
@@ -5627,11 +4553,7 @@
     "code": "268",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      7,
-      8,
-      4
-    ]
+    "authors": [7, 8, 4]
   },
   {
     "id": 551,
@@ -5648,11 +4570,7 @@
     "code": "269",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      7,
-      4,
-      9
-    ]
+    "authors": [7, 4, 9]
   },
   {
     "id": 552,
@@ -5669,10 +4587,7 @@
     "code": "270",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      147,
-      4
-    ]
+    "authors": [147, 4]
   },
   {
     "id": 553,
@@ -5689,14 +4604,7 @@
     "code": "271",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      239,
-      2,
-      240,
-      4,
-      5,
-      6
-    ]
+    "authors": [239, 2, 240, 4, 5, 6]
   },
   {
     "id": 554,
@@ -5713,10 +4621,7 @@
     "code": "272",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      16,
-      4
-    ]
+    "authors": [16, 4]
   },
   {
     "id": 555,
@@ -5733,11 +4638,7 @@
     "code": "273",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      17,
-      16,
-      4
-    ]
+    "authors": [17, 16, 4]
   },
   {
     "id": 578,
@@ -5754,13 +4655,7 @@
     "code": "274",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      13,
-      10,
-      11,
-      12,
-      4
-    ]
+    "authors": [13, 10, 11, 12, 4]
   },
   {
     "id": 577,
@@ -5777,13 +4672,7 @@
     "code": "275",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      1,
-      2,
-      4,
-      5,
-      6
-    ]
+    "authors": [1, 2, 4, 5, 6]
   },
   {
     "id": 576,
@@ -5800,11 +4689,7 @@
     "code": "276",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      253,
-      4,
-      254
-    ]
+    "authors": [253, 4, 254]
   },
   {
     "id": 575,
@@ -5821,10 +4706,7 @@
     "code": "277",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      237,
-      4
-    ]
+    "authors": [237, 4]
   },
   {
     "id": 573,
@@ -5841,11 +4723,7 @@
     "code": "278",
     "link": "/research/",
     "extraInfo": "",
-    "authors": [
-      238,
-      9,
-      4
-    ]
+    "authors": [238, 9, 4]
   },
   {
     "id": 572,
@@ -5862,10 +4740,7 @@
     "code": "279",
     "link": "/research/",
     "extraInfo": "",
-    "authors": [
-      16,
-      4
-    ]
+    "authors": [16, 4]
   },
   {
     "id": 571,
@@ -5882,10 +4757,7 @@
     "code": "280",
     "link": "/research/",
     "extraInfo": "",
-    "authors": [
-      9,
-      4
-    ]
+    "authors": [9, 4]
   },
   {
     "id": 584,
@@ -5902,12 +4774,7 @@
     "code": "281",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      10,
-      260,
-      12,
-      4
-    ]
+    "authors": [10, 260, 12, 4]
   },
   {
     "id": 585,
@@ -5924,10 +4791,7 @@
     "code": "282",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      16,
-      4
-    ]
+    "authors": [16, 4]
   },
   {
     "id": 586,
@@ -5944,10 +4808,7 @@
     "code": "283",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      261,
-      4
-    ]
+    "authors": [261, 4]
   },
   {
     "id": 587,
@@ -5964,12 +4825,7 @@
     "code": "284",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      260,
-      10,
-      12,
-      4
-    ]
+    "authors": [260, 10, 12, 4]
   },
   {
     "id": 588,
@@ -5986,10 +4842,7 @@
     "code": "285",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      9,
-      4
-    ]
+    "authors": [9, 4]
   },
   {
     "id": 589,
@@ -6006,10 +4859,7 @@
     "code": "286",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      238,
-      4
-    ]
+    "authors": [238, 4]
   },
   {
     "id": 590,
@@ -6026,10 +4876,7 @@
     "code": "287",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      262,
-      4
-    ]
+    "authors": [262, 4]
   },
   {
     "id": 591,
@@ -6045,10 +4892,7 @@
     "pdf": "/research/publications/EJ-288.pdf",
     "code": "288",
     "link": "/research",
-    "authors": [
-      237,
-      4
-    ]
+    "authors": [237, 4]
   },
   {
     "id": 592,
@@ -6064,12 +4908,7 @@
     "pdf": "/research/publications/EJ-289.pdf",
     "code": "289",
     "extraInfo": "",
-    "authors": [
-      266,
-      253,
-      4,
-      254
-    ]
+    "authors": [266, 253, 4, 254]
   },
   {
     "id": 593,
@@ -6085,12 +4924,7 @@
     "pdf": "/research/publications/EJ-290.pdf",
     "code": "290",
     "extraInfo": "",
-    "authors": [
-      265,
-      267,
-      4,
-      254
-    ]
+    "authors": [265, 267, 4, 254]
   },
   {
     "id": 594,
@@ -6106,10 +4940,7 @@
     "pdf": "/research/publications/EJ-291.pdf",
     "code": "291",
     "extraInfo": "",
-    "authors": [
-      8,
-      4
-    ]
+    "authors": [8, 4]
   },
   {
     "id": 595,
@@ -6125,10 +4956,7 @@
     "pdf": "/research/publications/EJ-292.pdf",
     "code": "292",
     "extraInfo": "",
-    "authors": [
-      9,
-      4
-    ]
+    "authors": [9, 4]
   },
   {
     "id": 596,
@@ -6144,11 +4972,7 @@
     "pdf": "/research/publications/EJ-293.pdf",
     "code": "293",
     "extraInfo": "",
-    "authors": [
-      236,
-      12,
-      4
-    ]
+    "authors": [236, 12, 4]
   },
   {
     "id": 597,
@@ -6164,10 +4988,7 @@
     "pdf": "/research/publications/EJ-294.pdf",
     "code": "294",
     "extraInfo": "",
-    "authors": [
-      257,
-      4
-    ]
+    "authors": [257, 4]
   },
   {
     "id": 598,
@@ -6183,12 +5004,7 @@
     "pdf": "/research/publications/EJ-295.pdf",
     "code": "295",
     "extraInfo": "",
-    "authors": [
-      236,
-      268,
-      12,
-      4
-    ]
+    "authors": [236, 268, 12, 4]
   },
   {
     "id": 599,
@@ -6204,10 +5020,7 @@
     "pdf": "/research/publications/EJ-296.pdf",
     "code": "296",
     "extraInfo": "",
-    "authors": [
-      256,
-      4
-    ]
+    "authors": [256, 4]
   },
   {
     "id": 600,
@@ -6223,11 +5036,7 @@
     "pdf": "/research/publications/EJ-297.pdf",
     "code": "297",
     "extraInfo": "",
-    "authors": [
-      238,
-      257,
-      4
-    ]
+    "authors": [238, 257, 4]
   },
   {
     "id": 601,
@@ -6243,12 +5052,7 @@
     "pdf": "/research/publications/EJ-298.pdf",
     "code": "298",
     "extraInfo": "",
-    "authors": [
-      264,
-      265,
-      254,
-      4
-    ]
+    "authors": [264, 265, 254, 4]
   },
   {
     "id": 602,
@@ -6265,11 +5069,7 @@
     "code": "299",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      9,
-      276,
-      4
-    ]
+    "authors": [9, 276, 4]
   },
   {
     "id": 603,
@@ -6285,10 +5085,7 @@
     "pdf": "/research/publications/EJ-300.pdf",
     "code": "300",
     "extraInfo": "",
-    "authors": [
-      257,
-      4
-    ]
+    "authors": [257, 4]
   },
   {
     "id": 604,
@@ -6305,12 +5102,7 @@
     "code": "301",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      18,
-      16,
-      12,
-      4
-    ]
+    "authors": [18, 16, 12, 4]
   },
   {
     "id": 605,
@@ -6327,10 +5119,7 @@
     "code": "302",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      147,
-      4
-    ]
+    "authors": [147, 4]
   },
   {
     "id": 606,
@@ -6347,11 +5136,7 @@
     "code": "303",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      260,
-      12,
-      4
-    ]
+    "authors": [260, 12, 4]
   },
   {
     "id": 607,
@@ -6368,10 +5153,7 @@
     "code": "304",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      147,
-      4
-    ]
+    "authors": [147, 4]
   },
   {
     "id": 608,
@@ -6388,11 +5170,7 @@
     "code": "305",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      193,
-      198,
-      4
-    ]
+    "authors": [193, 198, 4]
   },
   {
     "id": 609,
@@ -6409,11 +5187,7 @@
     "code": "306",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      256,
-      273,
-      4
-    ]
+    "authors": [256, 273, 4]
   },
   {
     "id": 610,
@@ -6430,11 +5204,7 @@
     "code": "307",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      238,
-      257,
-      4
-    ]
+    "authors": [238, 257, 4]
   },
   {
     "id": 610,
@@ -6451,12 +5221,7 @@
     "code": "308",
     "link": "/research",
     "extraInfo": "",
-    "authors": [
-      279,
-      8,
-      257,
-      4
-    ]
+    "authors": [279, 8, 257, 4]
   },
   {
     "id": 610,
@@ -6472,13 +5237,7 @@
     "pdf": "/research/publications/EJ-309.pdf",
     "code": "309",
     "extraInfo": "",
-    "authors": [
-      1,
-      2,
-      4,
-      5,
-      6
-    ]
+    "authors": [1, 2, 4, 5, 6]
   },
   {
     "id": 610,
@@ -6487,7 +5246,7 @@
     "doi": "10.1016/j.jelechem.2023.117711",
     "volume": "946",
     "type": "Journal",
-    "abstract": "",
+    "abstract": "A classical electrochemistry problem related to the polarization of a graphene electrode immersed in an aqueous solution and subjected to a small external ac voltage is revisited. The Poisson-Nernst-Planck equations with proper boundary conditions are linearized and normalized, leading to an analytical formula for the impedance of the electrochemical system containing a graphene-metal electrode pair. Electrochemical impedance spectroscopy is utilized to compare the impedance behavior of the graphene-metal electrode pair with the standard metal-metal electrode pair for a range of ion concentrations in the electrolyte. Also studied is the electrochemical capacitive spectroscopy to provide a detailed analysis related to the effects of the quantum capacitance of graphene on the total capacitive properties of the system.",
     "pages": "117711",
     "journal": "Journal of Electroanalytical Chemistry",
     "pdf": "/research/publications/EJ-310.pdf",
@@ -6495,10 +5254,449 @@
     "code": "310",
     "link": "",
     "extraInfo": "",
-    "authors": [
-      280,
-      4,
-      9
-    ]
+    "authors": [280, 4, 9]
+  },
+
+  {
+    "id": 611,
+    "title": "Robust Global Trends during Pandemics: Analysing the Interplay of Biological and Social Processes",
+    "year": "2023",
+    "doi": "10.3390/dynamics3040041",
+    "volume": "3",
+    "type": "Journal",
+    "abstract": "The essence of the stochastic processes behind the empirical data on infection and fatality during pandemics is the complex interdependence between biological and social factors. Their balance can be checked on the data of new virus outbreaks, where the population is unprepared to fight the viral biology and social measures and healthcare systems adjust with a delay. Using a complex systems perspective, we combine network mapping with K-means clustering and multifractal detrended fluctuations analysis to identify typical trends in fatality rate data. We analyse global data of (normalised) fatality time series recorded during the first two years of the recent pandemic caused by the severe acute respiratory syndrome coronavirus 2 as an appropriate example. Our results reveal six clusters with robust patterns of mortality progression that represent specific adaptations to prevailing biological factors. They make up two significant groups that coincide with the topological communities of the correlation network, with stabilising (group g1) and continuously increasing rates (group g2). Strong cyclic trends and multifractal small-scale fluctuations around them characterise these patterns. The rigorous analysis and the proposed methodology shed more light on the complex nonlinear shapes of the pandemic’s main characteristic curves, which have been discussed extensively in the literature regarding the global infectious diseases that have affected humanity throughout its history. In addition to better pandemic preparedness in the future, the presented methodology can also help to differentiate and predict other trends in pandemics, such as fatality rates, caused simultaneously by different viruses in particular geographic locations.",
+    "pages": "764-776",
+    "journal": "Dynamics",
+    "pdf": "/research/publications/EJ-311.pdf",
+    "shortcode": "EJ-311",
+    "code": "311",
+    "link": "",
+    "extraInfo": "",
+    "authors": [18, 16, 4]
+  },
+  {
+    "id": 612,
+    "title": "Closed-form expressions for computing flexoelectric coefficients in textured polycrystalline dielectrics",
+    "year": "2024",
+    "doi": "10.1016/j.apm.2023.09.032",
+    "volume": "125",
+    "type": "Journal",
+    "abstract": "The volume average of the constituting properties of a textured polycrystalline aggregate (the Voigt average) provides a simple way to estimate the effective properties of such an aggregate in terms of its crystallographic symmetry, texture symmetry, and the properties of the constituting crystallites. Despite the interest in estimate or characterizing flexoelectric properties, few studies have addressed the problem of finding effective flexoelectric properties from the continuum phases of the constituents. Instead, most of them focus on single-crystals at the atomic level. This study provides, for the first time, closed-form expressions that allow the direct flexoelectric coefficients to be computed for textured polycrystalline dielectrics. Crystallites can belong to any class of cubic symmetry or to the tetragonal TI Laue group, while no restriction is imposed on texture symmetry. These expressions are reduced to very simple ones when cubic crystallites with fiber texture are considered. The proposed formulation provides information on the matrix structure of the homogenized material related to the crystallographic symmetry and texture. We close with some illustrative examples.",
+    "pages": "375-389",
+    "journal": "Applied Mathematical Modelling",
+    "pdf": "/research/publications/EJ-312.pdf",
+    "shortcode": "EJ-312",
+    "code": "312",
+    "link": "",
+    "extraInfo": "",
+    "authors": [239, 4, 5, 6, 2]
+  },
+  {
+    "id": 613,
+    "title": "Original and modified non-perturbative renormalization group equations of the BMW scheme at the arbitrary order of truncation",
+    "year": "2024",
+    "doi": "10.3389/fphy.2023.1182056",
+    "volume": "11",
+    "type": "Journal",
+    "abstract": "We consider the non-perturbative renormalization group (RG) equations, obtained as approximations of the exact Wetterich RG flow equation within the Blaizot–Mendez–Wschebor (BMW) truncation scheme. For the first time, we derive explicit RG flow equations for the scalar model at the arbitrary order of truncation. Moreover, we consider original, as well as modified, approximations, used to obtain a set of closed equations. We compare these equations at the s = 2 order of truncation with those recently derived in J. Phys. A: Math. Theor. 53, 415002 (2020) within a new truncation scheme and find a striking similarity. Namely, the first-order equations of the latter scheme, those of the original BMW scheme, and those of the modified BMW scheme (at s = 2) differ only in one term. We solved these equations by a recently proposed and tested method of semi-analytic approximations. Thus, the critical exponents η, ν, and ω were evaluated, recovering also the known results of the original BMW scheme. In addition, we estimated the subleading correction-to-scaling exponent ω2 for the three equations considered. To the best of our knowledge, this exponent has not yet been extracted from the Wetterich equation beyond the local potential (the zeroth order) approximation. Our current estimate for the 3D Ising model is ω2 = 2.02 (40), where the error bars include the expected truncation error in the BMW scheme.",
+    "pages": "1182056",
+    "journal": "Frontiers in Physics",
+    "pdf": "/research/publications/EJ-313.pdf",
+    "shortcode": "EJ-313",
+    "code": "313",
+    "link": "",
+    "extraInfo": "",
+    "authors": [147, 4]
+  },
+  {
+    "id": 614,
+    "title": "A two-dimensional hydrodynamics prediction framework for mantle-undulated propulsion robot using multiple proper orthogonal decomposition and long short term memory neural network",
+    "year": "2024",
+    "doi": "10.1088/1748-3190/ad0daf",
+    "volume": "19",
+    "type": "Journal",
+    "abstract": "In this paper, a deep learning based framework has been developed to predict hydrodynamic forces on a mantle-undulated propulsion robot (MUPRo). A multiple proper orthogonal decomposition (MPOD) algorithm has been proposed to efficiently identify fluid features near the undulating mantle of the MUPRo globally and locally. The results indicate that the  error of the solution states near the undulating boundary of the proposed MPOD algorithm converges almost linearly to 0.2%. Furthermore, a hydrodynamics prediction framework has been developed based on the proposed MPOD algorithm, where a long short-term memory neural network predicts the temporal coefficients of the MPOD spatial modes. The developed framework achieves economical and reliable predictions of hydrodynamic forces acting on the undulating boundary compared to simulations and experiments. Moreover, the  error of the developed framework is one to two orders of magnitude lower than that of the frameworks based on the classical POD algorithm when the degrees of freedom are consistent. Finally, the reliability of the proposed MPOD-NIROM is discussed through an offline parameter planning case of an aquatic-inspired robot. The model presented in this paper can provide support for the offline parameter planning of aquatic-inspired robots.",
+    "pages": "016005",
+    "journal": "Bioinspiration & Biomimetics",
+    "pdf": "/research/publications/EJ-314.pdf",
+    "shortcode": "EJ-314",
+    "code": "314",
+    "link": "",
+    "extraInfo": "",
+    "authors": [236, 268, 12, 4]
+  },
+  {
+    "id": 615,
+    "title": "Hydrodynamic analysis of nanofluids flow over 45° inclined porous square cylinder using Darcy-Brinkman-Forchheimer model",
+    "year": "2024",
+    "doi": "10.1002/apj.3042",
+    "volume": "19",
+    "type": "Journal",
+    "abstract": "Various engineering applications commonly involve the flow of nanofluids over a porous 45° inclined square cylinder. Therefore, the current study is to assess the impact of the Darcy parameter (Da), nanoparticle volume fraction (ϕ), and Reynolds number (Re) on the momentum transport characteristics over the 45° inclined porous square cylinder. The governing equations were solved numerically using the Darcy–Brinkman–Forchheimer model for different values of Da ( ), nanoparticle volume fraction ϕ ( ), and Reynolds number Re ( ). The results for each parameter were visualized using streamline plots, velocity profiles within the porous cylinder, and vorticity contours. Complex flow behaviors were observed between Da = 10−3–10−2, flow separation detached and disappeared at the cylinder's downstream side at critical Darcy number. Drag and pressure coefficents are used to represent the global and local parameter of the flow fields. The pressure coefficient on the surface of the cylinder showed an inverse relationship with the nanoparticles volume fraction and Darcy number. The strength of the drag coefficient decreased with the addition of nanoparticles to the base fluid, with a decreasing trend observed for Da = 10−4–10−2 and no change observed for Da = 10−6–10−4. At last, the comparative analysis has been conducted between a porous square cylinder at 0° inclined and another 45° inclined.",
+    "pages": "e3042",
+    "journal": "AP Journal of Chemical Engineering",
+    "pdf": "/research/publications/EJ-315.pdf",
+    "shortcode": "EJ-315",
+    "code": "315",
+    "link": "",
+    "extraInfo": "",
+    "authors": [253, 290, 4, 254]
+  },
+  {
+    "id": 616,
+    "title": "Non-Fourier Bioheat Transfer Analysis in Brain Tissue During Interstitial Laser Ablation: Analysis of Multiple Influential Factors",
+    "year": "2024",
+    "doi": "10.1007/s10439-023-03433-5",
+    "volume": "52",
+    "type": "Journal",
+    "abstract": "This work presents the dual-phase lag-based non-Fourier bioheat transfer model of brain tissue subjected to interstitial laser ablation. The finite element method has been utilized to predict the brain tissue's temperature distributions and ablation volumes. A sensitivity analysis has been conducted to quantify the effect of variations in the input laser power, treatment time, laser fiber diameter, laser wavelength, and non-Fourier phase lags. Notably, in this work, the temperature-dependent thermal properties of brain tissue have been considered. The developed model has been validated by comparing the temperature obtained from the numerical and ex vivo brain tissue during interstitial laser ablation. The ex vivo brain model has been further extended to in vivo settings by incorporating the blood perfusion effects. The results of the systematic analysis highlight the importance of considering temperature-dependent thermal properties of the brain tissue, non-Fourier behavior, and microvascular perfusion effects in the computational models for accurate predictions of the treatment outcomes during interstitial laser ablation, thereby minimizing the damage to surrounding healthy tissue. The developed model and parametric analysis reported in this study would assist in a more accurate and precise prediction of the temperature distribution, thus allowing to optimize the thermal dosage during laser therapy in the brain.",
+    "pages": "967-981",
+    "journal": "Annals of Biomedical Engineering",
+    "pdf": "/research/publications/EJ-316.pdf",
+    "shortcode": "EJ-316",
+    "code": "316",
+    "link": "",
+    "extraInfo": "",
+    "authors": [9, 287, 288, 289, 4, 276]
+  },
+  {
+    "id": 617,
+    "title": "Data-driven stochastic model for quantifying the interplay between amyloid-beta and calcium levels in Alzheimer's disease",
+    "year": "2024",
+    "doi": "10.1002/sam.11679",
+    "volume": "17",
+    "type": "Journal",
+    "abstract": "The abnormal aggregation of extracellular amyloid-β in senile plaques resulting in calcium dyshomeostasis is one of the primary symptoms of Alzheimer's disease (AD). Significant research efforts have been devoted in the past to better understand the underlying molecular mechanisms driving deposition and dysregulation. Importantly, synaptic impairments, neuronal loss, and cognitive failure in AD patients are all related to the buildup of intraneuronal accumulation. Moreover, increasing evidence show a feed-forward loop between and levels, that is, disrupts neuronal levels, which in turn affects the formation of . To better understand this interaction, we report a novel stochastic model where we analyze the positive feedback loop between and using ADNI data. A good therapeutic treatment plan for AD requires precise predictions. Stochastic models offer an appropriate framework for modeling AD since AD studies are observational in nature and involve regular patient visits. The etiology of AD may be described as a multi-state disease process using the approximate Bayesian computation method. So, utilizing ADNI data from -year visits for AD patients, we employ this method to investigate the interplay between and levels at various disease development phases. Incorporating the ADNI data in our physics-based Bayesian model, we discovered that a sufficiently large disruption in either metabolism or intracellular homeostasis causes the relative growth rate in both and , which corresponds to the development of AD. The imbalance of ions causes disorders by directly or indirectly affecting a variety of cellular and subcellular processes, and the altered homeostasis may worsen the abnormalities of ion transportation and deposition. This suggests that altering the balance or the balance between and by chelating them may be able to reduce disorders associated with AD and open up new research possibilities for AD therapy.",
+    "pages": "e11679",
+    "journal": "Statistical Analysis and Data Mining",
+    "pdf": "/research/publications/EJ-317.pdf",
+    "shortcode": "EJ-317",
+    "code": "317",
+    "link": "",
+    "extraInfo": "",
+    "authors": [238, 4, 9, 291]
+  },
+  {
+    "id": 618,
+    "title": "Fundamental interactions in self-organized critical dynamics on higher-order networks",
+    "year": "2024",
+    "doi": "10.1140/epjb/s10051-024-00705-4",
+    "volume": "97",
+    "type": "Journal",
+    "abstract": "In functionally complex systems, higher order connectivity is often revealed in the underlying geometry of networked units. Furthermore, such systems often show signatures of self-organised criticality, a specific type of non-equilibrium collective behaviour associated with an attractor of internal dynamics with long-range correlations and scale invariance, which ensures the robust functioning of complex systems, such as the brain. Here, we highlight the intertwining of features of higher order geometry and self-organised critical dynamics as a plausible mechanism for the emergence of new properties on a larger scale, representing the central paradigm of the physical notion of complexity. Considering the time-scale of the structural evolution with the known separation of the time-scale in self-organised criticality, i.e., internal dynamics and external driving, we distinguish three classes of geometries that can shape the self-organised dynamics on them differently. We provide an overview of current trends in the study of collective dynamics phenomena, such as the synchronisation of phase oscillators and discrete spin dynamics with higher order couplings embedded in the faces of simplicial complexes. For a representative example of self-organised critical behaviour induced by higher order structures, we present a more detailed analysis of the dynamics of field-driven spin reversal on the hysteresis loops in simplicial complexes composed of triangles. These numerical results suggest that two fundamental interactions representing the edge-embedded and triangle-embedded couplings must be taken into account in theoretical models to describe the influence of higher order geometry on critical dynamics.",
+    "pages": "68",
+    "journal": "The European Physical Journal B",
+    "pdf": "/research/publications/EJ-318.pdf",
+    "shortcode": "EJ-318",
+    "code": "318",
+    "link": "",
+    "extraInfo": "",
+    "authors": [16, 4]
+  },
+  {
+    "id": 619,
+    "title": "Pattern alternations induced by nonlocal interactions",
+    "year": "2024",
+    "doi": "10.4310/CMS.240918032643",
+    "volume": "22",
+    "type": "Journal",
+    "abstract": "Pattern formation is a visual understanding of the dynamics of complex systems. Patterns arise in many ways, such as the segmentation of animals, bacterial colonies during growth, vegetation, chemical reactions, etc. In most cases, long-range diffusion occurs, and the usual reaction-diffusion (RD) model cannot capture such phenomena. The nonlocal RD model, on the other hand, can fill the gap. Analytical derivation of the amplitude equations (AE) for an RD system is a valuable tool to predict the pattern selections, particularly the stationary Turing patterns when they occur. In this paper, we analyze the conditions for the Turing bifurcation for the nonlocal model and derive the AE for the nonlocal RD model near the Turing bifurcation threshold to describe the reason behind the pattern selections. This derivation of the AE is not only limited to the nonlocal prey-predator model, as shown in our representative example, but also can be applied to other nonlocal models near the Turing bifurcation threshold. The analytical prediction agrees with numerical simulation near the Turing bifurcation threshold. Moreover, the analytical and numerical results fit each other well, even more remote from the Turing bifurcation threshold for the small values of the nonlocal parameter but not for the higher values.",
+    "pages": "1817-1838",
+    "journal": "Communications in Mathematical Sciences",
+    "pdf": "/research/publications/EJ-319.pdf",
+    "shortcode": "EJ-319",
+    "code": "319",
+    "link": "",
+    "extraInfo": "",
+    "authors": [257, 4, 263]
+  },
+  {
+    "id": 620,
+    "title": "Flexoelectric anisotropy and shear contributions in lead-free piezocomposites",
+    "year": "2024",
+    "doi": "10.1016/j.mechrescom.2024.104321",
+    "volume": "140",
+    "type": "Journal",
+    "abstract": "Flexoelectricity is the coupling between strain gradients and electric fields. This phenomenon can significantly enhance piezocomposite response in addition to linear piezoelectricity. This enhancement is especially important for lead-free piezocomposites, which generally underperform compared to lead-based counterparts. Flexoelectric enhancement is facilitated by structural anisotropy in piezocomposites. However, challenges in modeling flexoelectric effects arise from several unknowns. Firstly, the shear flexoelectric coefficient is not well-characterized experimentally. Secondly, significant discrepancies exist between theoretical predictions and experimental measurements of flexoelectric coefficients. Thirdly, the influence of matrix mechanical properties on flexoelectric behavior is poorly understood. To address these issues, we construct a parametric flexoelectric model of a lead-free piezocomposite with graded inclusion concentration. We then systematically analyze the impact of each parameter to identify which significantly influence flexoelectric behavior. This study is intended to provide direction to further experimental studies towards understanding and tailoring this subset of parameters.",
+    "pages": "104321",
+    "journal": "Mechanics Research Communications",
+    "pdf": "/research/publications/EJ-320.pdf",
+    "shortcode": "EJ-320",
+    "code": "320",
+    "link": "",
+    "extraInfo": "",
+    "authors": [283, 2, 4, 5, 6]
+  },
+  {
+    "id": 621,
+    "title": "The influence of thermo-electromechanical coupling on the performance of lead-free BNT-PDMS piezoelectric composites",
+    "year": "2024",
+    "doi": "10.1088/1361-665X/ad442b",
+    "volume": "33",
+    "type": "Journal",
+    "abstract": "In recent times, there have been notable advancements in haptic technology, particularly in screens found on mobile phones, laptops, light-emitting diode (LED) screens, and control panels. However, it is essential to note that the progress in high-temperature haptic applications is still in the developmental phase. Due to their complex phase and domain structures, lead-free piezoelectric materials such as (BNT)-based haptic technology behave differently at high temperatures than in ambient conditions. Therefore, it is essential to investigate the aspects of thermal management and thermal stability, as temperature plays a vital role in the phase and domain transition of BNT material. A two-dimensional thermo-electromechanical model has been proposed in this study to analyze the thermal stability of the BNT-PDMS composite by analyzing the impact of temperature on effective electromechanical properties and mechanical and electric field parameters. However, the thermo-electromechanical modelling of the BNT-PDMS composite examines the macroscopic effects of the applied thermal field on mechanical and electric field parameters, as phase change and microdomain dynamics are not considered in this model. This study analyzes the impact of thermo-electromechanical coupling on the performance of the BNT-PDMS composite compared to conventional electromechanical coupling. The results predicted a significant improvement in piezoelectric response compared to electromechanical coupling due to the increased thermoelectric effect in the absence of phase change and microdomain switching for temperature boundary conditions below depolarization temperature (C for pure BNT material).",
+    "pages": "065009",
+    "journal": "Smart Materials and Structures",
+    "pdf": "/research/publications/EJ-321.pdf",
+    "shortcode": "EJ-321",
+    "code": "321",
+    "link": "",
+    "extraInfo": "",
+    "authors": [283, 2, 4, 5, 6]
+  },
+  {
+    "id": 622,
+    "title": "Frequency response of the diffuse-charge dynamics in electrochemical systems with a graphene electrode",
+    "year": "2024",
+    "doi": "10.1149/1945-7111/ad6a3a",
+    "volume": "171",
+    "type": "Journal",
+    "abstract": "We investigate the frequency response of diffuse-charge dynamics related to a 1:1 symmetric electrolyte containing a graphene electrode by solving the governing Poisson-Nernst-Planck equations subjected to appropriate boundary conditions in the asymptotic limit ε = λD/H → 0, where λD is the Debye screening length and H is the half-thickness of the electrolyte. Using the method of matched asymptotic expansion, we first solve the leading order non-linear problem for equilibrium state at a nonzero applied DC voltage in the presence of Stern layer(s). Then, we extend the leading order asymptotic analysis to derive an analytic expression for the impedance of the graphene-based electrochemical cell when a small AC voltage perturbation is added to the applied DC voltage. Finally, we use a suitable scaling of the impedance parameters to expose the impacts of the ion concentration and the DC bias voltage on the frequency response for possible applications involving the graphene-electrolyte interface.",
+    "pages": "086501",
+    "journal": "Journal of The Electrochemical Society",
+    "pdf": "/research/publications/EJ-322.pdf",
+    "shortcode": "EJ-322",
+    "code": "322",
+    "link": "",
+    "extraInfo": "",
+    "authors": [280, 4, 39]
+  },
+  {
+    "id": 623,
+    "title": "Heavy-hole spin relaxation in quantum dots: Isotropic versus anisotropic effects",
+    "year": "2024",
+    "doi": "10.1103/PhysRevB.110.045422",
+    "volume": "110",
+    "type": "Journal",
+    "abstract": "Non-charge-based logic in single-hole spin of semiconductor quantum dots (QDs) can be controlled by anisotropic gate potentials providing a notion for making next-generation solid-state quantum devices. In this study, we investigate the isotropic and anisotropic behavior of phonon-mediated spin relaxation of heavy-hole spin hot spots in QDs. For the electron spin in isotropic QDs, hot spots are known to be always present due to the Rashba spin-orbit coupling. But for heavy holes in isotropic dots, we show that the occurrences of spin hot spots are sensitive to the bulk  g  factor. The hot spot for Rashba coupling in InAs and GaSb dots arises because these materials possess negative bulk  g  factor, while that for the Dresselhaus coupling in GaAs and InSb dots is found due to their positive bulk  g  factor. For anisotropic QDs, on the other hand, the spin hot spot is universally present due to their broken in-plane rotational symmetry. Further, the increasing electric field, that strengthens the Rashba coupling, is shown to cover a wide range of magnetic field by the hot spots. Results demonstrate that the magnetic field, choice of dot materials, and size anisotropy can act as effective control parameters, which can be experimentally used to design the device for detecting the phonon-mediated heavy-hole spin-relaxation behavior of III-V semiconductor QDs.",
+    "pages": "045422",
+    "journal": "Physical Review B",
+    "pdf": "/research/publications/EJ-323.pdf",
+    "shortcode": "EJ-323",
+    "code": "323",
+    "link": "",
+    "extraInfo": "",
+    "authors": [284, 8, 285, 286, 4]
+  },
+  {
+    "id": 624,
+    "title": "The role of soil surface in a sustainable semiarid ecosystem",
+    "year": "2024",
+    "doi": "10.1371/journal.pone.0314910",
+    "volume": "19",
+    "type": "Journal",
+    "abstract": "Patterns in a semiarid ecosystem are important because they directly and indirectly affect ecological processes, biodiversity, and ecosystem resilience. Understanding the causes and effects of these patterns is critical for long-term land surface management and conservation efforts in semiarid regions, which are especially sensitive to climate change and human-caused disturbances. In addition, developing mathematical models is challenging because of the involvement of several interacting components within an ecosystem. It is known that there is a regular connection between the vegetation and the living species in a habitat since some animals evolved to live in a semiarid ecosystem and rely on plants for food. In this work, we have constructed a coupled mathematical model to connect the water resource, vegetation, and living organisms and have investigated how the soil surface affects the resulting patterns in the long term. This study contributes to a better understanding of ecological patterns and processes in semiarid environments by shedding light on the complex interaction mechanisms that depend on the structure of semiarid ecosystems. For example, the impact of intensive rainfall on ecosystem dynamics can be profound, triggering critical transitions and leading to significant yield loss. The energy lost as it moves from one trophic level to the next, the potential for diversity to exacerbate species extinction rates, and the role of water flow in driving the system towards more robust stripe pattern formations are all significant factors. Despite these complexities, the findings offer critical insights into the influence of efforts to enhance ecosystem resilience and adapt to the challenges of climate change and human activities.",
+    "pages": "e0314910",
+    "journal": "PLOS ONE",
+    "pdf": "/research/publications/EJ-324.pdf",
+    "shortcode": "EJ-324",
+    "code": "324",
+    "link": "",
+    "extraInfo": "",
+    "authors": [257, 263, 4]
+  },
+  {
+    "id": 625,
+    "title": "Piezoelectricity and flexoelectricity in biological cells: the role of cell structure and organelles",
+    "year": "2025",
+    "doi": "10.1007/s10237-024-01895-7",
+    "volume": "24",
+    "type": "Journal",
+    "abstract": "Living tissues experience various external forces on cells, influencing their behaviour, physiology, shape, gene expression, and destiny through interactions with their environment. Despite much research done in this area, challenges remain in our better understanding of the behaviour of the cell in response to external stimuli, including the arrangement, quantity, and shape of organelles within the cell. This study explores the electromechanical behaviour of biological cells, including organelles like microtubules, mitochondria, nuclei, and cell membranes. A two-dimensional bio-electromechanical model for two distinct cell structures has been developed to analyze the behavior of the biological cell to the external electrical and mechanical responses. The piezoelectric and flexoelectric effects have been included via multiphysics coupling for the biological cell. All the governing equations have been discretized and solved by the finite element method. It is found that the longitudinal stress is absent and only the transverse stress plays a crucial role when the mechanical load is imposed on the top side of the cell through compressive displacement. The impact of flexoelectricity is elucidated by introducing a new parameter called the maximum electric potential ratio (). It has been found that  depends upon the orientation angle and shape of the microtubules. The magnitude of exhibit huge change when we change the shape and orientation of the organelles, which in some cases (boundary condition (BC)-3) can reach to three times of regular shape organelles. Further, the study reveals that the number of microtubules significantly impacts effective elastic and piezoelectric coefficients, affecting cell behavior based on structure, microtubule orientation, and mechanical stress direction. The insight obtained from the current study can assist in advancements in medical therapies such as tissue engineering and regenerative medicine.",
+    "pages": "47-76",
+    "journal": "Biomechanics and Modeling in Mechanobiology",
+    "pdf": "/research/publications/EJ-325.pdf",
+    "shortcode": "EJ-325",
+    "code": "325",
+    "link": "",
+    "extraInfo": "",
+    "authors": [282, 283, 9, 4]
+  },
+  {
+    "id": 626,
+    "title": "Corrections to scaling in the 2D φ4 model: Monte Carlo results and some related problems",
+    "year": "2025",
+    "doi": "10.1088/1572-9494/ada3cb",
+    "volume": "77",
+    "type": "Journal",
+    "abstract": "Monte Carlo (MC) simulations have been performed to refine the estimation of the correction-to-scaling exponent ω in the 2D φ4 model, which belongs to one of the most fundamental universality classes. If corrections have the form  ∝ L−ω, then we find ω = 1.546(30) and ω = 1.509(14) as the best estimates. These are obtained from the finite-size scaling of the susceptibility data in the range of linear lattice sizes L ∈ [128, 2048] at the critical value of the Binder cumulant and from the scaling of the corresponding pseudocritical couplings within L ∈ [64, 2048]. These values agree with several other MC estimates at the assumption of the power-law corrections and are comparable with the known results of the epsilon-expansion. In addition, we have tested the consistency with the scaling corrections of the form  ∝ L−4/3,  and , which might be expected from some considerations of the renormalization group and Coulomb gas model. The latter option is consistent with our MC data. Our MC results served as a basis for a critical reconsideration of some earlier theoretical conjectures and scaling assumptions. In particular, we have corrected and refined our previous analysis by grouping Feynman diagrams. The renewed analysis gives ω ≈ 4 − d − 2η as some approximation for spatial dimensions d < 4, or ω ≈ 1.5 in two dimensions.",
+    "pages": "065601",
+    "journal": "Communications in Theoretical Physics",
+    "pdf": "/research/publications/EJ-326.pdf",
+    "shortcode": "EJ-326",
+    "code": "326",
+    "link": "",
+    "extraInfo": "",
+    "authors": [147, 4]
+  },
+  {
+    "id": 627,
+    "title": "Modelling the behavior of human crowds as coupled active-passive dynamics of interacting particle systems",
+    "year": "2025",
+    "doi": "10.1007/s11009-025-10139-9",
+    "volume": "27",
+    "type": "Journal",
+    "abstract": "The modelling of human crowd behaviors offers many challenging questions to science in general. Specifically, the social human behavior consists of many physiological and psychological processes which are still largely unknown. To model reliably such human crowd systems with complex social interactions, stochastic tools play an important role for the setting of mathematical formulations of the problems. In this work, using the description based on an exclusion principle, we study a statistical-mechanics-based lattice gas model for active-passive population dynamics with an application to human crowd behaviors. We provide representative numerical examples for the evacuation dynamics of human crowds, where the main focus in our considerations is given to an interacting particle system of active and passive human groups. Furthermore, our numerical results show that the communication between active and passive humans strongly influences the evacuation time of the whole population even when a local “faster-is-slower” phenomenon is taken into account. To provide an additional inside into the problem, a stationary state of our model is analyzed via current representations and heat map techniques. Finally, future extensions of the proposed models are discussed in the context of coupled data-driven modelling of human crowds and traffic flows, vital for the design strategies in developing intelligent transportation systems.",
+    "pages": "15",
+    "journal": "Methodology and Computing in Applied Probability",
+    "pdf": "/research/publications/EJ-327.pdf",
+    "shortcode": "EJ-327",
+    "code": "327",
+    "link": "",
+    "extraInfo": "",
+    "authors": [256, 4]
+  },
+  {
+    "id": 628,
+    "title": "Complex non-Markovian dynamics and the dual role of astrocytes in Alzheimer's disease development and propagation",
+    "year": "2025",
+    "doi": "10.1002/qub2.70001",
+    "volume": "13",
+    "type": "Journal",
+    "abstract": "Alzheimer’s disease (AD) is a common neurodegenerative disorder nowadays. Amyloid-beta (Aβ) and tau proteins are among the main contributors to the AD progression. In AD, Aβ proteins clump together to form plaques and disrupt cell functions. On the other hand, the abnormal chemical change in the brain helps to build sticky tau tangles that block the neuron’s transport system. Astrocytes generally maintain a healthy balance in the brain by clearing the Aβ plaques (toxic Aβ). However, overactivated astrocytes release chemokines and cytokines in the presence of Aβ and react to pro-inflammatory cytokines, further increasing the production of Aβ. In this study, we construct a mathematical model that can capture astrocytes’ dual behavior. Furthermore, we reveal that the disease progression depends on the current time instance and the disease’s earlier status, called the “memory effect,” making non-Markovian processes an appropriate approach. We consider a fractional order network mathematical model to capture the influence of such memory effects on AD progression. We have integrated brain connectome data into the model and studied the memory effect, the dual role of astrocytes, and the brain’s neuronal damage. Based on the pathology, primary, secondary, and mixed tauopathies parameters are considered in the model. Due to the mixed tauopathy, different brain nodes or regions in the brain connectome accumulate different toxic concentrations of Aβ and tau proteins. Finally, we explain how the memory effect can slow down the propagation of such toxic proteins in the brain, decreasing the rate of neuronal damage.",
+    "pages": "e70001",
+    "journal": "Quantitative Biology",
+    "pdf": "/research/publications/EJ-328.pdf",
+    "shortcode": "EJ-328",
+    "code": "328",
+    "link": "",
+    "extraInfo": "",
+    "authors": [257, 4]
+  },
+  {
+    "id": 629,
+    "title": "Nonlocal cooperative behaviour, psychological effects, and collective decision-making: on exemplification with predator-prey model",
+    "year": "2025",
+    "doi": "10.48550/arXiv.2406.10713",
+    "volume": "",
+    "type": "Journal",
+    "abstract": "In bio-social models, cooperative behaviour has evolved as an adaptive strategy, playing multi-functional roles. One of such roles in populations is to increase the success of survival and reproduction of individuals and their families or social groups. Moreover, collective decision-making in cooperative behaviour is an aspect that is used to study the dynamic behaviour of individuals within a social group. In this paper, we have focused on population dynamics by considering a predator-prey model as our main exemplification, where the generalist predator has adopted a cooperative hunting strategy while consuming their prey. In particular, we have analyzed the dynamic nature of the system when a nonlocal term is introduced in the cooperation. First, the Turing instability condition has been studied for the local model around the coexisting steady-state, followed by the Turing and non-Turing patterns in the presence of the nonlocal interaction term. This work is also concerned with the existence of travelling wave solutions for predator-prey interaction with the nonlocal cooperative hunting strategy. Such solutions are reported for local as well as for nonlocal models. We have characterized the invading speed of the predator with the help of the minimal wave speed of travelling wave solutions connecting the predator-free state to the co-existence state. The travelling waves are found to be non-monotonic in this system. The formation of wave trains has been demonstrated for an extended range of nonlocal interactions. Finally, the importance of psychological effects in shaping the dynamics of nonlocal collective behaviour is demonstrated with several representative examples.",
+    "pages": "",
+    "journal": "Mathematical Methods in the Applied Sciences",
+    "pdf": "/research/publications/EJ-329.pdf",
+    "shortcode": "EJ-329",
+    "code": "329",
+    "link": "",
+    "extraInfo": "Accepted January 23, 2025",
+    "authors": [281, 257, 4]
+  },
+  {
+    "id": 630,
+    "title": "Nonequilibrium dynamics in a noise-induced predator-prey model",
+    "year": "2025",
+    "doi": "10.1016/j.chaos.2024.115884",
+    "volume": "191",
+    "type": "Journal",
+    "abstract": "Understanding the dynamics of predator–prey systems in the presence of different environmental variability is crucial in ecology for forecasting population behaviour and ensuring ecosystem sustainability. It is a challenging aspect of studying spatio-temporal dynamics in the presence of environmental variability. We provide a noise-induced spatio-temporal predator–prey model to explore how temporal variability and spatial heterogeneity affect population dynamics. The multiplicative stochastic fluctuations in space and time are considered in the prey’s growth rate and predator’s death rate to capture the demographic noise in the ecosystem. We first examine the deterministic models by finding crucial parameters that influence the stability and dynamics of predator and prey populations, following their impact on spatio-temporal pattern formation. Using analytical tools and numerical simulations, we illuminate the mechanisms behind the observed dynamics and highlight the significance of demographic noise in generating ecological patterns. The numerical simulations show that the temporal variability introduced by noise leads to oscillations in population densities and alters the stability of the predator–prey system. Special attention is given to the spatio-temporal system when it fails to produce Turing patterns without noise, and the results show that linear demographic change can cause complex behaviours, such as self-organization, irregular oscillations, and nonequilibrium dynamics. Nevertheless, these findings broadly affect various ecological phenomena, including population persistence, species coexistence, long transients, and ecosystem resilience to demographic perturbations.",
+    "pages": "115884",
+    "journal": "Chaos, Solitons & Fractals",
+    "pdf": "/research/publications/EJ-330.pdf",
+    "shortcode": "EJ-330",
+    "code": "330",
+    "link": "",
+    "extraInfo": "",
+    "authors": [257, 263, 4]
+  },
+  {
+    "id": 631,
+    "title": "Bayesian approaches for revealing complex neural network dynamics in Parkinson’s disease",
+    "year": "2025",
+    "doi": "10.1016/j.jocs.2025.102525",
+    "volume": "85",
+    "type": "Journal",
+    "abstract": "Parkinson’s disease (PD) belongs to the class of neurodegenerative disorders that affect the central nervous system. It is usually defined as the gradual loss of dopaminergic neurons in the substantia nigra pars compacta, which causes both motor and non-motor symptoms. Understanding the neuronal processes that underlie PD is critical for creating successful therapies. This study combines machine learning (ML), stochastic modelling, and Bayesian inference with connectomic data to analyse the brain networks involved in PD. We use modern computational methods to study large-scale neural networks to identify neuronal activity patterns related to PD development. We aim to define the subtle structural and functional connection changes in PD brains by combining connectomic with stochastic noises. Stochastic modelling approaches reflect brain dynamics’ intrinsic variability and unpredictability, shedding light on the origin and spread of pathogenic events in PD. We employ a novel hybrid model to assess how stochastic noise impacts the cortex-basal ganglia-thalamus (CBGTH) network, using data from the Human Connectome Project (HCP). Bayesian inference allows us to quantify uncertainty in model parameters, improving the accuracy of our predictions. Our findings reveal that stochastic disturbances increase thalamus activity, even under deep brain stimulation (DBS). Bayesian analysis suggests that reducing these disturbances could enhance healthy brain states, providing insights for potential therapeutic interventions. This approach offers a deeper understanding of PD dynamics and paves the way for personalized treatment strategies. This is an extended version of our work presented at the ICCS-2024 conference (Shaheen and Melnik, 2024)",
+    "pages": "102525",
+    "journal": "Journal of Computational Science",
+    "pdf": "/research/publications/EJ-331.pdf",
+    "shortcode": "EJ-331",
+    "code": "331",
+    "link": "",
+    "extraInfo": "",
+    "authors": [238, 4]
+  },
+  {
+    "id": 632,
+    "title": "Nonequilibrium landscape of amyloid-beta and calcium ions in application to Alzheimer’s disease",
+    "year": "2025",
+    "doi": "10.1103/PhysRevE.111.014418",
+    "volume": "111",
+    "type": "Journal",
+    "abstract": "Amyloid-beta (A⁢𝛽) peptides and calcium ions (Ca2+) serve critical roles in various physiological processes inside neurons, but their dysregulation is involved in the development of neurological disorders, including Alzheimer's disease. Particularly, A⁢𝛽42 peptides alter Ca2+ homeostasis, resulting in synaptic dysfunction and neuronal damage. On the other hand, Ca2+ ions can affect A⁢𝛽 aggregation and clearance routes, either worsening or improving AD pathogenesis. We have considered a deterministic model for A⁢𝛽−Ca2+ interaction and studied its noise-induced dynamics. The stochastic sensitivity analysis helps to find the confidential ellipses for the stable attractors of the stochastic system. In addition, we have developed a network model based on the interaction between A⁢𝛽 peptides and Ca2+ ions to comprehend their dynamics in the brain connectome better. The probabilistic evolution approach characterizes the dynamics of the stochastic network model and estimates the potentials required to escape from one attractor to another. The numerical simulations suggest that the more connected node requires more energy to switch its state, and the noise intensity plays a crucial role in such cases. Furthermore, this study reveals that external perturbations on A⁢𝛽−Ca2+ dynamics uncover novel targets for drug development and provide insights into the complex interplay between protein misfolding and synaptic dysfunction in Alzheimer's disease pathology.",
+    "pages": "014418",
+    "journal": "Physical Review E",
+    "pdf": "/research/publications/EJ-332.pdf",
+    "shortcode": "EJ-332",
+    "code": "332",
+    "link": "",
+    "extraInfo": "",
+    "authors": [257, 4]
+  },
+  {
+    "id": 633,
+    "title": "Brain network dynamics and multiscale modelling of neurodegenerative disorders: A Review",
+    "year": "2025",
+    "doi": "10.1109/ACCESS.2025.3542634",
+    "volume": "13",
+    "type": "Journal",
+    "abstract": "It is essential to understand the complex structure of the human brain to develop new treatment approaches for neurodegenerative disorders (NDDs). This review paper comprehensively discusses the challenges associated with modelling the complex brain networks and dynamic processes involved in NDDs, particularly Alzheimer’s disease (AD), Parkinson’s disease (PD), and cortical spreading depression (CSD). We investigate how the brain’s biological processes and associated multiphysics interact and how this influences the structure and functionality of the brain. We review the literature on brain network models and dynamic processes, highlighting the need for sophisticated mathematical and statistical modelling techniques. Specifically, we go through large-scale brain network models relevant to AD and PD, highlighting the pathological mechanisms and potential therapeutic strategies investigated in the literature. Additionally, we investigate the propagation of CSD in the brain and its implications for neurological disorders. Furthermore, we discuss how data-driven approaches and artificial neural networks refine and validate models related to NDDs. Overall, this review underscores the significance of coupled multiscale models in deciphering disease mechanisms, offering potential avenues for therapeutic development and advancing our understanding of pathological brain dynamics.",
+    "pages": "33074-33100",
+    "journal": "IEEE Access",
+    "pdf": "/research/publications/EJ-333.pdf",
+    "shortcode": "EJ-333",
+    "code": "333",
+    "link": "",
+    "extraInfo": "",
+    "authors": [238, 4]
+  },
+  {
+    "id": 634,
+    "title": "Nonlocal models in biology and life sciences",
+    "year": "2025",
+    "doi": "10.1016/j.plrev.2025.02.005",
+    "volume": "53",
+    "type": "Journal",
+    "abstract": "Mathematical modeling is one of the fundamental techniques for understanding biophysical mechanisms in developmental biology. It helps researchers to analyze complex physiological processes and connect like a bridge between theoretical and experimental observations. Various groups of mathematical models have been studied to analyze these processes, and the nonlocal models are one of them. Nonlocality is important in realistic mathematical models of physical and biological systems when local models fail to capture the essential dynamics and interactions that occur over a range of distances (e.g., cell-cell, cell–tissue adhesions, neural networks, the spread of diseases, intra-specific competition, nanobeams, etc.). This review illustrates different nonlocal mathematical models applied to biology and life sciences. The major focus has been given to sources, developments, and applications of such models. Among other things, a systematic discussion has been provided for the conditions of pattern formations in biological systems of population dynamics. Special attention has also been given to nonlocal interactions on networks, network coupling and integration, including brain dynamics models that provide an important tool to understand neurodegenerative diseases better. In addition, we have discussed nonlocal modeling approaches for cancer stem cells and tumor cells that are widely applied in the cell migration processes, growth, and avascular tumors in any organ. Furthermore, the discussed nonlocal continuum models can go sufficiently smaller scales, including nanotechnology, where classical local models often fail to capture the complexities of nanoscale interactions, applied to build biosensors to sense biomaterial and its concentration. Piezoelectric and other smart materials are among them, and these devices are becoming increasingly important in the digital and physical world that is intrinsically interconnected with biological systems. Additionally, we have reviewed a nonlocal theory of peridynamics, which deals with continuous and discrete media and applies to model the relationship between fracture and healing in cortical bone, tissue growth and shrinkage, and other areas increasingly important in biomedical and bioengineering applications. Finally, we provided a comprehensive summary of emerging trends and highlighted future directions in this rapidly expanding field. ",
+    "pages": "24-75",
+    "journal": "Physics of Life Reviews",
+    "pdf": "/research/publications/EJ-334.pdf",
+    "shortcode": "EJ-334",
+    "code": "334",
+    "link": "",
+    "extraInfo": "",
+    "authors": [257, 4]
+  },
+  {
+    "id": 635,
+    "title": "Analysis of the impact of fear in the presence of additional food and prey refuge with nonlocal predator-prey model",
+    "year": "2025",
+    "doi": "10.1016/j.ecolmodel.2025.111103",
+    "volume": "505",
+    "type": "Journal",
+    "abstract": "https://www.google.com/search?client=safari&rls=en&q=There+are+many+positive+and+negative+factors+present+in+the+predator%E2%80%93prey+interaction+which+affect+the+net+growth+of+the+species.+Fear+of+predation+is+one+such+factor+that+creates+psychological+stress+in+a+prey+species%2C+which+causes+a+negative+impact+on+their+overall+growth.+This+work+considers+a+predator%E2%80%93prey+model+where+the+prey+species+faces+a+reduction+in+their+growth+out+of+fear%2C+and+the+predator+has+an+alternative+food+source+that+helps+the+prey+to+hide+in+a+safer+place.+As+an+extension+into+the+nonlocal+spatio-temporal+model%2C+a+nonlocal+term+is+considered+in+the+prey+growth+to+incorporate+a+fear-effect+range+around+their+spatial+location.+Linear+stability+analysis+helps+to+analyse+the+temporal+model+and+produces+a+wide+range+of+interesting+results%2C+including+the+presence+of+a+certain+amount+of+fear+or+even+prey+refuge%2C+which+helps+in+population+coexistence.+Furthermore%2C+the+numerical+simulations+of+the+local+and+nonlocal+spatio-temporal+models+show+different+types+of+spatial%E2%80%93temporal+patterns%2C+such+as+Turing+and+non-Turing+patterns.+Nevertheless%2C+an+increase+in+fear+level+reduces+the+range+of+the+Turing+domain+for+the+local+model%2C+whereas+the+opposite+happens+when+the+range+of+nonlocal+interaction+is+increased.&ie=UTF-8&oe=UTF-8",
+    "pages": "111103",
+    "journal": "Ecological Modelling",
+    "pdf": "/research/publications/EJ-335.pdf",
+    "shortcode": "EJ-335",
+    "code": "335",
+    "link": "",
+    "extraInfo": "",
+    "authors": [281, 257, 4]
+  },
+  {
+    "id": 636,
+    "title": "Impact of the electrostatic correlations on the frequency response of a graphene electrode in ionic liquid",
+    "year": "2025",
+    "doi": "10.1103/PhysRevE.111.055503",
+    "volume": "111",
+    "type": "Journal",
+    "abstract": "We investigate the frequency response of the graphene-based electrochemical systems containing room-temperature ionic liquids using the method of matched asymptotic expansion in the limit of thin double-layers to study the diffuse-charge dynamics of graphene electrodes interfaced with the ionic liquids. The theory in the framework of the asymptotic matching is mainly supported by (1) the length scale √𝜆𝐷𝐿𝑐 that suitably characterizes the structure of the double layer in ionic liquids, with 𝜆𝐷 referring to the Debye length and 𝐿𝑐 referring to the electrostatic correlation length, and (2) the charging time, 𝜏𝑐=𝜆3/2 𝐷𝐿/(𝐷𝐿1/2 𝑐), where 𝐷 is the diffusion coefficient and 𝐿 is the thickness of the electrolyte. With this response time, the diffuse-charge dynamics is deduced at the leading order to obtain an analytic expression for low-frequency impedance. As a result of the new length scaling √𝜆𝐷𝐿𝑐, we additionally study the behavior of double-layer in graphene-metal electrochemical systems involving ionic liquids, where electrostatic correlation length 𝐿𝑐 is found to play a prominent role in the linear regime. The results are then compared with the conventional electrochemical cells containing a metal-metal electrode pair.",
+    "pages": "055503",
+    "journal": "Physical Review E",
+    "pdf": "/research/publications/EJ-336.pdf",
+    "shortcode": "EJ-336",
+    "code": "336",
+    "link": "",
+    "extraInfo": "Accepted Apr 24, 2025",
+    "authors": [280, 4, 39]
   }
 ]

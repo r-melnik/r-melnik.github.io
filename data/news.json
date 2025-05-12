@@ -1,186 +1,242 @@
 [
-    {
-        "title": "Workshop on “Predictive Multiscale Materials Design with Mathematical Modelling and Machine Learning”",
-        "description": "SIAM Conference on Mathematical Aspects of Materials Science\n(MS20) || Organizers: Elena Akhmatskaya (Spain) and\nRoderick Melnik (Canada)",
-        "body": "",
-        "date": "2021-05-24",
-        "endDate": "2021-05-29",
-        "type": "member"
-    },
-    {
-        "title": "Banff Workshop on Coupled Mathematical Models for Physical and Biological Nanoscale Systems and Their Applications",
-        "description": "Organizers: Roderick Melnik (Canada), Luis Bonilla (Spain), and Efthimios Kaxiras (USA)",
-        "body": "",
-        "date": "2016-08-01",
-        "endDate": "2016-09-01",
-        "type": "member"
-    },
-    {
-        "title": "Biomedical and Biotechnology Engineering Track at IMECE",
-        "description": "Presentation",
-        "body": "",
-        "date": "2020-11-16",
-        "endDate": "2020-11-19",
-        "type": "other"
-    },
-    {
-        "title": "Fields Institute Focus Program on Nanoscale Systems and Coupled Phenomena: Mathematical Analysis, Modeling, and Applications ",
-        "description": "Organizers: Bjorn Birnir (USA),  Ana Carpio (Spain), Mitchell Luskin (USA), Roderick Melnik (Canada)",
-        "body": "",
-        "date": "2018-04-01",
-        "endDate": "2018-05-01",
-        "type": "member"
-    },
-    {
-        "title": "Focus Program on New Geometric Methods in Neuroscience at Fields Institute ",
-        "description": "Toronto, Canada",
-        "body": "",
-        "date": "2020-02-01",
-        "endDate": "2020-03-01",
-        "type": "other"
-    },
-    {
-        "title": "MULTIDISCIPLINARY ALLIANCE IN BIOSCIENCES: MODELING, COMPUTING”, TECHNOLOGY AND CLINICAL APPLICATIONS at WCCM",
-        "description": "Organizers: GIOVANNA GUIDOBONI (USA), RODERICK MELNIK (Canada) AND RICCARDO SACCO (Italy) ",
-        "body": "",
-        "date": "2020-07-19",
-        "endDate": "2020-07-24",
-        "type": "member"
-    },
-    {
-        "title": "The 37th International Conference on Machine Learning",
-        "description": "Vienna, Austria ",
-        "body": "",
-        "date": "2020-07-01",
-        "endDate": null,
-        "type": "other"
-    },
-    {
-        "title": "Workshop on “Multiscale Modelling, Uncertainty Quantification and the Reliability of Computer Simulation” at the ICCS-2020 ",
-        "description": "Program Committee",
-        "body": "",
-        "date": "2020-07-19",
-        "endDate": "2020-07-24",
-        "type": "other"
-    },
-    {
-        "title": "The 8th International Work-Conference on Bioinformatics and Biomedical Engineering",
-        "description": "Program Committee",
-        "body": "",
-        "date": "2020-09-30",
-        "endDate": "2020-10-02",
-        "type": "other"
-    },
-    {
-        "title": "Computational Structures Technology",
-        "description": "Conference Editorial Board",
-        "body": "",
-        "date": "2022-08-23",
-        "endDate": "2022-08-25",
-        "type": "other"
-    },
-    {
-        "title": "Complex dynamics of multiscale stochastic processes with applications to physical, biological and social networks",
-        "description": "Framework research project (Tadic, M., Dankulov, M. M., Melnik, R.)",
-        "body": "",
-        "date": "2022-01-01",
-        "endDate": "2023-01-01",
-        "type": "member"
-    },
-    {
-        "title": "The International Conference on Dynamical Systems Applied to Biology and Natural Sciences",
-        "description": "Hina Shaheen, PhD candidate from the group, presents a talk on multiscale dynamics of coupled subcortical networks with deep brain stimulation.",
-        "body": "",
-        "date": "2022-02-08",
-        "endDate": "2022-02-11",
-        "type": "member"
-    },
-    {
-        "title": "The 9th International Work-Conference on Bioinformatics and Biomedical Engineering",
-        "description": "Program Committee",
-        "body": "",
-        "date": "2022-06-27",
-        "endDate": "2022-06-30",
-        "type": "other"
-    },
-    {
-        "title": "The International Conference on Computational Science, Workshop on Multiscale Modelling and Simulation",
-        "description": "Program Committee",
-        "body": "",
-        "date": "2022-06-21",
-        "endDate": "2022-06-23",
-        "type": "other"
-    },
-    {
-        "title": "Innovation in Minimally Invasive Therapies, Biosensing, and Screening: Data-driven Models, Complex Networks, and Experiments",
-        "description": "Special Issue (Melnik, R., Repaka, R., Saccomandi, P., Singh, S.)",
-        "body": "",
-        "date": "2022-01-01",
-        "endDate": "2023-01-01",
-        "type": "member"
-    },
-    {
-        "title": "Our presentation on the improved models for neuromorphic and cognitive computing applications",
-        "description": "22nd International Conference on Computational Science and Its Applications.",
-        "body": "",
-        "date": "2022-07-04",
-        "endDate": "2022-07-07",
-        "type": "member"
-    },
-    {
-        "title": "Our presentation on Nonlocal and nonequilibrium phenomena in the analysis of neurodegenerative diseases and ecosystems",
-        "description": "The 2023 International Conference on Computational and Mathematical Methods in Science and Engineering.",
-        "body": "",
-        "date": "2023-07-03",
-        "endDate": "2023-07-08",
-        "type": "member"
-    },
-    {
-        "title": "Our presentation on Spatio-temporal dynamics of complex systems, nonlocality, and pattern alternations",
-        "description": "The 14th Conference on Dynamical Systems Applied to Biology and Natural Sciences.",
-        "body": "",
-        "date": "2023-02-05",
-        "endDate": "2023-02-08",
-        "type": "member"
-    },
-    {
-        "title": "Our presentation on Human Biosocial Dynamics with Complex Psychological Behaviour: Hierarchy of Mathematical Models and Nonequilibrium Phenomena",
-        "description": "The XXVII Sitges Conference on Statistical Mechanics: Nonequilibrium Phenomena: from Quantum to Macroscopic Scales.",
-        "body": "",
-        "date": "2023-05-29",
-        "endDate": "2023-06-02",
-        "type": "member"
-    },
-    {
-        "title": "Interdisciplinary Alliance in Biosciences: From physics-based and data-driven multiscale modelling to medical applications at the ECOMAS Thematic Conference on Coupled Problems (Scientific Committee)",
-        "description": "ECOMAS Thematic Conference on Coupled Problems (Scientific Committee). Organizers: GIOVANNA GUIDOBONI (USA), RODERICK MELNIK (Canada) AND RICCARDO SACCO (Italy).",
-        "body": "",
-        "date": "2023-06-05",
-        "endDate": "2023-06-07",
-        "type": "member"
-    },
-    {
-        "title": "Our presentations on Coupled Complex Systems and Networks",
-        "description": "International Applied Mathematics, Modelling, and Computational Science Interdisciplinary Conference, Waterloo.",
-        "body": "",
-        "date": "2023-07-12",
-        "endDate": "2023-07-14",
-        "type": "member"
-    },
-    {
-        "title": "The 10th International Work-Conference on Bioinformatics and Biomedical Engineering",
-        "description": "Program Committee.",
-        "body": "",
-        "date": "2023-07-12",
-        "endDate": "2023-07-14",
-        "type": "member"
-    },
-    {
-        "title": "Our book chapter on Social human collective decision-making and its applications with brain network models in Crowd Dynamics",
-        "description": "Birkhauser-Springer, Series: Modeling and Simulation in Science, Engineering, and Technology, New York, USA.",
-        "body": "",
-        "date": "2023-09-01",
-        "endDate": "2024-01-01",
-        "type": "member"
-    }
+  {
+    "title": "The 12th International Work-Conference on Bioinformatics and Biomedical Engineering",
+    "description": "Our presentation on Control Theory Approach in Regulating Toxic Amyloid- beta Oligomers in Alzheimer’s Disease.",
+    "body": "",
+    "date": "2025-07-16",
+    "endDate": "2025-07-18",
+    "type": "member"
+  },
+  {
+    "title": "The 2nd International Conference on Modelling, Data Analytics and AI in Engineering",
+    "description": "Our presentation on Data-driven approaches with Bayesian physics-informedneural networks in neurodegenerative disease biotechnology.",
+    "body": "",
+    "date": "2025-07-07",
+    "endDate": "2025-07-11",
+    "type": "member"
+  },
+  {
+    "title": "The Fourth International Nonlinear Dynamics Conference",
+    "description": "Our presentation on Stochastic Nonlinear Dynamical Systems for Smoothing Noisy Eye Gaze Data.",
+    "body": "",
+    "date": "2025-06-22",
+    "endDate": "2025-06-25",
+    "type": "member"
+  },
+  {
+    "title": "Special Invited CP Event on Data-driven Multiscale Modelling and Machine Learning for Biomedical, Physical, Engineering, and Social Coupled Systems.",
+    "description": "",
+    "body": "",
+    "date": "2025-05-26",
+    "endDate": "2025-05-29",
+    "type": "member"
+  },
+  {
+    "title": "XI International Conference on Coupled Problems in Science and Engineering",
+    "description": "Our presentation on Multiscale Modelling with Data-Driven Brain Networks.",
+    "body": "",
+    "date": "2025-05-26",
+    "endDate": "2025-05-29",
+    "type": "member"
+  },
+  {
+    "title": "The ECOMAS Thematic Conference on Coupled Problems",
+    "description": "COUPLED-2025: XI International Conference on Computational Methods for Coupled Problems in Science andEngineering. Our presentation on Screening Energetically Stable Structures of LLZO Garnets for Lithium-ion Battery Applications.",
+    "body": "",
+    "date": "2025-05-26",
+    "endDate": "2025-05-29",
+    "type": "member"
+  },
+  {
+    "title": "IWBBIO-2024",
+    "description": "Plenary Opening Talk on “Nonlocal models in biomedical applications withexemplifications for neurodegenerative diseases and bioneurological processes”.",
+    "body": "",
+    "date": "2024-07-15",
+    "endDate": "2024-07-17",
+    "type": "member"
+  },
+  {
+    "title": "Workshop on “Predictive Multiscale Materials Design with Mathematical Modelling and Machine Learning”",
+    "description": "SIAM Conference on Mathematical Aspects of Materials Science\n(MS20) || Organizers: Elena Akhmatskaya (Spain) and\nRoderick Melnik (Canada)",
+    "body": "",
+    "date": "2021-05-24",
+    "endDate": "2021-05-29",
+    "type": "member"
+  },
+  {
+    "title": "Banff Workshop on Coupled Mathematical Models for Physical and Biological Nanoscale Systems and Their Applications",
+    "description": "Organizers: Roderick Melnik (Canada), Luis Bonilla (Spain), and Efthimios Kaxiras (USA)",
+    "body": "",
+    "date": "2016-08-01",
+    "endDate": "2016-09-01",
+    "type": "member"
+  },
+  {
+    "title": "Biomedical and Biotechnology Engineering Track at IMECE",
+    "description": "Presentation",
+    "body": "",
+    "date": "2020-11-16",
+    "endDate": "2020-11-19",
+    "type": "other"
+  },
+  {
+    "title": "Fields Institute Focus Program on Nanoscale Systems and Coupled Phenomena: Mathematical Analysis, Modeling, and Applications ",
+    "description": "Organizers: Bjorn Birnir (USA),  Ana Carpio (Spain), Mitchell Luskin (USA), Roderick Melnik (Canada)",
+    "body": "",
+    "date": "2018-04-01",
+    "endDate": "2018-05-01",
+    "type": "member"
+  },
+  {
+    "title": "Focus Program on New Geometric Methods in Neuroscience at Fields Institute ",
+    "description": "Toronto, Canada",
+    "body": "",
+    "date": "2020-02-01",
+    "endDate": "2020-03-01",
+    "type": "other"
+  },
+  {
+    "title": "MULTIDISCIPLINARY ALLIANCE IN BIOSCIENCES: MODELING, COMPUTING”, TECHNOLOGY AND CLINICAL APPLICATIONS at WCCM",
+    "description": "Organizers: GIOVANNA GUIDOBONI (USA), RODERICK MELNIK (Canada) AND RICCARDO SACCO (Italy) ",
+    "body": "",
+    "date": "2020-07-19",
+    "endDate": "2020-07-24",
+    "type": "member"
+  },
+  {
+    "title": "The 37th International Conference on Machine Learning",
+    "description": "Vienna, Austria ",
+    "body": "",
+    "date": "2020-07-01",
+    "endDate": null,
+    "type": "other"
+  },
+  {
+    "title": "Workshop on “Multiscale Modelling, Uncertainty Quantification and the Reliability of Computer Simulation” at the ICCS-2020 ",
+    "description": "Program Committee",
+    "body": "",
+    "date": "2020-07-19",
+    "endDate": "2020-07-24",
+    "type": "other"
+  },
+  {
+    "title": "The 8th International Work-Conference on Bioinformatics and Biomedical Engineering",
+    "description": "Program Committee",
+    "body": "",
+    "date": "2020-09-30",
+    "endDate": "2020-10-02",
+    "type": "other"
+  },
+  {
+    "title": "Computational Structures Technology",
+    "description": "Conference Editorial Board",
+    "body": "",
+    "date": "2022-08-23",
+    "endDate": "2022-08-25",
+    "type": "other"
+  },
+  {
+    "title": "Complex dynamics of multiscale stochastic processes with applications to physical, biological and social networks",
+    "description": "Framework research project (Tadic, M., Dankulov, M. M., Melnik, R.)",
+    "body": "",
+    "date": "2022-01-01",
+    "endDate": "2023-01-01",
+    "type": "member"
+  },
+  {
+    "title": "The International Conference on Dynamical Systems Applied to Biology and Natural Sciences",
+    "description": "Hina Shaheen, PhD candidate from the group, presents a talk on multiscale dynamics of coupled subcortical networks with deep brain stimulation.",
+    "body": "",
+    "date": "2022-02-08",
+    "endDate": "2022-02-11",
+    "type": "member"
+  },
+  {
+    "title": "The 9th International Work-Conference on Bioinformatics and Biomedical Engineering",
+    "description": "Program Committee",
+    "body": "",
+    "date": "2022-06-27",
+    "endDate": "2022-06-30",
+    "type": "other"
+  },
+  {
+    "title": "The International Conference on Computational Science, Workshop on Multiscale Modelling and Simulation",
+    "description": "Program Committee",
+    "body": "",
+    "date": "2022-06-21",
+    "endDate": "2022-06-23",
+    "type": "other"
+  },
+  {
+    "title": "Innovation in Minimally Invasive Therapies, Biosensing, and Screening: Data-driven Models, Complex Networks, and Experiments",
+    "description": "Special Issue (Melnik, R., Repaka, R., Saccomandi, P., Singh, S.)",
+    "body": "",
+    "date": "2022-01-01",
+    "endDate": "2023-01-01",
+    "type": "member"
+  },
+  {
+    "title": "Our presentation on the improved models for neuromorphic and cognitive computing applications",
+    "description": "22nd International Conference on Computational Science and Its Applications.",
+    "body": "",
+    "date": "2022-07-04",
+    "endDate": "2022-07-07",
+    "type": "member"
+  },
+  {
+    "title": "Our presentation on Nonlocal and nonequilibrium phenomena in the analysis of neurodegenerative diseases and ecosystems",
+    "description": "The 2023 International Conference on Computational and Mathematical Methods in Science and Engineering.",
+    "body": "",
+    "date": "2023-07-03",
+    "endDate": "2023-07-08",
+    "type": "member"
+  },
+  {
+    "title": "Our presentation on Spatio-temporal dynamics of complex systems, nonlocality, and pattern alternations",
+    "description": "The 14th Conference on Dynamical Systems Applied to Biology and Natural Sciences.",
+    "body": "",
+    "date": "2023-02-05",
+    "endDate": "2023-02-08",
+    "type": "member"
+  },
+  {
+    "title": "Our presentation on Human Biosocial Dynamics with Complex Psychological Behaviour: Hierarchy of Mathematical Models and Nonequilibrium Phenomena",
+    "description": "The XXVII Sitges Conference on Statistical Mechanics: Nonequilibrium Phenomena: from Quantum to Macroscopic Scales.",
+    "body": "",
+    "date": "2023-05-29",
+    "endDate": "2023-06-02",
+    "type": "member"
+  },
+  {
+    "title": "Interdisciplinary Alliance in Biosciences: From physics-based and data-driven multiscale modelling to medical applications at the ECOMAS Thematic Conference on Coupled Problems (Scientific Committee)",
+    "description": "ECOMAS Thematic Conference on Coupled Problems (Scientific Committee). Organizers: GIOVANNA GUIDOBONI (USA), RODERICK MELNIK (Canada) AND RICCARDO SACCO (Italy).",
+    "body": "",
+    "date": "2023-06-05",
+    "endDate": "2023-06-07",
+    "type": "member"
+  },
+  {
+    "title": "Our presentations on Coupled Complex Systems and Networks",
+    "description": "International Applied Mathematics, Modelling, and Computational Science Interdisciplinary Conference, Waterloo.",
+    "body": "",
+    "date": "2023-07-12",
+    "endDate": "2023-07-14",
+    "type": "member"
+  },
+  {
+    "title": "The 10th International Work-Conference on Bioinformatics and Biomedical Engineering",
+    "description": "Program Committee.",
+    "body": "",
+    "date": "2023-07-12",
+    "endDate": "2023-07-14",
+    "type": "member"
+  },
+  {
+    "title": "Our book chapter on Social human collective decision-making and its applications with brain network models in Crowd Dynamics",
+    "description": "Birkhauser-Springer, Series: Modeling and Simulation in Science, Engineering, and Technology, New York, USA.",
+    "body": "",
+    "date": "2023-09-01",
+    "endDate": "2024-01-01",
+    "type": "member"
+  }
 ]

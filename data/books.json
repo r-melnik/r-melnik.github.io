@@ -14,10 +14,7 @@
     "code": "1",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      245,
-      139
-    ]
+    "authors": [245, 139]
   },
   {
     "id": 81,
@@ -34,10 +31,7 @@
     "code": "2",
     "link": null,
     "extraInfo": "<p>ISBN: 5-7763-0502-0</p>",
-    "authors": [
-      139,
-      245
-    ]
+    "authors": [139, 245]
   },
   {
     "id": 82,
@@ -54,11 +48,7 @@
     "code": "3",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      245,
-      142,
-      139
-    ]
+    "authors": [245, 142, 139]
   },
   {
     "id": 83,
@@ -75,12 +65,7 @@
     "code": "4",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      139,
-      245,
-      143,
-      144
-    ]
+    "authors": [139, 245, 143, 144]
   },
   {
     "id": 84,
@@ -97,11 +82,7 @@
     "code": "5",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      245,
-      144,
-      139
-    ]
+    "authors": [245, 144, 139]
   },
   {
     "id": 85,
@@ -118,11 +99,7 @@
     "code": "6",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      139,
-      145,
-      245
-    ]
+    "authors": [139, 145, 245]
   },
   {
     "id": 86,
@@ -139,10 +116,7 @@
     "code": "7",
     "link": null,
     "extraInfo": "<p>The first edition of this book was published a year ago with a limited number of copied that appeared in print. Upon a request from the publisher, a new edition of this book has been prepared.</p><p>2nd Edition, ISBN 5-7763-05-03-9</p>",
-    "authors": [
-      139,
-      245
-    ]
+    "authors": [139, 245]
   },
   {
     "id": 87,
@@ -159,9 +133,7 @@
     "code": "8",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 88,
@@ -178,10 +150,7 @@
     "code": "9",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      246,
-      245
-    ]
+    "authors": [246, 245]
   },
   {
     "id": 79,
@@ -198,10 +167,7 @@
     "code": "10",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      140,
-      245
-    ]
+    "authors": [140, 245]
   },
   {
     "id": 80,
@@ -218,11 +184,7 @@
     "code": "11",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      246,
-      247,
-      245
-    ]
+    "authors": [246, 247, 245]
   },
   {
     "id": 76,
@@ -239,11 +201,7 @@
     "code": "12",
     "link": null,
     "extraInfo": "",
-    "authors": [
-      252,
-      243,
-      244
-    ]
+    "authors": [252, 243, 244]
   },
   {
     "id": 75,
@@ -260,10 +218,7 @@
     "code": "13",
     "link": null,
     "extraInfo": "<p>DDNS Book Review by Melnik, R.V.N.: Idempotency, J. Gunawardena (ed). Cambridge University, the Newton Institute, 1998, 443pp., ISBN 0-521-55344-X</p>",
-    "authors": [
-      4,
-      136
-    ]
+    "authors": [4, 136]
   },
   {
     "id": 74,
@@ -280,11 +235,7 @@
     "code": "14",
     "link": null,
     "extraInfo": "<p><span style=\"color: rgba(0, 0, 0, 0.87);\">ISBN 0 7315 5202 4</span></p>",
-    "authors": [
-      4,
-      134,
-      135
-    ]
+    "authors": [4, 134, 135]
   },
   {
     "id": 73,
@@ -301,9 +252,7 @@
     "code": "15",
     "link": null,
     "extraInfo": "<p>This editorial was published by the <a href=\"https://ecmiindmath.org/\" rel=\"noopener noreferrer\" target=\"_blank\">European Consortium for Mathematics in Industry</a>, Number 34, October, 2003.</p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 72,
@@ -320,10 +269,7 @@
     "code": "16",
     "link": null,
     "extraInfo": "<p>This is a special issue on “Wave Phenomena in Physics and Engineering: New Models, Algorithms, and Applications”.&nbsp;A detailed description is given in the guest editorial. Here we list the contributions that appeared in this special issue:</p><ol><li>Preconditioning techniques for the solution of the Helmholtz equation by the finite element method (by Riyad Kechroud, Azzeddine Soulaimani, Yousef Saad, Shivaraju Gowda);</li><li>Optimization of power in the problems of active control of sound (by J. Lončarić, S.V. Tsynkov);</li><li>Helmholtz equation in parabolic rotational coordinates: application to wave problems in quantum mechanics and acoustics (by L.C. Lew Yan Voon, M. Willatzen);</li><li>Monte Carlo modeling of spin FETs controlled by spin–orbit interaction (by Min Shen, Semion Saikin, Ming-C. Cheng, Vladimir Privman);</li><li>Furnace geometry effects on plume dynamics in laser ablation for nanotube synthesis (by Diomar Cesar Lobão, Alex Povitsky);</li><li>Quantum confinement phenomena in nanowire superlattice structures (by M. Willatzen, R.V.N. Melnik, C. Galeriu, L.C. Lew Yan Voon);</li><li>Numerical simulations of laminar mixing surfaces in pulsatile microchannel flows (by Darren L. Hitt, Matthew McGarry);</li><li>Spherical Richtmyer-Meshkov instability for axisymmetric flow (by Srabasti Dutta, James Glimm, John W. Grove, David H. Sharp, Yongmin Zhang);</li><li>Richtmyer–Meshkov instability in liquid metal flows: influence of cavitation and magnetic fields (by Roman Samulyak, Yarema Prykarpatskyy);</li><li>Effect of vortex profile on sound generation in a non-uniform flow (by Alex Povitsky, Tinghui Zheng, Georgios H. Vatistas);</li><li>Instability-wave propagation in boundary-layer flows at subsonic through hypersonic Mach numbers (by Li Jiang, Chau-Lyan Chang, Meelan Choudhari, Chaoqun Liu);</li><li>Applications of fully conservative schemes in nonlinear thermoelasticity: modelling shape memory materials (by P. Matus, R.V.N. Melnik, L. Wang, I. Rybak);</li><li>On self-drifting flame balls (by Kagan, S. Minaev, G. Sivashinsky);</li><li>Quantification of the CARI breast imaging sensitivity by 2D/3D numerical time-domain ultrasound wave propagation (by A. Bounaïm, S. Holm, W. Chen, Å. Ødegård);</li><li>Exact solutions and invariants of motion for general types of regularized long wave equations (by S. Hamdi, W.H. Enright, W.E Schiesser, J.J. Gottlieb).&nbsp;</li></ol><p><br></p><p>ISSN 0378-4754, 248 Pages</p>",
-    "authors": [
-      4,
-      93
-    ]
+    "authors": [4, 93]
   },
   {
     "id": 71,
@@ -340,11 +286,7 @@
     "code": "17",
     "link": null,
     "extraInfo": "<p>This is a special issues on “Modelling, control and analysis of coupled problems, processes and phenomena” based on selected papers presented at the Forth World Congress of Nonlinear Analysts. Among those presented as one-hour invited talks were the following: (a) Optimization-Based Methods for Effecting Multidisciplinary Simulation and Optimization (by Max Gunzburger&nbsp;, Florida State University); (b) Applications of Nonlinear Analysis to Cell Biology (by Jack Tuszynski, University of Alberta, co-authored with S. Portet, University of Toronto and J. Dixon, University of Warwick); (c) Control Bifurcations (by Arthur J. Krener&nbsp;, University of California Davis). A detailed description is given in the guest editorial. Here we list the contributions that appeared in this special issue:</p><ol><li>Exact solutions and conservation laws for coupled generalized Korteweg–de Vries and quintic regularized long wave equations (by Hamdi, W.H. Enright, W. E Schiesser, J.J. Gottlieb);</li><li>Analysis of coupling between hydrodynamic and thermal instabilities in non-Boussinesq convection (by Sergey A. Suslov);</li><li>A non-conforming computational methodology for modeling coupled problems (by E. Aulisa, S. Manservisi, P. Seshaiyer);</li><li>Concerning the exact null controllability of a nonlinear thermoelastic plate (by George Avalos);</li><li>Description of adhering with saturation using boundary conditions of hysteresis type (by N. D. Botkin, K.-H. Hoffmann, A.M. Meirmanov, V.N. Starovoitov);</li><li>A posteriori error estimate techniques for coupled Navier–Stokes equations and energy equation (by J. Cao);</li><li>Competitive permeation of calcium ions through the calcium release channel (by Ryanodine receptor) of cardiac muscle: An application of the coupled Poisson–Nernst–Planck system of equations (by Duan P. Chen);</li><li>The role of spatio-temporal effects in anaerobic digestion of solid waste (by Hermann J. Eberl);</li><li>Dynamics of SHS in periodic media (by Michael Frankel and Victor Roytburd);</li><li>Viscous forces on acoustically levitated gas bubbles (by Darren L. Hitt and Andrea Prosperetti);</li><li>An overview of modelling challenges for a nonlinear plate-beam model (by Mary Ann Horn and Günter Leugering);</li><li>Numerical modeling for design of viscoelastic coatings with favorable sound absorbing properties (by S. Ivansson);</li><li>A local surface model applied to contact line dynamics (by J. Monnier and P. Witomski);</li><li>The Lax–Friedrichs sweeping method for optimal control problems in continuous and hybrid dynamics (by Chiu Yen Kao, Carmeliza Navasca, Stanley Osher);</li><li>Three-dimensional flow in cavity at yaw (by Alex Povitsky);</li><li>Solution techniques for multi-physics problems with application to computational nonlinear aeroelasticity (by Azzeddine Soulaımani, Zhengkun Feng, Amin Ben Haj Ali);</li><li>A higher-order time integration algorithm for the simulation of nonlinear fluid–structure interaction (by A.H. van Zuijlen and H. Bijl);</li><li>Non-linear strain theory for low-dimensional semiconductor structures (by B. Lassen, R. Melnik, M. Willatzen, L.C. Lew Yan Voon);</li><li>Electrostatic coupling of MEMS structures: transient simulations and dynamic pull-in (by V. Rochus, D.J. Rixen, J.-C. Golinval);</li><li>Radiation-coupled front-tracking simulations for laser-driven shock experiments (by Yongmin Zhang, R. Paul Drake, James Glimm, John W. Grove, David H. Sharp).</li></ol>",
-    "authors": [
-      245,
-      112,
-      113
-    ]
+    "authors": [245, 112, 113]
   },
   {
     "id": 70,
@@ -361,10 +303,7 @@
     "code": "18",
     "link": null,
     "extraInfo": "<p>This is a special issue on “Methods of Mathematical and Computational Physics for Industry, Science, and Technology”. A detailed description is given in the guest editorial. Here we list the contributions that appeared in this special issue:</p><ol><li>Flow-Acoustic Properties of Elliptic-Cylinder Waveguides and Enclosures (by Morten Willatzen&nbsp;and&nbsp;Lok C Lew Yan Voon);</li><li>Detection of time of arrival of ultrasonic pulses (by Carl D Latino,&nbsp;Niels Lervad Andersen&nbsp;and&nbsp;Frands Voss);</li><li>Distance of Sample Measurement Points to Prototype Catalog Curve (by Poul G Hjorth,&nbsp;Mirza Karamehmedović,&nbsp;John Perram,&nbsp;Robert Piché,&nbsp;Ulrik Ullum&nbsp;and&nbsp;Michael Krätzschmar);</li><li>Prediction of rotating stall within an impeller of a centrifugal pump based on spectral analysis of pressure and velocity data (by Ulrik Ullum,&nbsp;Jennifer Wright,&nbsp;Oguz Dayi,&nbsp;Ali Ecder,&nbsp;Azzeddine Soulaimani,&nbsp;Robert Piché&nbsp;and&nbsp;Hemant Kamath);</li><li>Determination of Distance from a 2D Picture (by J Gravesen,&nbsp;B Lassen,&nbsp;R Melnik,&nbsp;B Picasso,&nbsp;R Piché,&nbsp;N Radulovic&nbsp;and&nbsp;L X Wang);</li><li>Arrival-Time Detection and Ultrasonic Flow-Meter Applications (by Morten Willatzen,&nbsp;Peter Søndergaard,&nbsp;Carl Latino,&nbsp;Frands Voss,&nbsp;Niels Lervad Andersen,&nbsp;Martin Brokate&nbsp;and&nbsp;Aicha Bounaim);</li><li>Exhaustive global grid search in computing receiver position from modular satellite range measurements (by Niilo Sirola);</li><li>Mathematical analysis of the dynamic flow characteristic in a damping nozzle for a pressure transmitter (by P D Howel,&nbsp;A A Lacey,&nbsp;J Vogler&nbsp;and&nbsp;A Vonsild).</li></ol>",
-    "authors": [
-      245,
-      182
-    ]
+    "authors": [245, 182]
   },
   {
     "id": 69,
@@ -381,10 +320,7 @@
     "code": "19",
     "link": null,
     "extraInfo": "<p>This is a special issue on “Modelling coupled and transport phenomena in nanotechnology”. A detailed description is given in the guest editorial. Here we list the contributions that appeared in this special issue:</p><ol><li>Advanced Approach to Modelling Quantum Well Semiconductor Lasers Based on the Quantum Boltzmann Equation: Green's Function Approach, pp. 463-478(16),&nbsp;by Weetman, Philip; Wartak, Marek S.</li><li>Stochastic Clustering and Self-Organization of Gross Deformation and Phason Activity in Quasicrystals: Modeling and Simulations, pp. 479-486(8), by Mariano, Paolo Maria; Stazi, Furio Lorenzo; Gioffrè, Massimiliano</li><li>Computational Study Investigating the Influence of Long-Range Repulsive Forces on the Collective Behaviour of Particulate Media, pp. 487-496(10), by Antony, S. J.; Sarangi, F.</li><li>Transport, Growth, and Stability of Disturbances in Weakly Rarefied Channel Flows, pp. 497-505(9), by Fedele, Francesco; Hitt, Darren L.</li><li>Modeling Liquid Transport in Fibrous Structures: An Multi-Scale Approach, pp. 506-512(7), by Zhong, Wen; Pan, Ning; Lukas, David</li><li>Comparison of 1-D and 2-D Coupled Models of Gas Dynamics and Heat Transfer for the Laser Ablation of Carbon, pp. 513-524(12), by Mullenix, Nathan; Povitsky, Alex</li><li>Multi-Level Boundary Element Method: Novel Computational Tool for Large-Scale Heat Conduction Simulations, pp. 525-537(13), by Grigoriev, M. M.; Dargush, G. F.</li><li>A Computational–Experimental Thermomechanical Study of Shape Memory Alloy Microcoils and Its Application to the Design of Actuators, pp. 538-550(13), by Velázquez, Ramiro; Hafez, Moustapha; Pissaloux, Edwige; Szewczyk, Jérôme</li><li>Influence of the Metal Contact Size on the Electron Dynamics and Transport Inside the Semiconductor Heterostructure Nanowire, pp. 551-559(9), by Radulovic, Nenad; Willatzen, Morten; Melnik, Roderick V. N.; Lew Yan Voon, Lok C.</li><li>Higher Order Regularization of Anisotropic Geometric Evolution Equations in Three Dimensions, pp. 560-564(5), by Rätz, Andreas; Voigt, Axel</li><li>Inviscid, Viscous, and Turbulent Models of Plume Dynamics for Laser Ablation of Carbon, pp. 565-578(14), by Pathak, Kedar; Povitsky, Alex</li><li>Inclusion of Nonlinear Strain Effects in the Hamiltonian for Nanoscale Semiconductor Structures, pp. 588-597(10), by Lassen, B.; Willatzen, M.; Melnik, R.</li><li>A Thermal Model Based on the Lattice Boltzmann Method for Low Mach Number Compressible Flows, pp. 579-587(9), by Tölke, Jonas</li></ol>",
-    "authors": [
-      245,
-      93
-    ]
+    "authors": [245, 93]
   },
   {
     "id": 68,
@@ -401,11 +337,7 @@
     "code": "20",
     "link": null,
     "extraInfo": "<p>This is a special issue on “Methods of Computational Mechanics for Industry, Science, and Technology”. It covers state-of-the-art advancements in a range of areas in computational solid and fluid mechanics, as well as in modern computational techniques, including high performance computing. Among them (a) Multiscale Considerations in Modeling of Nonlinear Elastomers (by H. T. Banks, Negash G. Medhin, and Gabriella A. Pinter), (b) Computational Modelling of Multi-Physics and Multi-Scale Processes in Parallel (by M. Cross, T. N. Croft, A. K. Slone, A. J. Williams, N. Christakis, M. K. Patel, C. Bailey, and K. Pericleous), (c) Numerical Tracking of Shallow Water Waves by the Unstructured Finite Volume WAF Approximation (by Youssef Loukili and Azzeddine Soulaïmani), (d) An Algorithm for Solving Reactive Advection-Dispersion Problems (by J. Cao and P. K. Kitanidis), (e) Multiple-Domain Analysis of Combustion of a Spherical Fuel Droplet (Ali Ecder and Raif Unsal).</p>",
-    "authors": [
-      245,
-      104,
-      182
-    ]
+    "authors": [245, 104, 182]
   },
   {
     "id": 67,
@@ -422,9 +354,7 @@
     "code": "21",
     "link": null,
     "extraInfo": "<p>The editorial, published by the Society for Industrial and Applied Mathematics (SIAM), is about the symposium on “Mathematical Models and Computational Methods for Nano- and Bio-technologies”. The event consisted of two parts and took place at the ICIAM Congress in Zurich (<span style=\"color: rgb(51, 51, 51);\">ETH Zurich and Zurich University</span>), July 16 - 20, 2007.</p>",
-    "authors": [
-      245
-    ]
+    "authors": [245]
   },
   {
     "id": 66,
@@ -441,11 +371,7 @@
     "code": "22",
     "link": "",
     "extraInfo": "<p>This is a special issue on “Physics-Based Mathematical Models of Low-Dimensional Semiconductor Nanostructures: Analysis and Computation”. A detailed description is given in the guest editorial. Here we list the contributions that appeared in this special issue:</p><ol><li>Electromechanical fields in GaN/AlN wurtzite quantum dots, by D Barettin,&nbsp;B Lassen&nbsp;and&nbsp;M Willatzen</li><li>Theoretical model for the detection of charged proteins with a silicon-on-insulator sensor, by S Birner,&nbsp;C Uhl,&nbsp;M Bayer&nbsp;and&nbsp;P Vogl</li><li>Growth, optical properties and device characterisation of InAs/GaAs quantum dot bilayers, by E Clarke,&nbsp;P Spencer,&nbsp;E Harbord,&nbsp;P Howe&nbsp;and&nbsp;R Murray</li><li>Modeling and simulation of field-effect biosensors (BioFETs) and their deployment on the nanoHUB, by C Heitzinger,&nbsp;R Kennell,&nbsp;G Klimeck,&nbsp;N Mauser,&nbsp;M McLennan&nbsp;and&nbsp;C Ringhofer</li><li>Influence of many-particle interactions on slow light phenomena in quantum dots, by J Houmark,&nbsp;A-P Jauho,&nbsp;T R Nielsen&nbsp;and&nbsp;J Mørk</li><li>Predictive modelling of nanorods synthesis, by H Huang</li><li>3D NEGF quantum transport simulator for modeling ballistic transport in nano FinFETs, by H R Khan,&nbsp;D Mamaluy&nbsp;and&nbsp;D Vasileska</li><li>Electromechanical effects in electron structure for GaN/AlN quantum dots, by B Lassen,&nbsp;M Willatzen,&nbsp;D Barettin,&nbsp;R V N Melnik&nbsp;and&nbsp;L C Lew Yan Voon</li><li>From k.p to atomic calculations applied to semiconductor heterostructures, by L Pedesseau,&nbsp;C Cornet,&nbsp;F Doré,&nbsp;J Even,&nbsp;A Schliwa&nbsp;and&nbsp;D Bimberg</li><li>Dipole nano-laser, by I E Protsenko,&nbsp;A V Uskov,&nbsp;K E Krotova&nbsp;and&nbsp;E P O'Reilly</li><li>Physics-based mathematical models for quantum devices via experimental system identification, by S G Schirmer,&nbsp;D K L Oi&nbsp;and&nbsp;S J Devitt</li><li>Non-Markovian dynamics of charge carriers in quantum dots, by E Vaz&nbsp;and&nbsp;J Kyriakidis</li></ol>",
-    "authors": [
-      176,
-      245,
-      108
-    ]
+    "authors": [176, 245, 108]
   },
   {
     "id": 65,
@@ -462,11 +388,7 @@
     "code": "23",
     "link": null,
     "extraInfo": "<p>This is a special issue on “Mathematical and Computational Models for Transport and Coupled Processes in Micro- and Nanotechnology”. A detailed description is given in the guest editorial. Here we list the contributions that appeared in this special issue:</p><ol><li>Design of Spintronic Materials with Simple Structures, pp. 3652-3660(9), Authors:&nbsp;Fong, C. Y.; Qian, M. C.; Liu, Kai; Yang, L. H.; Pask, J. E.</li><li>Non-Equilibrium Molecular Dynamics Simulation of Nanojet Injection with Adaptive-Spatial Decomposition Parallel Algorithm, pp. 3661-3673(13), Authors:&nbsp;Shin, Hyun-Ho; Yoon, Woong-Sup</li><li>A Numerical Algorithm for Magnetohydrodynamics of Ablated Materials, pp. 3674-3685(12), Authors:&nbsp;Lu, Tianshi; Du, Jian; Samulyak, Roman</li><li>Computational Models in Nano-Bioelectronics: Simulation of Ionic Transport in Voltage Operated Channels, pp. 3686-3694(9), Authors:&nbsp;Longaretti, Massimo; Marino, Giovambattista; Chini, Bice; Jerome, Joseph W.; Sacco, Riccardo</li><li>Efficient Numerical Schemes for Electronic States in Coupled Quantum Dots, pp. 3695-3709(15), Authors:&nbsp;Hwang, Tsung-Min; Wang, Wei-Hua; Wang, Weichung</li><li>Enhanced Thermal Conductivity of Nanofluids Diagnosis by Molecular Dynamics Simulations, pp. 3710-3718(9), Authors:&nbsp;Teng, Kuo-Liang; Hsiao, Pai-Yi; Hung, Shih-Wei; Chieng, Ching-Chang; Liu, Ming-Shen; Lu, Ming-Chang</li><li>Effects of Ampholyte Dissociation Constants on Protein Separation in On-Chip Isoelectric Focusing, pp. 3719-3728(10), Authors:&nbsp;Shim, Jaesool; Dutta, Prashanta; Ivory, Cornelius F.</li><li>Quasicontinuum-Like Reduction of Density Functional Theory Calculations of Nanostructures, pp. 3729-3740(12), Authors:&nbsp;Negrut, Dan; Anitescu, Mihai; El-Azab, Anter; Zapol, Peter</li><li>Effect of Slip Boundary Condition on the Design of Nanoparticle Focusing Lenses, pp. 3741-3748(8), Authors:&nbsp;Cho, Dae-Geun; Na, Jung-Gil; Choi, Jae-Boong; Kim, Young-Jin; Kim, Taesung</li><li>A Penalty Method to Model Particle Interactions in DNA-Laden Flows, pp. 3749-3756(8), Authors:&nbsp;Trebotich, D.; Miller, G. H.; Bybee, M. D.</li><li>An Atomistically Enriched Continuum Model for Nanoscale Contact Mechanics and Its Application to Contact Scaling, pp. 3757-3773(17), Authors:&nbsp;Sauer, Roger A.; Li, Shaofan</li><li>Stiffness and Thickness of Boron-Nitride Nanotubes, pp. 3774-3780(7), Authors:&nbsp;Song, J.; Wu, J.; Huang, Y.; Hwang, K. C.; Jiang, H.</li><li>Method of Submerged Stokeslets for Slip Flow About Ensembles of Particles, pp. 3790-3801(12), Authors:&nbsp;Zhao, Shunliu; Povitsky, Alex</li><li>Kinetic Theory Analysis of Laser Ablation of Carbon, pp. 3781-3789(9), Author:&nbsp;Shusser, Michael</li></ol>",
-    "authors": [
-      245,
-      93,
-      94
-    ]
+    "authors": [245, 93, 94]
   },
   {
     "id": 64,
@@ -483,9 +405,7 @@
     "code": "24",
     "link": null,
     "extraInfo": "<p>Editor-in-Chief Meyers, R.A., Springer, ISBN: 978-0-387-75888-6</p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 63,
@@ -502,9 +422,7 @@
     "code": "25",
     "link": null,
     "extraInfo": "<p>CONTENTS</p><ol><li>Introduction</li><li class=\"ql-indent-1\">Low-dimensional nanostructures in a historical context</li><li class=\"ql-indent-1\">1.2. Low-dimensional nanostructures as multiscale complex systems</li><li>Hierarchy of Mathematical Models for LDSNs</li><li>Studying Properties of LDSNs with Numerical Methodologies</li><li>Incorporating New Effects</li><li class=\"ql-indent-1\">Coupled electromechanical, nonlocal, and boundary effects</li><li class=\"ql-indent-1\">Coupled effects owing to spatiotemporal interactions in LDSNs: transport and control</li><li class=\"ql-indent-1\">Coupled thermoelectric and thermomechanical effects</li><li class=\"ql-indent-1\">Thermopiezoelectric effects in nanostructures</li><li class=\"ql-indent-1\">Magnetic and spin-orbit couplings</li><li class=\"ql-indent-2\">Coupling owing to the magnetic field</li><li class=\"ql-indent-2\">Spin coupling</li><li class=\"ql-indent-1\">Many-body coupled effects</li><li class=\"ql-indent-1\">Higher order nonlinear effects</li><li class=\"ql-indent-1\">Phase transformations and phase stability in nanostructures</li><li>5. Applications of Low-Dimensional Nanostructures and Concluding Remarks</li></ol><p><br></p><p>Editor Nawla, H.S American Scientific Publishers ISBN 1-58883-161-2</p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 62,
@@ -521,11 +439,7 @@
     "code": "26",
     "link": null,
     "extraInfo": "<p>ISBN 978-0-7354-0928-6, ISSN 0094-243X; As 2012 edition by AIP: 344 pages, ISBN-10: 0735409285, ISBN-13: 978-0735409286.</p>",
-    "authors": [
-      64,
-      4,
-      133
-    ]
+    "authors": [64, 4, 133]
   },
   {
     "id": 61,
@@ -542,10 +456,7 @@
     "code": "27",
     "link": null,
     "extraInfo": "<p>Electronic, First Published: December 19, 2012, ISBN: 9783110288537 and Hardcover, First Published: December 13, 2012, ISBN: 9783110273724</p>",
-    "authors": [
-      132,
-      245
-    ]
+    "authors": [132, 245]
   },
   {
     "id": 60,
@@ -562,12 +473,7 @@
     "code": "28",
     "link": "https://www.sciencedirect.com/journal/journal-of-computational-science/vol/4/issue/1",
     "extraInfo": "<p>This is a special issue on “Computational Methods for Hyperbolic Problems”. A detailed description is given in the guest editorial. Here we list the contributions that appeared in this special issue:</p><ol><li>Pseudospectral methods for Boussinesq-type equations in an annular domain with applications to mid-sized lakes, by D.T. Steinmoeller, M. Stastna, K.G. Lamb</li><li>v&nbsp;Central schemes for the modified Buckley–Leverett equation, by Ying Wang, Chiu-Yen Kao</li><li>A discontinuous Galerkin method for solutions of the Euler equations on Cartesian grids with embedded geometries, by Ruibin Qin, Lilia Krivodonova</li><li>Numerical solutions to shock reflection and shock interaction problems for the self-similar transonic two-dimensional nonlinear wave systems, by Eun Heui Kim, Chung-Min Lee</li><li>Efficient determination of the critical parameters and the statistical quantities for Klein–Gordon and sine-Gordon equations with a singular potential using generalized polynomial chaos methods, by Debananda Chakraborty, Jae-Hun Jung</li><li>Data and range-bounded polynomials in ENO methods, by Martin Berzins</li><li>Two phase simulations of glacier lake outburst flows, by E. Bruce Pitman, Abani K. Patra, Dinesh Kumar, Kouichi Nishimura, Jiro Komori</li><li>Locally divergence-free central discontinuous Galerkin methods for ideal MHD equations, by Sergey Yakovlev, Liwei Xu, Fengyan Li</li><li>Self-similar solutions for the diffraction of weak shocks, by Allen M. Tesdall, John K. Hunter</li><li>A rapid interpolation method of finding vascular CFD solutions with spectral collocation methods, by Jae-Hun Jung, Joseph Lee, Kenneth R. Hoffmann, Todd Dorazio, E. Bruce Pitman</li><li>On the numerical approximation of one-dimensional nonconservative hyperbolic systems, by N. Chalmers, E. Lorin</li></ol>",
-    "authors": [
-      62,
-      63,
-      128,
-      245
-    ]
+    "authors": [62, 63, 128, 245]
   },
   {
     "id": 59,
@@ -584,10 +490,7 @@
     "code": "29",
     "link": null,
     "extraInfo": "<p>ISBN 978-1-4614-5388-8, Springer</p>",
-    "authors": [
-      4,
-      64
-    ]
+    "authors": [4, 64]
   },
   {
     "id": 58,
@@ -604,10 +507,7 @@
     "code": "30",
     "link": null,
     "extraInfo": "<p>Editor-in-Chief Hetnarski, R., Springer, ISBN: 978-94-007-2738-0</p>",
-    "authors": [
-      131,
-      4
-    ]
+    "authors": [131, 4]
   },
   {
     "id": 57,
@@ -624,9 +524,7 @@
     "code": "31",
     "link": null,
     "extraInfo": "<p>Roderick Melnik is the Encyclopedia Section Editor.</p><p><br></p><p>This editorial section on “Transient thermoelastic waves and dynamic problems, generation and propagation” includes the following entries:</p><ol><li>Lamb Waves in Homogeneous Isotropic Thermoelastic Plates by J. N. Sharma</li><li>Surface Wave Propagation in a Thermoelastic Half-Space by Tsolo P. Ivanov,&nbsp;Radijanka Savova</li><li>(a) Inhomogeneous Plane Waves in Thermoelasticity and (b) Acceleration Wave Propagation in Inhomogeneous Heat-Conducting Rods by Nigel H. Scott</li><li>Thermoelastic Waves in Thin Bodies by Shih-Ming Hsu,&nbsp;Ching-Chung Yin&nbsp;</li><li>Propagation of Shock Waves in Thermoelastic Solids in View of Singular Surfaces by Tekin Gültop,&nbsp;Bahadir Alyavuz&nbsp;</li><li>(a) Ellipticity Condition and Acceleration Waves in Nonlinear Thermoelastic Solids and (b) Acceleration Waves in Nonlinear Thermoelastic Micropolar Media by Victor A. Eremeyev&nbsp;</li><li>Soliton-Like Thermoelastic Waves by Dmitry Strunin,&nbsp;Roderick Melnik&nbsp;</li><li>Acceleration Waves in Thermoelastic Materials with Voids by Brian Straughan&nbsp;</li><li>Thermoelastic Waves at an Interface Between Two Solids by Baljeet Singh&nbsp;</li><li>Wave Propagation in the Two-Temperature Theory of Thermoelasticity by Hamdy M. Youssef&nbsp;</li><li>(a) Harmonic Waves in an Anisotropic Medium Generated by Heat Sources Distributed Along the Plane, (b) Ray Expansion Theory, (c) Hyperbolic Thermoelasticity, Transient Dynamic Contact Problems, (d) D’Alembert Method in Dynamic Problems of Thermoelasticity, (e) Transient Thermoelastic Rayleigh Waves on the Surfaces of Bodies of Revolution, (f) Boundary-Value Problems Resulting in Thermoelastic Shock Wave Propagation, (g) Thermal Shock upon Thin-Walled Beams of Open Profile, (h) Harmonic Waves in an Anisotropic Medium Generated by Heat Sources Distributed Along the Plane, (i) Ray Method for Solving Boundary-Value Problems of Anisotropic Thermoelasticity with Thermal Relaxation by Yury A. Rossikhin,&nbsp;Marina V. Shitikova&nbsp;</li><li>Dynamic Micropolar Thermoelasticity by Janusz Dyszlewicz,&nbsp;Maciej Lewandowski&nbsp;</li><li>Skin Burn Injury Prediction by Weizhong Dai&nbsp;</li><li>Acceleration Waves in Layers of Isotropic Solids at Finite Temperatures by Carmela Currò,&nbsp;Giovanna Valenti&nbsp;</li><li>Thermoelastic Stresses, Variational Methods by Meir Shillor&nbsp;</li><li>Second Sound Waves in Solids by Swantje Bargmann&nbsp;</li><li>Harmonic Vibrations in Thermoelastic Cylinders by Vincenzo Tibullo&nbsp;</li></ol><p><br></p><p>Editor-in-Chief Hetnarski, R., Springer, 2014, LXXXIII, 6643 pages, in 11 volumes</p><p><br></p><p>ISBN: 978-94-007-2738-0, 2014.</p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 56,
@@ -643,13 +541,7 @@
     "code": "32",
     "link": "https://www.springer.com/gp/book/9783319123066",
     "extraInfo": "",
-    "authors": [
-      129,
-      128,
-      42,
-      4,
-      130
-    ]
+    "authors": [129, 128, 42, 4, 130]
   },
   {
     "id": 55,
@@ -666,9 +558,7 @@
     "code": "33",
     "link": "https://www.wiley.com/en-ca/Mathematical+and+Computational+Modeling%3A+With+Applications+in+Natural+and+Social+Sciences%2C+Engineering%2C+and+the+Arts-p-9781118853986",
     "extraInfo": "<p>ISBN-10: 1118853989 ISBN-13: 978-1118853986</p>",
-    "authors": [
-      4
-    ]
+    "authors": [4]
   },
   {
     "id": 54,
@@ -685,14 +575,7 @@
     "code": "34",
     "link": null,
     "extraInfo": "<p>ISBN-10: 3319303775 ISBN-13: 978-3319303772</p>",
-    "authors": [
-      43,
-      126,
-      123,
-      42,
-      4,
-      127
-    ]
+    "authors": [43, 126, 123, 42, 4, 127]
   },
   {
     "id": 51,
@@ -709,11 +592,7 @@
     "code": "35",
     "link": null,
     "extraInfo": "<p>ISBN 978-1-4939-6968-5</p>",
-    "authors": [
-      4,
-      42,
-      43
-    ]
+    "authors": [4, 42, 43]
   },
   {
     "id": 52,
@@ -730,11 +609,7 @@
     "code": "36",
     "link": null,
     "extraInfo": "<p>ISBN 978-3-319-76598-3</p>",
-    "authors": [
-      41,
-      125,
-      4
-    ]
+    "authors": [41, 125, 4]
   },
   {
     "id": 53,
@@ -751,13 +626,7 @@
     "code": "37",
     "link": null,
     "extraInfo": "<p>ISBN 978-3-319-99718-6</p>",
-    "authors": [
-      122,
-      123,
-      42,
-      4,
-      124
-    ]
+    "authors": [122, 123, 42, 4, 124]
   },
   {
     "id": 50,
@@ -774,13 +643,7 @@
     "code": "38",
     "link": "https://www.springer.com/gp/book/9783030635909",
     "extraInfo": "<p>Hardcover ISBN 978-3-030-63590-9 eBook ISBN 978-3-030-63591-6 Waterloo, Canada, August 18–23, 2019</p>",
-    "authors": [
-      122,
-      123,
-      42,
-      4,
-      124
-    ]
+    "authors": [122, 123, 42, 4, 124]
   },
   {
     "id": 50,
@@ -789,18 +652,14 @@
     "doi": "",
     "volume": "",
     "type": "Book/Editorial",
-    "extraInfo": "Mathematical modeling in biomedical engineering plays a vital role in understanding complex multidisciplinary interactions and processes at the organ, tissue and cellular scales. Mathematical modeling serves as a low-cost but powerful alternative for optimizing, predicting, and improving existing healthcare protocols, systems and equipment. This Special Issue aims at collecting original research articles related to the advancement and development of novel mathematical models broadly applied across a wide range of biomedical engineering and medical physics, including diagnostic, therapeutic, imaging, and interventional applications.",
-    "pages": "",
+    "extraInfo": "<p>ISBN 978-3-0365-9327-2</p>Mathematical modeling in biomedical engineering plays a vital role in understanding complex multidisciplinary interactions and processes at the organ, tissue and cellular scales. Mathematical modeling serves as a low-cost but powerful alternative for optimizing, predicting, and improving existing healthcare protocols, systems and equipment. This Special Issue aims at collecting original research articles related to the advancement and development of novel mathematical models broadly applied across a wide range of biomedical engineering and medical physics, including diagnostic, therapeutic, imaging, and interventional applications.",
+    "pages": "188 pages",
     "journal": "Bioengineering",
     "shortcode": "EB-39",
     "pdf": "/research/publications/EB-39.pdf",
     "code": "39",
     "link": "",
-    "authors": [
-      9,
-      4,
-      274
-    ]
+    "authors": [9, 4, 274]
   },
   {
     "id": 50,
@@ -816,17 +675,12 @@
     "pdf": "/research/publications/EB-40.pdf",
     "code": "40",
     "link": "",
-    "authors": [
-      9,
-      4,
-      275,
-      276
-    ]
+    "authors": [9, 4, 275, 276]
   },
   {
     "id": 50,
     "title": "Recent Advances in the Application of Mathematical and Computational Models in Biomedical Science and Engineering 2.0",
-    "year": "2024",
+    "year": "2025",
     "doi": "",
     "volume": "",
     "type": "Book/Editorial",
@@ -837,16 +691,12 @@
     "pdf": "/research/publications/EB-41.pdf",
     "code": "41",
     "link": "",
-    "authors": [
-      9,
-      4,
-      274
-    ]
+    "authors": [9, 4, 274]
   },
   {
     "id": 50,
     "title": "Addressing Modern Challenges in the Mathematical, Statistical, and Computational Sciences",
-    "year": "2024",
+    "year": "2025",
     "doi": "",
     "volume": "",
     "type": "Book/Editorial",
@@ -857,12 +707,6 @@
     "pdf": "",
     "code": "42",
     "link": "https://www.springer.com/",
-    "authors": [
-      277,
-      122,
-      42,
-      4,
-      123
-    ]
+    "authors": [277, 122, 42, 4, 123]
   }
 ]
