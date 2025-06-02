@@ -1,8 +1,6 @@
 {
-  "name": "test-4",
+  "name": "rmelnik-m3ai",
   "version": "1.0.0",
-  "description": "My primo Nuxt.js project",
-  "author": "Arman Aryanpour",
   "private": true,
   "scripts": {
     "dev": "nuxt",
